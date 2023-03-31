@@ -19,6 +19,7 @@ The column value will be ignored for repeat sections.
 
 export const Formats: FormatList = [
 
+
 	// S/V Singles
 	///////////////////////////////////////////////////////////////////
 
@@ -54,11 +55,6 @@ export const Formats: FormatList = [
 	},
 	{
 		name: "[Gen 9] OU",
-		threads: [
-			`&bullet; <a href="https://www.smogon.com/forums/threads/3710915/">SV OU Metagame Discussion</a>`,
-			`&bullet; <a href="https://www.smogon.com/forums/threads/3712513/">SV OU Sample Teams</a>`,
-			`&bullet; <a href="https://www.smogon.com/forums/threads/3712493/">SV OU Viability Rankings</a>`,
-		],
 
 		mod: 'gen9',
 		ruleset: ['Standard'],
@@ -68,7 +64,6 @@ export const Formats: FormatList = [
 		name: "[Gen 9] Ubers",
 		threads: [
 			`&bullet; <a href="https://www.smogon.com/forums/threads/3710870/">Ubers Metagame Discussion</a>`,
-			`&bullet; <a href="https://www.smogon.com/forums/threads/3712978/">Ubers Viability Rankings</a>`,
 		],
 
 		mod: 'gen9',
@@ -79,7 +74,6 @@ export const Formats: FormatList = [
 		name: "[Gen 9] UU",
 		threads: [
 			`&bullet; <a href="https://www.smogon.com/forums/threads/3713709/">UU Metagame Discussion</a>`,
-			`&bullet; <a href="https://www.smogon.com/forums/threads/3716435/">UU Viability Rankings</a>`,
 		],
 
 		mod: 'gen9',
@@ -90,7 +84,6 @@ export const Formats: FormatList = [
 		name: "[Gen 9] RU",
 		threads: [
 			`&bullet; <a href="https://www.smogon.com/forums/threads/3713711/">RU Metagame Discussion</a>`,
-			`&bullet; <a href="https://www.smogon.com/forums/threads/3717138/">RU Viability Rankings</a>`,
 		],
 
 		mod: 'gen9',
@@ -101,7 +94,6 @@ export const Formats: FormatList = [
 		name: "[Gen 9] NU",
 		threads: [
 			`&bullet; <a href="https://www.smogon.com/forums/threads/3715408/">NU Metagame Discussion</a>`,
-			`&bullet; <a href="https://www.smogon.com/forums/threads/3715712/">NU Viability Rankings</a>`,
 		],
 
 		mod: 'gen9',
@@ -119,8 +111,6 @@ export const Formats: FormatList = [
 		name: "[Gen 9] LC",
 		threads: [
 			`&bullet; <a href="https://www.smogon.com/forums/threads/3710868/">Little Cup Metagame Discussion</a>`,
-			`&bullet; <a href="https://www.smogon.com/forums/threads/3712989/">Little Cup Sample Teams</a>`,
-			`&bullet; <a href="https://www.smogon.com/forums/threads/3712664/">Little Cup Viability Rankings</a>`,
 		],
 
 		mod: 'gen9',
@@ -131,8 +121,6 @@ export const Formats: FormatList = [
 		name: "[Gen 9] Monotype",
 		threads: [
 			`&bullet; <a href="https://www.smogon.com/forums/threads/3710724/">Monotype Metagame Discussion</a>`,
-			`&bullet; <a href="https://www.smogon.com/forums/threads/3715794/">Monotype Sample Teams</a>`,
-			`&bullet; <a href="https://www.smogon.com/forums/threads/3714063/">Monotype Viability Rankings</a>`,
 		],
 
 		mod: 'gen9',
@@ -144,7 +132,6 @@ export const Formats: FormatList = [
 		desc: `Bring three Pok&eacute;mon to Team Preview and choose one to battle.`,
 		threads: [
 			`&bullet; <a href="https://www.smogon.com/forums/threads/3710864/">1v1 Metagame Discussion</a>`,
-			`&bullet; <a href="https://www.smogon.com/forums/threads/3712375/">1v1 Viability Rankings</a>`,
 		],
 
 		mod: 'gen9',
@@ -161,7 +148,6 @@ export const Formats: FormatList = [
 		name: "[Gen 9] Anything Goes",
 		threads: [
 			`&bullet; <a href="https://www.smogon.com/forums/threads/3710911/">AG Metagame Discussion</a>`,
-			`&bullet; <a href="https://www.smogon.com/forums/threads/3714177/">AG Viability Rankings</a>`,
 		],
 
 		mod: 'gen9',
@@ -215,7 +201,18 @@ export const Formats: FormatList = [
 		// no restrictions, for serious (other than team preview)
 		ruleset: ['Team Preview', 'Cancel Mod', 'Max Team Size = 24', 'Max Move Count = 24', 'Max Level = 9999', 'Default Level = 100'],
 	},
+	
+	// Custom Formats 
+	///////////////////////////////////////////////////////////////////
+	
+	{
+		name: "[Gen 3] CrossGen OU",
 
+		mod: 'gen3crossgen',
+		ruleset: ['Standard', 'Freeze Clause Mod'],
+		banlist: ['Uber', 'Sand Veil', 'Assist', 'Baton Pass'],
+	},
+	
 	// S/V Doubles
 	///////////////////////////////////////////////////////////////////
 
@@ -939,7 +936,7 @@ export const Formats: FormatList = [
 	},
 	{
 		name: "[Gen 9] Cross Evolution",
-		desc: `Give a Pok&eacute;mon a Pok&eacute;mon name of the next evolution stage as a nickname to inherit stat changes, typing, abilities, and moves from the next stage Pok&eacute;mon.`,
+		desc: `Give a Pok&eacute;mon a Pok&eacute;mon name of the next evolution stage as a nickname to inherit stat changes, typing, abilities, and up to 2 moves from the next stage Pok&eacute;mon.`,
 		threads: [
 			`&bullet; <a href="https://www.smogon.com/forums/threads/3710953/">Cross Evolution</a>`,
 		],
@@ -947,8 +944,7 @@ export const Formats: FormatList = [
 		mod: 'gen9',
 		searchShow: false,
 		ruleset: ['Standard OMs', 'Ability Clause = 2', 'Sleep Moves Clause', 'Min Source Gen = 9'],
-		banlist: ['Scyther', 'Sneasel', 'Ursaring', 'Arena Trap', 'Huge Power', 'Pure Power', 'Shadow Tag', 'Speed Boost', 'Moody', 'King\'s Rock', 'Baton Pass', 'Revival Blessing'],
-		restricted: ['Gallade', 'Gholdengo'],
+		banlist: ['Arena Trap', 'Huge Power', 'Pure Power', 'Shadow Tag', 'Moody', 'King\'s Rock', 'Baton Pass'],
 		onValidateTeam(team) {
 			const names = new Set<ID>();
 			for (const set of team) {
@@ -1740,14 +1736,14 @@ export const Formats: FormatList = [
 			"Chien-Pao", "Chilan Berry", "Chilly Reception", "Choice Band", "Choice Scarf", "Choice Specs", "Cinderace",
 			"Circle Throw", "Clanging Scales", "Clangorous Soul", "Clangorous Soulblaze", "Clear Amulet", "Close Combat",
 			"Cloyster", "Cobalion", "Coil", "Collision Course", "Comatose", "Combat Torque", "Competitive", "Compound Eyes",
-			"Contrary", "Core Enforcer", "Cosmic Power", "Cotton Guard", "Court Change", "Covert Cloak", "Crabhammer",
-			"Cresselia", "Crobat", "Custap Berry", "Dark Pulse", "Darkest Lariat", "Darkinium Z", "Darkrai", "Darmanitan-Galar-Zen",
-			"Darmanitan-Zen", "Decidueye", "Decidueye-Hisui", "Defend Order", "Defiant", "Defog", "Delphox", "Deoxys",
-			"Deoxys-Attack", "Deoxys-Defense", "Deoxys-Speed", "Desolate Land", "Dialga", "Dialga-Origin", "Diamond Storm",
-			"Diancie", "Diancie-Mega", "Dire Claw", "Disable", "Discharge", "Dondozo", "Doom Desire", "Double Iron Bash",
-			"Download", "Draco Meteor", "Draco Plate", "Dragapult", "Dragon Ascent", "Dragon Dance", "Dragon Darts",
-			"Dragon Energy", "Dragon Hammer", "Dragon Pulse", "Dragon Tail", "Dragonite", "Dragonium Z", "Drain Punch",
-			"Dread Plate", "Drill Peck", "Drizzle", "Drought", "Drum Beating", "Dry Skin", "Duraludon", "Dusknoir",
+			"Contrary", "Core Enforcer", "Corrosive Gas", "Cosmic Power", "Cotton Guard", "Court Change", "Covert Cloak",
+			"Crabhammer", "Cresselia", "Crobat", "Custap Berry", "Dark Pulse", "Darkest Lariat", "Darkinium Z", "Darkrai",
+			"Darmanitan-Galar-Zen", "Darmanitan-Zen", "Decidueye", "Decidueye-Hisui", "Defend Order", "Defiant", "Defog",
+			"Delphox", "Deoxys", "Deoxys-Attack", "Deoxys-Defense", "Deoxys-Speed", "Desolate Land", "Dialga", "Dialga-Origin",
+			"Diamond Storm", "Diancie", "Diancie-Mega", "Dire Claw", "Disable", "Discharge", "Dondozo", "Doom Desire",
+			"Double Iron Bash", "Download", "Draco Meteor", "Draco Plate", "Dragapult", "Dragon Ascent", "Dragon Dance",
+			"Dragon Darts", "Dragon Energy", "Dragon Hammer", "Dragon Pulse", "Dragon Tail", "Dragonite", "Dragonium Z",
+			"Drain Punch", "Dread Plate", "Drill Peck", "Drizzle", "Drought", "Drum Beating", "Dry Skin", "Duraludon", "Dusknoir",
 			"Dynamax Cannon", "Earth Eater", "Earth Plate", "Earth Power", "Earthquake", "Eerie Spell", "Effect Spore",
 			"Eject Pack", "Electivire", "Electric Surge", "Electrium Z", "Electro Drift", "Emboar", "Empoleon", "Enamorus",
 			"Enamorus-Therian", "Encore", "Energy Ball", "Entei", "Eruption", "Espeon", "Esper Wing", "Eternatus",
@@ -1757,10 +1753,10 @@ export const Formats: FormatList = [
 			"Flame Body", "Flame Charge", "Flame Plate", "Flamethrower", "Flare Blitz", "Flareon", "Flash Cannon", "Fleur Cannon",
 			"Flip Turn", "Floaty Fall", "Florges", "Flower Trick", "Fluffy", "Flutter Mane", "Flyinium Z", "Focus Blast",
 			"Focus Sash", "Forewarn", "Foul Play", "Freeze-Dry", "Freezing Glare", "Freezy Frost", "Frost Breath", "Fur Coat",
-			"Fusion Bolt", "Fusion Flare", "Future Sight", "G-Max Cannonade", "G-Max Centiferno", "G-Max Resonance", "G-Max Steelsurge",
+			"Fusion Bolt", "Fusion Flare", "Future Sight", "G-Max Cannonade", "G-Max Resonance", "G-Max Steelsurge",
 			"G-Max Stonesurge", "G-Max Sweetness", "G-Max Vine Lash", "G-Max Volcalith", "G-Max Wildfire", "G-Max Wind Rage",
 			"Gallade-Mega", "Garchomp", "Garchomp-Mega", "Gardevoir-Mega", "Gear Grind", "Genesect", "Genesis Supernova",
-			"Gengar-Mega", "Gholdengo", "Ghostium Z", "Giga Drain", "Gigaton Hammer", "Giratina", "Giratina-Origin",
+			"Gengar-Mega", "Geomancy", "Gholdengo", "Ghostium Z", "Giga Drain", "Gigaton Hammer", "Giratina", "Giratina-Origin",
 			"Glaceon", "Glacial Lance", "Glaive Rush", "Glalie-Mega", "Glare", "Glastrier", "Glimmora", "Glitzy Glow", "Gogoat",
 			"Golisopod", "Good as Gold", "Goodra", "Goodra-Hisui", "Gooey", "Gorilla Tactics", "Grassium Z", "Grassy Surge",
 			"Grav Apple", "Great Tusk", "Greninja", "Greninja-Ash", "Groudon", "Groudon-Primal", "Groundium Z",
@@ -1804,7 +1800,7 @@ export const Formats: FormatList = [
 			"Samurott-Hisui", "Sandsear Storm", "Sandy Shocks", "Sap Sipper", "Sappy Seed", "Scald", "Sceptile", "Sceptile-Mega",
 			"Scizor-Mega", "Scope Lens", "Scream Tail", "Searing Shot", "Searing Sunraze Smash", "Secret Sword", "Seed Flare",
 			"Seismic Toss", "Serene Grace", "Serperior", "Shadow Ball", "Shadow Bone", "Shadow Shield", "Shadow Sneak",
-			"Shadow Tag", "Sharpedo-Mega", "Shaymin", "Shaymin-Sky", "Shed Tail", "Sheer Force", "Shell Side Arm",
+			"Shadow Strike", "Shadow Tag", "Sharpedo-Mega", "Shaymin", "Shaymin-Sky", "Shed Tail", "Sheer Force", "Shell Side Arm",
 			"Shell Smash", "Shield Dust", "Shift Gear", "Silk Scarf", "Silk Trap", "Silvally", "Simple", "Sinister Arrow Raid",
 			"Sitrus Berry", "Sizzly Slide", "Skeledirge", "Sky Plate", "Slack Off", "Slaking", "Sleep Powder", "Slither Wing",
 			"Slowbro-Mega", "Sludge Bomb", "Sludge Wave", "Snarl", "Snipe Shot", "Snorlax", "Soft-Boiled", "Solgaleo",
@@ -1817,9 +1813,9 @@ export const Formats: FormatList = [
 			"Surging Strikes", "Swampert", "Swampert-Mega", "Sword of Ruin", "Swords Dance", "Sylveon", "Synthesis",
 			"Tablets of Ruin", "Tail Glow", "Tangrowth", "Tapu Bulu", "Tapu Fini", "Tapu Koko", "Tapu Lele", "Taunt",
 			"Techno Blast", "Teleport", "Tera Blast", "Teravolt", "Terrakion", "Thick Fat", "Thousand Arrows", "Thousand Waves",
-			"Throat Spray", "Thunder Cage", "Thunder Wave", "Thunder", "Thunderbolt", "Thunderous Kick", "Thundurus", "Thundurus-Therian",
-			"Tidy Up", "Ting-Lu", "Tinted Lens", "Togekiss", "Topsy-Turvy", "Torch Song", "Tornadus", "Tornadus-Therian", "Torterra",
-			"Tough Claws", "Toxic Debris", "Toxic Plate", "Toxic Spikes", "Toxic", "Tri Attack", "Triage", "Triple Arrows",
+			"Throat Spray", "Thunder Cage", "Thunder Wave", "Thunder", "Thunderbolt", "Thunderous Kick", "Thundurus",
+			"Thundurus-Therian", "Tidy Up", "Ting-Lu", "Tinted Lens", "Togekiss", "Torch Song", "Tornadus", "Tornadus-Therian",
+			"Torterra", "Tough Claws", "Toxic Plate", "Toxic Spikes", "Toxic", "Tri Attack", "Triage", "Triple Arrows",
 			"Triple Axel", "Turboblaze", "Type: Null", "Typhlosion", "Typhlosion-Hisui", "Tyranitar", "Tyranitar-Mega", "U-turn",
 			"Umbreon", "Unaware", "Unburden", "Ursaluna", "Urshifu", "Urshifu-Rapid-Strike", "Uxie", "V-create", "Vanilluxe",
 			"Vaporeon", "Venusaur", "Venusaur-Mega", "Vessel of Ruin", "Victini", "Victory Dance", "Virizion", "Volcanion",
