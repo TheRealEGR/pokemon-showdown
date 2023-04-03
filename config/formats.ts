@@ -3948,7 +3948,7 @@ export const Formats: FormatList = [
 		mod: 'gen2',
 		searchShow: false,
 		ruleset: ['[Gen 2] UU'],
-		banlist: ['OU', 'UU', 'Agility + Baton Pass'],
+		banlist: ['UU', 'RUBL' 'Agility + Baton Pass'],
 		unbanlist: ['Mean Look + Baton Pass', 'Spider Web + Baton Pass'],
 	},
 	{
@@ -3959,6 +3959,16 @@ export const Formats: FormatList = [
 		searchShow: false,
 		ruleset: ['[Gen 2] RU'],
 		banlist: ['RU', 'NUBL'],
+		unbanlist: ['Agility + Baton Pass'],
+	},
+	{
+		name: "[Gen 2] PU",
+		threads: [`&bullet; <a href="https://www.smogon.com/forums/threads/3642565/">GSC NU</a>`],
+
+		mod: 'gen2',
+		searchShow: false,
+		ruleset: ['[Gen 2] NU'],
+		banlist: ['NU', 'PUBL'],
 		unbanlist: ['Agility + Baton Pass'],
 	},
 	{
