@@ -6,7 +6,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 		tier: "NFE",
 	},
 	venusaur: {
-		tier: "UUBL",
+		tier: "UU",
 	},
 	charmander: {
 		tier: "LC",
@@ -75,7 +75,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 		tier: "LC",
 	},
 	pikachu: {
-		tier: "UU",
+		tier: "NU",
 	},
 	raichu: {
 		tier: "NUBL",
@@ -144,7 +144,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 		tier: "NU",
 	},
 	vileplume: {
-		tier: "UU",
+		tier: "NU",
 	},
 	bellossom: {
 		tier: "UU",
@@ -480,7 +480,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 		tier: "UU",
 	},
 	aerodactyl: {
-		tier: "UUBL",
+		tier: "UU",
 	},
 	snorlax: {
 		tier: "OU",
