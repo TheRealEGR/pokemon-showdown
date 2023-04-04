@@ -1428,8 +1428,7 @@ meowth: {
 		"spe": 90
 	},
 	"abilities": {
-		"0": "Pickup",
-		"1": 
+		"0": "Pickup"
 	},
 	"weightkg": 4.2,
 	"evos": [
@@ -1455,7 +1454,7 @@ persian: {
 	},
 	"abilities": {
 		"0": "Limber",
-		"1": 
+		"1": "Pickup"
 	},
 	"weightkg": 32,
 	"prevo": "Meowth",
@@ -1533,7 +1532,7 @@ mankey: {
 	},
 	"abilities": {
 		"0": "Vital Spirit",
-		"1": 
+		"1": "Inner Focus"
 	},
 	"weightkg": 28,
 	"evos": [
@@ -1559,7 +1558,7 @@ primeape: {
 	},
 	"abilities": {
 		"0": "Vital Spirit",
-		"1": 
+		"1": "Inner Focus"
 	},
 	"weightkg": 32,
 	"prevo": "Mankey",
@@ -1852,8 +1851,7 @@ machoke: {
 		"spe": 45
 	},
 	"abilities": {
-		"0": "Guts",
-		"1": 
+		"0": "Guts"
 	},
 	"weightkg": 70.5,
 	"prevo": "Machop",
@@ -1884,8 +1882,7 @@ machamp: {
 		"spe": 55
 	},
 	"abilities": {
-		"0": "Guts",
-		"1": 
+		"0": "Guts"
 	},
 	"weightkg": 130,
 	"prevo": "Machoke",
@@ -1893,37 +1890,6 @@ machamp: {
 	"eggGroups": [
 		"Human-Like"
 	],
-	"canGigantamax": "G-Max Chi Strike"
-},
-machampgmax: {
-	"num": 68,
-	"name": "Machamp-Gmax",
-	"baseSpecies": "Machamp",
-	"forme": "Gmax",
-	"types": [
-		"Fighting"
-	],
-	"genderRatio": {
-		"M": 0.75,
-		"F": 0.25
-	},
-	"baseStats": {
-		"hp": 90,
-		"atk": 130,
-		"def": 80,
-		"spa": 65,
-		"spd": 85,
-		"spe": 55
-	},
-	"abilities": {
-		"0": "Guts",
-		"1": 
-	},
-	"weightkg": 0,
-	"eggGroups": [
-		"Human-Like"
-	],
-	"changesFrom": "Machamp"
 },
 bellsprout: {
 	"num": 69,
@@ -1941,8 +1907,7 @@ bellsprout: {
 		"spe": 40
 	},
 	"abilities": {
-		"0": "Chlorophyll",
-		"1": 
+		"0": "Chlorophyll"
 	},
 	"weightkg": 4,
 	"evos": [
@@ -1968,8 +1933,7 @@ weepinbell: {
 		"spe": 55
 	},
 	"abilities": {
-		"0": "Chlorophyll",
-		"1": 
+		"0": "Chlorophyll"
 	},
 	"weightkg": 6.4,
 	"prevo": "Bellsprout",
@@ -1997,8 +1961,7 @@ victreebel: {
 		"spe": 70
 	},
 	"abilities": {
-		"0": "Chlorophyll",
-		"1": 
+		"0": "Chlorophyll"
 	},
 	"weightkg": 15.5,
 	"prevo": "Weepinbell",
@@ -2401,8 +2364,7 @@ seel: {
 		"spe": 45
 	},
 	"abilities": {
-		"0": "Thick Fat",
-		"1": 
+		"0": "Thick Fat" 
 	},
 	"weightkg": 90,
 	"evos": [
@@ -2429,8 +2391,7 @@ dewgong: {
 		"spe": 70
 	},
 	"abilities": {
-		"0": "Thick Fat",
-		"1": 
+		"0": "Thick Fat"
 	},
 	"weightkg": 120,
 	"prevo": "Seel",
@@ -2506,8 +2467,7 @@ shellder: {
 		"spe": 40
 	},
 	"abilities": {
-		"0": "Shell Armor",
-		"1": 
+		"0": "Shell Armor"
 	},
 	"weightkg": 4,
 	"evos": [
@@ -2533,8 +2493,7 @@ cloyster: {
 		"spe": 70
 	},
 	"abilities": {
-		"0": "Shell Armor",
-		"1": 
+		"0": "Shell Armor"
 	},
 	"weightkg": 132.5,
 	"prevo": "Shellder",
@@ -2749,33 +2708,6 @@ kingler: {
 	"eggGroups": [
 		"Water 3"
 	],
-	"canGigantamax": "G-Max Foam Burst"
-},
-kinglergmax: {
-	"num": 99,
-	"name": "Kingler-Gmax",
-	"baseSpecies": "Kingler",
-	"forme": "Gmax",
-	"types": [
-		"Water"
-	],
-	"baseStats": {
-		"hp": 55,
-		"atk": 130,
-		"def": 115,
-		"spa": 50,
-		"spd": 50,
-		"spe": 75
-	},
-	"abilities": {
-		"0": "Hyper Cutter",
-		"1": "Shell Armor"
-	},
-	"weightkg": 0,
-	"eggGroups": [
-		"Water 3"
-	],
-	"changesFrom": "Kingler"
 },
 voltorb: {
 	"num": 100,
@@ -2846,8 +2778,7 @@ exeggcute: {
 		"spe": 40
 	},
 	"abilities": {
-		"0": "Chlorophyll",
-		"1": 
+		"0": "Chlorophyll"
 	},
 	"weightkg": 2.5,
 	"evos": [
@@ -2873,8 +2804,7 @@ exeggutor: {
 		"spe": 55
 	},
 	"abilities": {
-		"0": "Chlorophyll",
-		"1": 
+		"0": "Chlorophyll"
 	},
 	"weightkg": 120,
 	"prevo": "Exeggcute",
@@ -2951,8 +2881,7 @@ hitmonlee: {
 		"spe": 87
 	},
 	"abilities": {
-		"0": "Limber",
-		"1": 
+		"0": "Limber"
 	},
 	"weightkg": 49.8,
 	"prevo": "Tyrogue",
@@ -3168,8 +3097,7 @@ tangela: {
 		"spe": 60
 	},
 	"abilities": {
-		"0": "Chlorophyll",
-		"1": 
+		"0": "Chlorophyll"
 	},
 	"weightkg": 35,
 	"evos": [
@@ -3630,35 +3558,6 @@ lapras: {
 		"Monster",
 		"Water 1"
 	],
-	"canGigantamax": "G-Max Resonance"
-},
-laprasgmax: {
-	"num": 131,
-	"name": "Lapras-Gmax",
-	"baseSpecies": "Lapras",
-	"forme": "Gmax",
-	"types": [
-		"Water",
-		"Ice"
-	],
-	"baseStats": {
-		"hp": 130,
-		"atk": 85,
-		"def": 80,
-		"spa": 85,
-		"spd": 95,
-		"spe": 60
-	},
-	"abilities": {
-		"0": "Water Absorb",
-		"1": "Shell Armor"
-	},
-	"weightkg": 0,
-	"eggGroups": [
-		"Monster",
-		"Water 1"
-	],
-	"changesFrom": "Lapras"
 },
 ditto: {
 	"num": 132,
@@ -3712,77 +3611,11 @@ eevee: {
 		"Espeon",
 		"Umbreon",
 		"Leafeon",
-		"Glaceon",
-		"Sylveon"
+		"Glaceon"
 	],
 	"eggGroups": [
 		"Field"
 	],
-	"otherFormes": [
-		"Eevee-Starter"
-	],
-	"formeOrder": [
-		"Eevee",
-		"Eevee-Starter"
-	],
-	"canGigantamax": "G-Max Cuddle"
-},
-eeveestarter: {
-	"num": 133,
-	"name": "Eevee-Starter",
-	"baseSpecies": "Eevee",
-	"forme": "Starter",
-	"types": [
-		"Normal"
-	],
-	"genderRatio": {
-		"M": 0.875,
-		"F": 0.125
-	},
-	"baseStats": {
-		"hp": 65,
-		"atk": 75,
-		"def": 70,
-		"spa": 65,
-		"spd": 85,
-		"spe": 75
-	},
-	"abilities": {
-		"0": "Run Away"
-	},
-	"weightkg": 6.5,
-	"eggGroups": [
-		"Undiscovered"
-	]
-},
-eeveegmax: {
-	"num": 133,
-	"name": "Eevee-Gmax",
-	"baseSpecies": "Eevee",
-	"forme": "Gmax",
-	"types": [
-		"Normal"
-	],
-	"genderRatio": {
-		"M": 0.875,
-		"F": 0.125
-	},
-	"baseStats": {
-		"hp": 55,
-		"atk": 55,
-		"def": 50,
-		"spa": 45,
-		"spd": 65,
-		"spe": 55
-	},
-	"abilities": {
-		"0": "Run Away"
-	},
-	"weightkg": 0,
-	"eggGroups": [
-		"Field"
-	],
-	"changesFrom": "Eevee"
 },
 vaporeon: {
 	"num": 134,
@@ -4080,38 +3913,6 @@ snorlax: {
 	"eggGroups": [
 		"Monster"
 	],
-	"canHatch": true,
-	"canGigantamax": "G-Max Replenish"
-},
-snorlaxgmax: {
-	"num": 143,
-	"name": "Snorlax-Gmax",
-	"baseSpecies": "Snorlax",
-	"forme": "Gmax",
-	"types": [
-		"Normal"
-	],
-	"genderRatio": {
-		"M": 0.875,
-		"F": 0.125
-	},
-	"baseStats": {
-		"hp": 160,
-		"atk": 110,
-		"def": 65,
-		"spa": 65,
-		"spd": 110,
-		"spe": 30
-	},
-	"abilities": {
-		"0": "Immunity",
-		"1": "Thick Fat"
-	},
-	"weightkg": 0,
-	"eggGroups": [
-		"Monster"
-	],
-	"changesFrom": "Snorlax"
 },
 articuno: {
 	"num": 144,
@@ -4269,6 +4070,7 @@ dragonite: {
 	},
 	"abilities": {
 		"0": "Inner Focus"
+		"1": "Marvel Scale"
 	},
 	"weightkg": 210,
 	"prevo": "Dragonair",
@@ -4561,8 +4363,7 @@ croconaw: {
 		"spe": 58
 	},
 	"abilities": {
-		"0": "Torrent",
-		"1": 
+		"0": "Torrent"
 	},
 	"weightkg": 25,
 	"prevo": "Totodile",
@@ -4594,8 +4395,7 @@ feraligatr: {
 		"spe": 78
 	},
 	"abilities": {
-		"0": "Torrent",
-		"1": 
+		"0": "Torrent"
 	},
 	"weightkg": 88.8,
 	"prevo": "Croconaw",
@@ -4831,8 +4631,7 @@ crobat: {
 		"spe": 130
 	},
 	"abilities": {
-		"0": "Inner Focus",
-		"1": 
+		"0": "Inner Focus"
 	},
 	"weightkg": 75,
 	"prevo": "Golbat",
@@ -4972,8 +4771,7 @@ cleffa: {
 		"spe": 15
 	},
 	"abilities": {
-		"0": "Cute Charm",
-		"1": 
+		"0": "Cute Charm"
 	},
 	"weightkg": 3,
 	"evos": [
@@ -5003,8 +4801,7 @@ igglybuff: {
 		"spe": 15
 	},
 	"abilities": {
-		"0": "Cute Charm",
-		"1": 
+		"0": "Cute Charm"
 	},
 	"weightkg": 1,
 	"evos": [
@@ -5230,8 +5027,7 @@ bellossom: {
 		"spe": 50
 	},
 	"abilities": {
-		"0": "Chlorophyll",
-		"1": 
+		"0": "Chlorophyll"
 	},
 	"weightkg": 5.8,
 	"prevo": "Gloom",
@@ -5368,8 +5164,7 @@ hoppip: {
 		"spe": 50
 	},
 	"abilities": {
-		"0": "Chlorophyll",
-		"1": 
+		"0": "Chlorophyll"
 	},
 	"weightkg": 0.5,
 	"evos": [
@@ -5396,8 +5191,7 @@ skiploom: {
 		"spe": 80
 	},
 	"abilities": {
-		"0": "Chlorophyll",
-		"1": 
+		"0": "Chlorophyll"
 	},
 	"weightkg": 1,
 	"prevo": "Hoppip",
@@ -5426,8 +5220,7 @@ jumpluff: {
 		"spe": 110
 	},
 	"abilities": {
-		"0": "Chlorophyll",
-		"1": 
+		"0": "Chlorophyll"
 	},
 	"weightkg": 3,
 	"prevo": "Skiploom",
@@ -5615,7 +5408,7 @@ espeon: {
 	},
 	"abilities": {
 		"0": "Synchronize",
-		"1": 
+		"1": "Trace"
 	},
 	"weightkg": 26.5,
 	"prevo": "Eevee",
@@ -5671,8 +5464,7 @@ murkrow: {
 		"spe": 91
 	},
 	"abilities": {
-		"0": "Insomnia",
-		"1": 
+		"0": "Insomnia"
 	},
 	"weightkg": 2.1,
 	"evos": [
@@ -5834,7 +5626,7 @@ wobbuffet: {
 	},
 	"abilities": {
 		"0": "Shadow Tag",
-		"1": 
+		"1": "Synchronize"
 	},
 	"weightkg": 28.5,
 	"prevo": "Wynaut",
@@ -5886,8 +5678,7 @@ pineco: {
 		"spe": 15
 	},
 	"abilities": {
-		"0": "Sturdy",
-		"1": 
+		"0": "Sturdy"
 	},
 	"weightkg": 7.2,
 	"evos": [
@@ -5913,8 +5704,7 @@ forretress: {
 		"spe": 40
 	},
 	"abilities": {
-		"0": "Sturdy",
-		"1": 
+		"0": "Sturdy"
 	},
 	"weightkg": 125.8,
 	"prevo": "Pineco",
@@ -6052,8 +5842,7 @@ granbull: {
 		"spe": 45
 	},
 	"abilities": {
-		"0": "Intimidate",
-		"1": 
+		"0": "Intimidate"
 	},
 	"weightkg": 48.7,
 	"prevo": "Snubbull",
@@ -6103,8 +5892,7 @@ scizor: {
 		"spe": 65
 	},
 	"abilities": {
-		"0": "Swarm",
-		"1": 
+		"0": "Swarm"
 	},
 	"weightkg": 118,
 	"prevo": "Scyther",
@@ -6130,8 +5918,7 @@ shuckle: {
 		"spe": 5
 	},
 	"abilities": {
-		"0": "Sturdy",
-		"1": 
+		"0": "Sturdy"
 	},
 	"weightkg": 20.5,
 	"eggGroups": [
@@ -6205,7 +5992,7 @@ teddiursa: {
 	},
 	"abilities": {
 		"0": "Pickup",
-		"1": 
+		"1": "Guts"
 	},
 	"weightkg": 8.8,
 	"evos": [
@@ -6231,7 +6018,7 @@ ursaring: {
 	},
 	"abilities": {
 		"0": "Guts",
-		"1": 
+		"1": "Pickup"
 	},
 	"weightkg": 125.8,
 	"prevo": "Teddiursa",
@@ -6394,7 +6181,7 @@ remoraid: {
 	},
 	"abilities": {
 		"0": "Hustle",
-		"1": 
+		"1": "Suction Cups"
 	},
 	"weightkg": 12,
 	"evos": [
@@ -6421,7 +6208,7 @@ octillery: {
 	},
 	"abilities": {
 		"0": "Suction Cups",
-		"1": 
+		"1": "Hustle"
 	},
 	"weightkg": 28.5,
 	"prevo": "Remoraid",
@@ -6604,7 +6391,7 @@ phanpy: {
 	},
 	"abilities": {
 		"0": "Pickup",
-		"1": 
+		"1": "Sturdy"
 	},
 	"weightkg": 33.5,
 	"evos": [
@@ -6630,7 +6417,7 @@ donphan: {
 	},
 	"abilities": {
 		"0": "Sturdy",
-		"1": 
+		"1": "Pickup"
 	},
 	"weightkg": 120,
 	"prevo": "Phanpy",
@@ -6655,8 +6442,7 @@ porygon2: {
 		"spe": 60
 	},
 	"abilities": {
-		"0": "Trace",
-		"1": 
+		"0": "Trace"
 	},
 	"weightkg": 32.5,
 	"prevo": "Porygon",
@@ -6684,8 +6470,7 @@ stantler: {
 		"spe": 85
 	},
 	"abilities": {
-		"0": "Intimidate",
-		"1": 
+		"0": "Intimidate"
 	},
 	"weightkg": 71.2,
 	"evos": [
@@ -6710,8 +6495,7 @@ smeargle: {
 		"spe": 75
 	},
 	"abilities": {
-		"0": "Own Tempo",
-		"1": 
+		"0": "Own Tempo"
 	},
 	"weightkg": 58,
 	"eggGroups": [
@@ -6763,8 +6547,7 @@ hitmontop: {
 		"spe": 70
 	},
 	"abilities": {
-		"0": "Intimidate",
-		"1": 
+		"0": "Intimidate"
 	},
 	"weightkg": 48,
 	"prevo": "Tyrogue",
@@ -6791,8 +6574,7 @@ smoochum: {
 		"spe": 65
 	},
 	"abilities": {
-		"0": "Oblivious",
-		"1": 
+		"0": "Oblivious"
 	},
 	"weightkg": 6,
 	"evos": [
@@ -6881,8 +6663,7 @@ miltank: {
 		"spe": 100
 	},
 	"abilities": {
-		"0": "Thick Fat",
-		"1": 
+		"0": "Thick Fat"
 	},
 	"weightkg": 75.5,
 	"eggGroups": [
@@ -7012,8 +6793,7 @@ larvitar: {
 		"spe": 41
 	},
 	"abilities": {
-		"0": "Guts",
-		"1": 
+		"0": "Guts"
 	},
 	"weightkg": 72,
 	"evos": [
@@ -7067,8 +6847,7 @@ tyranitar: {
 		"spe": 61
 	},
 	"abilities": {
-		"0": "Sand Stream",
-		"1": 
+		"0": "Sand Stream"
 	},
 	"weightkg": 202,
 	"prevo": "Pupitar",
@@ -7094,8 +6873,7 @@ lugia: {
 		"spe": 110
 	},
 	"abilities": {
-		"0": "Pressure",
-		"1": 
+		"0": "Pressure" 
 	},
 	"weightkg": 216,
 	"tags": [
@@ -7122,8 +6900,7 @@ hooh: {
 		"spe": 90
 	},
 	"abilities": {
-		"0": "Pressure",
-		"1": 
+		"0": "Pressure" 
 	},
 	"weightkg": 199,
 	"tags": [
@@ -7180,7 +6957,7 @@ treecko: {
 	},
 	"abilities": {
 		"0": "Overgrow",
-		"1": 
+		"1": "Lightning Rod"
 	},
 	"weightkg": 5,
 	"evos": [
@@ -7211,7 +6988,7 @@ grovyle: {
 	},
 	"abilities": {
 		"0": "Overgrow",
-		"1": 
+		"1": "Lightning Rod"
 	},
 	"weightkg": 21.6,
 	"prevo": "Treecko",
@@ -7244,7 +7021,7 @@ sceptile: {
 	},
 	"abilities": {
 		"0": "Overgrow",
-		"1": 
+		"1": "Lightning Rod"
 	},
 	"weightkg": 52.2,
 	"prevo": "Grovyle",
@@ -7459,7 +7236,7 @@ poochyena: {
 	},
 	"abilities": {
 		"0": "Run Away",
-		"1": 
+		"1": "Guts"
 	},
 	"weightkg": 13.6,
 	"evos": [
@@ -7485,7 +7262,7 @@ mightyena: {
 	},
 	"abilities": {
 		"0": "Intimidate",
-		"1": 
+		"1": "Guts"
 	},
 	"weightkg": 37,
 	"prevo": "Poochyena",
@@ -7510,7 +7287,7 @@ zigzagoon: {
 	},
 	"abilities": {
 		"0": "Pickup",
-		"1": 
+		"1": "Run Away"
 	},
 	"weightkg": 17.5,
 	"evos": [
@@ -7536,7 +7313,7 @@ linoone: {
 	},
 	"abilities": {
 		"0": "Pickup",
-		"1": 
+		"1": "Run Away"
 	},
 	"weightkg": 32.5,
 	"prevo": "Zigzagoon",
@@ -7615,8 +7392,7 @@ beautifly: {
 		"spe": 65
 	},
 	"abilities": {
-		"0": "Swarm",
-		"1": 
+		"0": "Swarm"
 	},
 	"weightkg": 28.4,
 	"prevo": "Silcoon",
@@ -7865,8 +7641,7 @@ taillow: {
 		"spe": 85
 	},
 	"abilities": {
-		"0": "Guts",
-		"1": 
+		"0": "Guts"
 	},
 	"weightkg": 2.3,
 	"evos": [
@@ -7892,8 +7667,7 @@ swellow: {
 		"spe": 125
 	},
 	"abilities": {
-		"0": "Guts",
-		"1": 
+		"0": "Guts"
 	},
 	"weightkg": 19.8,
 	"prevo": "Taillow",
@@ -8086,7 +7860,7 @@ masquerain: {
 	},
 	"abilities": {
 		"0": "Intimidate",
-		"1": 
+		"1": "Rain Dish"
 	},
 	"weightkg": 3.6,
 	"prevo": "Surskit",
@@ -8112,7 +7886,7 @@ shroomish: {
 	},
 	"abilities": {
 		"0": "Effect Spore",
-		"1": 
+		"1": "Immunity"
 	},
 	"weightkg": 4.5,
 	"evos": [
@@ -8140,7 +7914,7 @@ breloom: {
 	},
 	"abilities": {
 		"0": "Effect Spore",
-		"1": 
+		"1": "Immunity"
 	},
 	"weightkg": 39.2,
 	"prevo": "Shroomish",
@@ -8271,7 +8045,7 @@ ninjask: {
 	},
 	"abilities": {
 		"0": "Speed Boost",
-		"1": 
+		"1": "Swarm"
 	},
 	"weightkg": 12,
 	"prevo": "Nincada",
@@ -8322,8 +8096,7 @@ whismur: {
 		"spe": 28
 	},
 	"abilities": {
-		"0": "Soundproof",
-		"1": 
+		"0": "Soundproof"
 	},
 	"weightkg": 16.3,
 	"evos": [
@@ -8349,8 +8122,7 @@ loudred: {
 		"spe": 48
 	},
 	"abilities": {
-		"0": "Soundproof",
-		"1": 
+		"0": "Soundproof"
 	},
 	"weightkg": 40.5,
 	"prevo": "Whismur",
@@ -8378,8 +8150,7 @@ exploud: {
 		"spe": 68
 	},
 	"abilities": {
-		"0": "Soundproof",
-		"1": 
+		"0": "Soundproof"
 	},
 	"weightkg": 84,
 	"prevo": "Loudred",
@@ -8524,8 +8295,7 @@ skitty: {
 		"spe": 50
 	},
 	"abilities": {
-		"0": "Cute Charm",
-		"1": 
+		"0": "Cute Charm"
 	},
 	"weightkg": 11,
 	"evos": [
@@ -8555,8 +8325,7 @@ delcatty: {
 		"spe": 90
 	},
 	"abilities": {
-		"0": "Cute Charm",
-		"1": 
+		"0": "Cute Charm"
 	},
 	"weightkg": 32.6,
 	"prevo": "Skitty",
@@ -8583,8 +8352,7 @@ sableye: {
 		"spe": 50
 	},
 	"abilities": {
-		"0": "Keen Eye",
-		"1": 
+		"0": "Keen Eye"
 	},
 	"weightkg": 11,
 	"eggGroups": [
@@ -8714,8 +8482,7 @@ meditite: {
 		"spe": 60
 	},
 	"abilities": {
-		"0": "Pure Power",
-		"1": 
+		"0": "Pure Power"
 	},
 	"weightkg": 11.2,
 	"evos": [
@@ -8741,8 +8508,7 @@ medicham: {
 		"spe": 80
 	},
 	"abilities": {
-		"0": "Pure Power",
-		"1": 
+		"0": "Pure Power"
 	},
 	"weightkg": 31.5,
 	"prevo": "Meditite",
@@ -8890,7 +8656,7 @@ illumise: {
 	},
 	"abilities": {
 		"0": "Oblivious",
-		"1": 
+		"1": "Swarm"
 	},
 	"weightkg": 17.7,
 	"eggGroups": [
@@ -9130,7 +8896,7 @@ camerupt: {
 	},
 	"abilities": {
 		"0": "Magma Armor",
-		"1": 
+		"1": "Oblivious"
 	},
 	"weightkg": 220,
 	"prevo": "Numel",
@@ -9227,8 +8993,7 @@ spinda: {
 		"spe": 60
 	},
 	"abilities": {
-		"0": "Own Tempo",
-		"1": 
+		"0": "Own Tempo"
 	},
 	"weightkg": 5,
 	"eggGroups": [
@@ -9443,7 +9208,7 @@ zangoose: {
 	},
 	"abilities": {
 		"0": "Immunity",
-		"1": 
+		"1": "Guts"
 	},
 	"weightkg": 40.3,
 	"eggGroups": [
@@ -9466,7 +9231,7 @@ seviper: {
 	},
 	"abilities": {
 		"0": "Shed Skin",
-		"1": 
+		"1": "Pressure"
 	},
 	"weightkg": 52.5,
 	"eggGroups": [
@@ -9538,8 +9303,7 @@ barboach: {
 		"spe": 60
 	},
 	"abilities": {
-		"0": "Oblivious",
-		"1": 
+		"0": "Oblivious"
 	},
 	"weightkg": 1.9,
 	"evos": [
@@ -9565,8 +9329,7 @@ whiscash: {
 		"spe": 60
 	},
 	"abilities": {
-		"0": "Oblivious",
-		"1": 
+		"0": "Oblivious"
 	},
 	"weightkg": 23.6,
 	"prevo": "Barboach",
@@ -9703,7 +9466,7 @@ lileep: {
 	},
 	"abilities": {
 		"0": "Suction Cups",
-		"1": 
+		"1": "Water Absorb"
 	},
 	"weightkg": 23.8,
 	"evos": [
@@ -9734,7 +9497,7 @@ cradily: {
 	},
 	"abilities": {
 		"0": "Suction Cups",
-		"1": 
+		"1": "Water Absorb"
 	},
 	"weightkg": 60.4,
 	"prevo": "Lileep",
@@ -9985,7 +9748,7 @@ kecleon: {
 	},
 	"abilities": {
 		"0": "Color Change",
-		"1": 
+		"1": "Oblivious"
 	},
 	"weightkg": 22,
 	"eggGroups": [
@@ -10057,7 +9820,7 @@ duskull: {
 	},
 	"abilities": {
 		"0": "Levitate",
-		"1": 
+		"1": "Pressure"
 	},
 	"weightkg": 15,
 	"evos": [
@@ -10083,7 +9846,7 @@ dusclops: {
 	},
 	"abilities": {
 		"0": "Pressure",
-		"1": 
+		"1": "Levitate"
 	},
 	"weightkg": 30.6,
 	"prevo": "Duskull",
@@ -10183,7 +9946,7 @@ wynaut: {
 	},
 	"abilities": {
 		"0": "Shadow Tag",
-		"1": 
+		"1": "Synchronize"
 	},
 	"weightkg": 14,
 	"evos": [
@@ -10209,8 +9972,7 @@ snorunt: {
 		"spe": 50
 	},
 	"abilities": {
-		"0": "Inner Focus",
-		"1": 
+		"0": "Inner Focus"
 	},
 	"weightkg": 16.8,
 	"evos": [
@@ -10237,8 +9999,7 @@ glalie: {
 		"spe": 80
 	},
 	"abilities": {
-		"0": "Inner Focus",
-		"1": 
+		"0": "Inner Focus"
 	},
 	"weightkg": 256.5,
 	"prevo": "Snorunt",
@@ -10345,8 +10106,7 @@ clamperl: {
 		"spe": 32
 	},
 	"abilities": {
-		"0": "Shell Armor",
-		"1": 
+		"0": "Shell Armor"
 	},
 	"weightkg": 52.5,
 	"evos": [
@@ -10398,8 +10158,7 @@ gorebyss: {
 		"spe": 52
 	},
 	"abilities": {
-		"0": "Swift Swim",
-		"1": 
+		"0": "Swift Swim"
 	},
 	"weightkg": 22.6,
 	"prevo": "Clamperl",
@@ -10457,8 +10216,7 @@ luvdisc: {
 		"spe": 97
 	},
 	"abilities": {
-		"0": "Swift Swim",
-		"1": 
+		"0": "Swift Swim"
 	},
 	"weightkg": 8.7,
 	"eggGroups": [
@@ -10481,7 +10239,7 @@ bagon: {
 	},
 	"abilities": {
 		"0": "Rock Head",
-		"1": 
+		"1": "Pressure"
 	},
 	"weightkg": 42.1,
 	"evos": [
@@ -10507,7 +10265,7 @@ shelgon: {
 	},
 	"abilities": {
 		"0": "Rock Head",
-		"1": 
+		"1": "Pressure"
 	},
 	"weightkg": 110.5,
 	"prevo": "Bagon",
@@ -10536,7 +10294,7 @@ salamence: {
 	},
 	"abilities": {
 		"0": "Intimidate",
-		"1": 
+		"1": "Pressure"
 	},
 	"weightkg": 102.6,
 	"prevo": "Shelgon",
@@ -10562,8 +10320,7 @@ beldum: {
 		"spe": 30
 	},
 	"abilities": {
-		"0": "Clear Body",
-		"1": 
+		"0": "Clear Body"
 	},
 	"weightkg": 95.2,
 	"evos": [
@@ -10590,8 +10347,7 @@ metang: {
 		"spe": 50
 	},
 	"abilities": {
-		"0": "Clear Body",
-		"1": 
+		"0": "Clear Body"
 	},
 	"weightkg": 202.5,
 	"prevo": "Beldum",
@@ -10620,8 +10376,7 @@ metagross: {
 		"spe": 70
 	},
 	"abilities": {
-		"0": "Clear Body",
-		"1": 
+		"0": "Clear Body"
 	},
 	"weightkg": 550,
 	"prevo": "Metang",
@@ -10674,8 +10429,7 @@ regice: {
 		"spe": 50
 	},
 	"abilities": {
-		"0": "Clear Body",
-		"1": 
+		"0": "Clear Body"
 	},
 	"weightkg": 175,
 	"tags": [
@@ -10701,8 +10455,7 @@ registeel: {
 		"spe": 50
 	},
 	"abilities": {
-		"0": "Clear Body",
-		"1": 
+		"0": "Clear Body"
 	},
 	"weightkg": 205,
 	"tags": [
