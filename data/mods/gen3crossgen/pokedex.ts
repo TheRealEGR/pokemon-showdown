@@ -2079,7 +2079,7 @@ graveler: {
 	"eggGroups": [
 		"Mineral"
 	]
-}
+},
 golem: {
 	"num": 76,
 	"name": "Golem",
