@@ -3318,7 +3318,6 @@ mrmime: {
 		"Human-Like"
 	],
 	"canHatch": true,
-	]
 },
 scyther: {
 	"num": 123,
