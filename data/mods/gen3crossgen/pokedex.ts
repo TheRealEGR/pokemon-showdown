@@ -1403,45 +1403,11 @@ dugtrio: {
 		"spe": 120
 	},
 	"abilities": {
-		"0": "Illuminate",
+		"0": ,
 		"1": "Arena Trap"
 	},
 	"weightkg": 33.3,
 	"prevo": "Diglett",
-	"evoLevel": 26,
-	"eggGroups": [
-		"Field"
-	],
-	"otherFormes": [
-		"Dugtrio-Alola"
-	],
-	"formeOrder": [
-		"Dugtrio",
-		"Dugtrio-Alola"
-	]
-},
-dugtrioalola: {
-	"num": 51,
-	"name": "Dugtrio-Alola",
-	"baseSpecies": "Dugtrio",
-	"forme": "Alola",
-	"types": [
-		"Ground",
-		"Steel"
-	],
-	"baseStats": {
-		"hp": 35,
-		"atk": 100,
-		"def": 60,
-		"spa": 50,
-		"spd": 70,
-		"spe": 110
-	},
-	"abilities": {
-		"0": "Illuminate"
-	},
-	"weightkg": 66.6,
-	"prevo": "Diglett-Alola",
 	"evoLevel": 26,
 	"eggGroups": [
 		"Field"
@@ -1463,7 +1429,7 @@ meowth: {
 	},
 	"abilities": {
 		"0": "Pickup",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 4.2,
 	"evos": [
@@ -1471,99 +1437,7 @@ meowth: {
 	],
 	"eggGroups": [
 		"Field"
-	],
-	"otherFormes": [
-		"Meowth-Alola",
-		"Meowth-Galar"
-	],
-	"formeOrder": [
-		"Meowth",
-		"Meowth-Alola",
-		"Meowth-Galar"
-	],
-	"canGigantamax": "G-Max Gold Rush"
-},
-meowthalola: {
-	"num": 52,
-	"name": "Meowth-Alola",
-	"baseSpecies": "Meowth",
-	"forme": "Alola",
-	"types": [
-		"Dark"
-	],
-	"baseStats": {
-		"hp": 40,
-		"atk": 35,
-		"def": 35,
-		"spa": 50,
-		"spd": 40,
-		"spe": 90
-	},
-	"abilities": {
-		"0": "Pickup",
-		"1": "Illuminate"
-	},
-	"weightkg": 4.2,
-	"evos": [
-		"Persian-Alola"
-	],
-	"eggGroups": [
-		"Field"
 	]
-},
-meowthgalar: {
-	"num": 52,
-	"name": "Meowth-Galar",
-	"baseSpecies": "Meowth",
-	"forme": "Galar",
-	"types": [
-		"Steel"
-	],
-	"baseStats": {
-		"hp": 50,
-		"atk": 65,
-		"def": 55,
-		"spa": 40,
-		"spd": 40,
-		"spe": 40
-	},
-	"abilities": {
-		"0": "Pickup",
-		"1": "Illuminate"
-	},
-	"weightkg": 7.5,
-	"evos": [
-		"Perrserker"
-	],
-	"eggGroups": [
-		"Field"
-	]
-},
-meowthgmax: {
-	"num": 52,
-	"name": "Meowth-Gmax",
-	"baseSpecies": "Meowth",
-	"forme": "Gmax",
-	"types": [
-		"Normal"
-	],
-	"baseStats": {
-		"hp": 40,
-		"atk": 45,
-		"def": 35,
-		"spa": 40,
-		"spd": 40,
-		"spe": 90
-	},
-	"abilities": {
-		"0": "Pickup",
-		"1": "Illuminate"
-	},
-	"weightkg": 0,
-	"eggGroups": [
-		"Field"
-	],
-	"changesFrom": "Meowth"
 },
 persian: {
 	"num": 53,
@@ -1581,44 +1455,11 @@ persian: {
 	},
 	"abilities": {
 		"0": "Limber",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 32,
 	"prevo": "Meowth",
 	"evoLevel": 28,
-	"eggGroups": [
-		"Field"
-	],
-	"otherFormes": [
-		"Persian-Alola"
-	],
-	"formeOrder": [
-		"Persian",
-		"Persian-Alola"
-	]
-},
-persianalola: {
-	"num": 53,
-	"name": "Persian-Alola",
-	"baseSpecies": "Persian",
-	"forme": "Alola",
-	"types": [
-		"Dark"
-	],
-	"baseStats": {
-		"hp": 65,
-		"atk": 60,
-		"def": 60,
-		"spa": 75,
-		"spd": 65,
-		"spe": 115
-	},
-	"abilities": {
-		"0": "Illuminate"
-	},
-	"weightkg": 33,
-	"prevo": "Meowth-Alola",
-	"evoType": "levelFriendship",
 	"eggGroups": [
 		"Field"
 	]
@@ -1639,8 +1480,7 @@ psyduck: {
 	},
 	"abilities": {
 		"0": "Damp",
-		"1": "Cloud Nine",
-		"H": "Swift Swim"
+		"1": "Cloud Nine"
 	},
 	"weightkg": 19.6,
 	"evos": [
@@ -1667,8 +1507,7 @@ golduck: {
 	},
 	"abilities": {
 		"0": "Damp",
-		"1": "Cloud Nine",
-		"H": "Swift Swim"
+		"1": "Cloud Nine"
 	},
 	"weightkg": 76.6,
 	"prevo": "Psyduck",
@@ -1694,7 +1533,7 @@ mankey: {
 	},
 	"abilities": {
 		"0": "Vital Spirit",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 28,
 	"evos": [
@@ -1720,10 +1559,13 @@ primeape: {
 	},
 	"abilities": {
 		"0": "Vital Spirit",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 32,
 	"prevo": "Mankey",
+	"evos":[
+		"Annihilape"
+	],
 	"evoLevel": 28,
 	"eggGroups": [
 		"Field"
@@ -1757,46 +1599,6 @@ growlithe: {
 	],
 	"eggGroups": [
 		"Field"
-	],
-	"otherFormes": [
-		"Growlithe-Hisui"
-	],
-	"formeOrder": [
-		"Growlithe",
-		"Growlithe-Hisui"
-	]
-},
-growlithehisui: {
-	"num": 58,
-	"name": "Growlithe-Hisui",
-	"baseSpecies": "Growlithe",
-	"forme": "Hisui",
-	"types": [
-		"Fire",
-		"Rock"
-	],
-	"genderRatio": {
-		"M": 0.75,
-		"F": 0.25
-	},
-	"baseStats": {
-		"hp": 60,
-		"atk": 75,
-		"def": 45,
-		"spa": 65,
-		"spd": 50,
-		"spe": 55
-	},
-	"abilities": {
-		"0": "Intimidate",
-		"1": "Flash Fire"
-	},
-	"weightkg": 22.7,
-	"evos": [
-		"Arcanine-Hisui"
-	],
-	"eggGroups": [
-		"Field"
 	]
 },
 arcanine: {
@@ -1827,46 +1629,6 @@ arcanine: {
 	"evoItem": "Fire Stone",
 	"eggGroups": [
 		"Field"
-	],
-	"otherFormes": [
-		"Arcanine-Hisui"
-	],
-	"formeOrder": [
-		"Arcanine",
-		"Arcanine-Hisui"
-	]
-},
-arcaninehisui: {
-	"num": 59,
-	"name": "Arcanine-Hisui",
-	"baseSpecies": "Arcanine",
-	"forme": "Hisui",
-	"types": [
-		"Fire",
-		"Rock"
-	],
-	"genderRatio": {
-		"M": 0.75,
-		"F": 0.25
-	},
-	"baseStats": {
-		"hp": 95,
-		"atk": 115,
-		"def": 80,
-		"spa": 95,
-		"spd": 80,
-		"spe": 90
-	},
-	"abilities": {
-		"0": "Intimidate",
-		"1": "Flash Fire"
-	},
-	"weightkg": 168,
-	"prevo": "Growlithe-Hisui",
-	"evoType": "useItem",
-	"evoItem": "Fire Stone",
-	"eggGroups": [
-		"Field"
 	]
 },
 poliwag: {
@@ -1885,8 +1647,7 @@ poliwag: {
 	},
 	"abilities": {
 		"0": "Water Absorb",
-		"1": "Damp",
-		"H": "Swift Swim"
+		"1": "Damp"
 	},
 	"weightkg": 12.4,
 	"evos": [
@@ -1912,8 +1673,7 @@ poliwhirl: {
 	},
 	"abilities": {
 		"0": "Water Absorb",
-		"1": "Damp",
-		"H": "Swift Swim"
+		"1": "Damp"
 	},
 	"weightkg": 20,
 	"prevo": "Poliwag",
@@ -1943,8 +1703,7 @@ poliwrath: {
 	},
 	"abilities": {
 		"0": "Water Absorb",
-		"1": "Damp",
-		"H": "Swift Swim"
+		"1": "Damp"
 	},
 	"weightkg": 54,
 	"prevo": "Poliwhirl",
@@ -2043,41 +1802,6 @@ alakazam: {
 	"evoType": "trade",
 	"eggGroups": [
 		"Human-Like"
-	],
-	"otherFormes": [
-		"Alakazam-Mega"
-	],
-	"formeOrder": [
-		"Alakazam",
-		"Alakazam-Mega"
-	]
-},
-alakazammega: {
-	"num": 65,
-	"name": "Alakazam-Mega",
-	"baseSpecies": "Alakazam",
-	"forme": "Mega",
-	"types": [
-		"Psychic"
-	],
-	"genderRatio": {
-		"M": 0.75,
-		"F": 0.25
-	},
-	"baseStats": {
-		"hp": 55,
-		"atk": 50,
-		"def": 55,
-		"spa": 155,
-		"spd": 100,
-		"spe": 135
-	},
-	"abilities": {
-		"0": "Trace"
-	},
-	"weightkg": 48,
-	"eggGroups": [
-		"Human-Like"
 	]
 },
 machop: {
@@ -2099,8 +1823,7 @@ machop: {
 		"spe": 35
 	},
 	"abilities": {
-		"0": "Guts",
-		"1": "Illuminate"
+		"0": "Guts"
 	},
 	"weightkg": 19.5,
 	"evos": [
@@ -2130,7 +1853,7 @@ machoke: {
 	},
 	"abilities": {
 		"0": "Guts",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 70.5,
 	"prevo": "Machop",
@@ -2162,7 +1885,7 @@ machamp: {
 	},
 	"abilities": {
 		"0": "Guts",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 130,
 	"prevo": "Machoke",
@@ -2194,7 +1917,7 @@ machampgmax: {
 	},
 	"abilities": {
 		"0": "Guts",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 0,
 	"eggGroups": [
@@ -2219,7 +1942,7 @@ bellsprout: {
 	},
 	"abilities": {
 		"0": "Chlorophyll",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 4,
 	"evos": [
@@ -2246,7 +1969,7 @@ weepinbell: {
 	},
 	"abilities": {
 		"0": "Chlorophyll",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 6.4,
 	"prevo": "Bellsprout",
@@ -2275,7 +1998,7 @@ victreebel: {
 	},
 	"abilities": {
 		"0": "Chlorophyll",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 15.5,
 	"prevo": "Weepinbell",
@@ -2302,8 +2025,7 @@ tentacool: {
 	},
 	"abilities": {
 		"0": "Clear Body",
-		"1": "Liquid Ooze",
-		"H": "Rain Dish"
+		"1": "Liquid Ooze"
 	},
 	"weightkg": 45.5,
 	"evos": [
@@ -2330,8 +2052,7 @@ tentacruel: {
 	},
 	"abilities": {
 		"0": "Clear Body",
-		"1": "Liquid Ooze",
-		"H": "Rain Dish"
+		"1": "Liquid Ooze"
 	},
 	"weightkg": 55,
 	"prevo": "Tentacool",
@@ -2365,42 +2086,6 @@ geodude: {
 	],
 	"eggGroups": [
 		"Mineral"
-	],
-	"otherFormes": [
-		"Geodude-Alola"
-	],
-	"formeOrder": [
-		"Geodude",
-		"Geodude-Alola"
-	]
-},
-geodudealola: {
-	"num": 74,
-	"name": "Geodude-Alola",
-	"baseSpecies": "Geodude",
-	"forme": "Alola",
-	"types": [
-		"Rock",
-		"Electric"
-	],
-	"baseStats": {
-		"hp": 40,
-		"atk": 80,
-		"def": 100,
-		"spa": 30,
-		"spd": 30,
-		"spe": 20
-	},
-	"abilities": {
-		"0": "Magnet Pull",
-		"1": "Sturdy"
-	},
-	"weightkg": 20.3,
-	"evos": [
-		"Graveler-Alola"
-	],
-	"eggGroups": [
-		"Mineral"
 	]
 },
 graveler: {
@@ -2430,46 +2115,8 @@ graveler: {
 	],
 	"eggGroups": [
 		"Mineral"
-	],
-	"otherFormes": [
-		"Graveler-Alola"
-	],
-	"formeOrder": [
-		"Graveler",
-		"Graveler-Alola"
 	]
-},
-graveleralola: {
-	"num": 75,
-	"name": "Graveler-Alola",
-	"baseSpecies": "Graveler",
-	"forme": "Alola",
-	"types": [
-		"Rock",
-		"Electric"
-	],
-	"baseStats": {
-		"hp": 55,
-		"atk": 95,
-		"def": 115,
-		"spa": 45,
-		"spd": 45,
-		"spe": 35
-	},
-	"abilities": {
-		"0": "Magnet Pull",
-		"1": "Sturdy"
-	},
-	"weightkg": 110,
-	"prevo": "Geodude-Alola",
-	"evoLevel": 25,
-	"evos": [
-		"Golem-Alola"
-	],
-	"eggGroups": [
-		"Mineral"
-	]
-},
+}
 golem: {
 	"num": 76,
 	"name": "Golem",
@@ -2494,41 +2141,6 @@ golem: {
 	"evoType": "trade",
 	"eggGroups": [
 		"Mineral"
-	],
-	"otherFormes": [
-		"Golem-Alola"
-	],
-	"formeOrder": [
-		"Golem",
-		"Golem-Alola"
-	]
-},
-golemalola: {
-	"num": 76,
-	"name": "Golem-Alola",
-	"baseSpecies": "Golem",
-	"forme": "Alola",
-	"types": [
-		"Rock",
-		"Electric"
-	],
-	"baseStats": {
-		"hp": 80,
-		"atk": 120,
-		"def": 130,
-		"spa": 55,
-		"spd": 65,
-		"spe": 45
-	},
-	"abilities": {
-		"0": "Magnet Pull",
-		"1": "Sturdy"
-	},
-	"weightkg": 316,
-	"prevo": "Graveler-Alola",
-	"evoType": "trade",
-	"eggGroups": [
-		"Mineral"
 	]
 },
 ponyta: {
@@ -2547,47 +2159,11 @@ ponyta: {
 	},
 	"abilities": {
 		"0": "Run Away",
-		"1": "Flash Fire",
-		"H": "Flame Body"
+		"1": "Flash Fire"
 	},
 	"weightkg": 30,
 	"evos": [
 		"Rapidash"
-	],
-	"eggGroups": [
-		"Field"
-	],
-	"otherFormes": [
-		"Ponyta-Galar"
-	],
-	"formeOrder": [
-		"Ponyta",
-		"Ponyta-Galar"
-	]
-},
-ponytagalar: {
-	"num": 77,
-	"name": "Ponyta-Galar",
-	"baseSpecies": "Ponyta",
-	"forme": "Galar",
-	"types": [
-		"Psychic"
-	],
-	"baseStats": {
-		"hp": 50,
-		"atk": 85,
-		"def": 55,
-		"spa": 65,
-		"spd": 65,
-		"spe": 90
-	},
-	"abilities": {
-		"0": "Run Away",
-		"1": "Illuminate"
-	},
-	"weightkg": 24,
-	"evos": [
-		"Rapidash-Galar"
 	],
 	"eggGroups": [
 		"Field"
@@ -2609,46 +2185,10 @@ rapidash: {
 	},
 	"abilities": {
 		"0": "Run Away",
-		"1": "Flash Fire",
-		"H": "Flame Body"
+		"1": "Flash Fire"
 	},
 	"weightkg": 95,
 	"prevo": "Ponyta",
-	"evoLevel": 40,
-	"eggGroups": [
-		"Field"
-	],
-	"otherFormes": [
-		"Rapidash-Galar"
-	],
-	"formeOrder": [
-		"Rapidash",
-		"Rapidash-Galar"
-	]
-},
-rapidashgalar: {
-	"num": 78,
-	"name": "Rapidash-Galar",
-	"baseSpecies": "Rapidash",
-	"forme": "Galar",
-	"types": [
-		"Psychic",
-		"Normal"
-	],
-	"baseStats": {
-		"hp": 65,
-		"atk": 100,
-		"def": 70,
-		"spa": 80,
-		"spd": 80,
-		"spe": 105
-	},
-	"abilities": {
-		"0": "Run Away",
-		"1": "Illuminate"
-	},
-	"weightkg": 80,
-	"prevo": "Ponyta-Galar",
 	"evoLevel": 40,
 	"eggGroups": [
 		"Field"
@@ -2681,43 +2221,6 @@ slowpoke: {
 	"eggGroups": [
 		"Monster",
 		"Water 1"
-	],
-	"otherFormes": [
-		"Slowpoke-Galar"
-	],
-	"formeOrder": [
-		"Slowpoke",
-		"Slowpoke-Galar"
-	]
-},
-slowpokegalar: {
-	"num": 79,
-	"name": "Slowpoke-Galar",
-	"baseSpecies": "Slowpoke",
-	"forme": "Galar",
-	"types": [
-		"Psychic"
-	],
-	"baseStats": {
-		"hp": 90,
-		"atk": 65,
-		"def": 65,
-		"spa": 40,
-		"spd": 40,
-		"spe": 15
-	},
-	"abilities": {
-		"0": "Illuminate",
-		"1": "Own Tempo"
-	},
-	"weightkg": 36,
-	"evos": [
-		"Slowbro-Galar",
-		"Slowking-Galar"
-	],
-	"eggGroups": [
-		"Monster",
-		"Water 1"
 	]
 },
 slowbro: {
@@ -2746,71 +2249,6 @@ slowbro: {
 		"Monster",
 		"Water 1"
 	],
-	"otherFormes": [
-		"Slowbro-Mega",
-		"Slowbro-Galar"
-	],
-	"formeOrder": [
-		"Slowbro",
-		"Slowbro-Mega",
-		"Slowbro-Galar"
-	]
-},
-slowbromega: {
-	"num": 80,
-	"name": "Slowbro-Mega",
-	"baseSpecies": "Slowbro",
-	"forme": "Mega",
-	"types": [
-		"Water",
-		"Psychic"
-	],
-	"baseStats": {
-		"hp": 95,
-		"atk": 75,
-		"def": 145,
-		"spa": 115,
-		"spd": 80,
-		"spe": 30
-	},
-	"abilities": {
-		"0": "Shell Armor"
-	},
-	"weightkg": 120,
-	"eggGroups": [
-		"Monster",
-		"Water 1"
-	]
-},
-slowbrogalar: {
-	"num": 80,
-	"name": "Slowbro-Galar",
-	"baseSpecies": "Slowbro",
-	"forme": "Galar",
-	"types": [
-		"Poison",
-		"Psychic"
-	],
-	"baseStats": {
-		"hp": 95,
-		"atk": 100,
-		"def": 95,
-		"spa": 100,
-		"spd": 70,
-		"spe": 30
-	},
-	"abilities": {
-		"0": "Illuminate",
-		"1": "Own Tempo"
-	},
-	"weightkg": 70.5,
-	"prevo": "Slowpoke-Galar",
-	"evoType": "useItem",
-	"evoItem": "Galarica Cuff",
-	"eggGroups": [
-		"Monster",
-		"Water 1"
-	]
 },
 magnemite: {
 	"num": 81,
@@ -2893,41 +2331,6 @@ farfetchd: {
 	"eggGroups": [
 		"Flying",
 		"Field"
-	],
-	"otherFormes": [
-		"Farfetch’d-Galar"
-	],
-	"formeOrder": [
-		"Farfetch’d",
-		"Farfetch’d-Galar"
-	]
-},
-farfetchdgalar: {
-	"num": 83,
-	"name": "Farfetch’d-Galar",
-	"baseSpecies": "Farfetch’d",
-	"forme": "Galar",
-	"types": [
-		"Fighting"
-	],
-	"baseStats": {
-		"hp": 52,
-		"atk": 95,
-		"def": 55,
-		"spa": 58,
-		"spd": 62,
-		"spe": 55
-	},
-	"abilities": {
-		"0": "Illuminate"
-	},
-	"weightkg": 15,
-	"evos": [
-		"Sirfetch’d"
-	],
-	"eggGroups": [
-		"Flying",
-		"Field"
 	]
 },
 doduo: {
@@ -2999,7 +2402,7 @@ seel: {
 	},
 	"abilities": {
 		"0": "Thick Fat",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 90,
 	"evos": [
@@ -3027,7 +2430,7 @@ dewgong: {
 	},
 	"abilities": {
 		"0": "Thick Fat",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 120,
 	"prevo": "Seel",
@@ -3061,41 +2464,6 @@ grimer: {
 	],
 	"eggGroups": [
 		"Amorphous"
-	],
-	"otherFormes": [
-		"Grimer-Alola"
-	],
-	"formeOrder": [
-		"Grimer",
-		"Grimer-Alola"
-	]
-},
-grimeralola: {
-	"num": 88,
-	"name": "Grimer-Alola",
-	"baseSpecies": "Grimer",
-	"forme": "Alola",
-	"types": [
-		"Poison",
-		"Dark"
-	],
-	"baseStats": {
-		"hp": 80,
-		"atk": 80,
-		"def": 50,
-		"spa": 40,
-		"spd": 50,
-		"spe": 25
-	},
-	"abilities": {
-		"0": "Illuminate"
-	},
-	"weightkg": 42,
-	"evos": [
-		"Muk-Alola"
-	],
-	"eggGroups": [
-		"Amorphous"
 	]
 },
 muk: {
@@ -3121,40 +2489,6 @@ muk: {
 	"evoLevel": 38,
 	"eggGroups": [
 		"Amorphous"
-	],
-	"otherFormes": [
-		"Muk-Alola"
-	],
-	"formeOrder": [
-		"Muk",
-		"Muk-Alola"
-	]
-},
-mukalola: {
-	"num": 89,
-	"name": "Muk-Alola",
-	"baseSpecies": "Muk",
-	"forme": "Alola",
-	"types": [
-		"Poison",
-		"Dark"
-	],
-	"baseStats": {
-		"hp": 105,
-		"atk": 105,
-		"def": 75,
-		"spa": 65,
-		"spd": 100,
-		"spe": 50
-	},
-	"abilities": {
-		"0": "Illuminate"
-	},
-	"weightkg": 52,
-	"prevo": "Grimer-Alola",
-	"evoLevel": 38,
-	"eggGroups": [
-		"Amorphous"
 	]
 },
 shellder: {
@@ -3173,7 +2507,7 @@ shellder: {
 	},
 	"abilities": {
 		"0": "Shell Armor",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 4,
 	"evos": [
@@ -3200,7 +2534,7 @@ cloyster: {
 	},
 	"abilities": {
 		"0": "Shell Armor",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 132.5,
 	"prevo": "Shellder",
@@ -3287,66 +2621,7 @@ gengar: {
 	"evoType": "trade",
 	"eggGroups": [
 		"Amorphous"
-	],
-	"otherFormes": [
-		"Gengar-Mega"
-	],
-	"formeOrder": [
-		"Gengar",
-		"Gengar-Mega"
-	],
-	"canGigantamax": "G-Max Terror"
-},
-gengarmega: {
-	"num": 94,
-	"name": "Gengar-Mega",
-	"baseSpecies": "Gengar",
-	"forme": "Mega",
-	"types": [
-		"Ghost",
-		"Poison"
-	],
-	"baseStats": {
-		"hp": 60,
-		"atk": 65,
-		"def": 70,
-		"spa": 150,
-		"spd": 85,
-		"spe": 120
-	},
-	"abilities": {
-		"0": "Shadow Tag"
-	},
-	"weightkg": 40.5,
-	"eggGroups": [
-		"Amorphous"
 	]
-},
-gengargmax: {
-	"num": 94,
-	"name": "Gengar-Gmax",
-	"baseSpecies": "Gengar",
-	"forme": "Gmax",
-	"types": [
-		"Ghost",
-		"Poison"
-	],
-	"baseStats": {
-		"hp": 60,
-		"atk": 65,
-		"def": 60,
-		"spa": 130,
-		"spd": 75,
-		"spe": 110
-	},
-	"abilities": {
-		"0": "Illuminate"
-	},
-	"weightkg": 0,
-	"eggGroups": [
-		"Amorphous"
-	],
-	"changesFrom": "Gengar"
 },
 onix: {
 	"num": 95,
@@ -3390,9 +2665,7 @@ drowzee: {
 		"spe": 42
 	},
 	"abilities": {
-		"0": "Insomnia",
-		"1": "Illuminate",
-		"H": "Inner Focus"
+		"0": "Insomnia"
 	},
 	"weightkg": 32.4,
 	"evos": [
@@ -3417,9 +2690,7 @@ hypno: {
 		"spe": 67
 	},
 	"abilities": {
-		"0": "Insomnia",
-		"1": "Illuminate",
-		"H": "Inner Focus"
+		"0": "Insomnia"
 	},
 	"weightkg": 75.6,
 	"prevo": "Drowzee",
@@ -3531,43 +2802,6 @@ voltorb: {
 	],
 	"eggGroups": [
 		"Mineral"
-	],
-	"otherFormes": [
-		"Voltorb-Hisui"
-	],
-	"formeOrder": [
-		"Voltorb",
-		"Voltorb-Hisui"
-	]
-},
-voltorbhisui: {
-	"num": 100,
-	"name": "Voltorb-Hisui",
-	"baseSpecies": "Voltorb",
-	"forme": "Hisui",
-	"types": [
-		"Electric",
-		"Grass"
-	],
-	"gender": "N",
-	"baseStats": {
-		"hp": 40,
-		"atk": 30,
-		"def": 50,
-		"spa": 55,
-		"spd": 55,
-		"spe": 100
-	},
-	"abilities": {
-		"0": "Soundproof",
-		"1": "Static"
-	},
-	"weightkg": 13,
-	"evos": [
-		"Electrode-Hisui"
-	],
-	"eggGroups": [
-		"Mineral"
 	]
 },
 electrode: {
@@ -3594,43 +2828,6 @@ electrode: {
 	"evoLevel": 30,
 	"eggGroups": [
 		"Mineral"
-	],
-	"otherFormes": [
-		"Electrode-Hisui"
-	],
-	"formeOrder": [
-		"Electrode",
-		"Electrode-Hisui"
-	]
-},
-electrodehisui: {
-	"num": 101,
-	"name": "Electrode-Hisui",
-	"baseSpecies": "Electrode",
-	"forme": "Hisui",
-	"types": [
-		"Electric",
-		"Grass"
-	],
-	"gender": "N",
-	"baseStats": {
-		"hp": 60,
-		"atk": 50,
-		"def": 70,
-		"spa": 80,
-		"spd": 80,
-		"spe": 150
-	},
-	"abilities": {
-		"0": "Soundproof",
-		"1": "Static"
-	},
-	"weightkg": 71,
-	"prevo": "Voltorb-Hisui",
-	"evoType": "useItem",
-	"evoItem": "Leaf Stone",
-	"eggGroups": [
-		"Mineral"
 	]
 },
 exeggcute: {
@@ -3650,12 +2847,11 @@ exeggcute: {
 	},
 	"abilities": {
 		"0": "Chlorophyll",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 2.5,
 	"evos": [
-		"Exeggutor",
-		"Exeggutor-Alola"
+		"Exeggutor"
 	],
 	"eggGroups": [
 		"Grass"
@@ -3678,44 +2874,9 @@ exeggutor: {
 	},
 	"abilities": {
 		"0": "Chlorophyll",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 120,
-	"prevo": "Exeggcute",
-	"evoType": "useItem",
-	"evoItem": "Leaf Stone",
-	"eggGroups": [
-		"Grass"
-	],
-	"otherFormes": [
-		"Exeggutor-Alola"
-	],
-	"formeOrder": [
-		"Exeggutor",
-		"Exeggutor-Alola"
-	]
-},
-exeggutoralola: {
-	"num": 103,
-	"name": "Exeggutor-Alola",
-	"baseSpecies": "Exeggutor",
-	"forme": "Alola",
-	"types": [
-		"Grass",
-		"Dragon"
-	],
-	"baseStats": {
-		"hp": 95,
-		"atk": 105,
-		"def": 85,
-		"spa": 125,
-		"spd": 75,
-		"spe": 45
-	},
-	"abilities": {
-		"0": "Illuminate"
-	},
-	"weightkg": 415.6,
 	"prevo": "Exeggcute",
 	"evoType": "useItem",
 	"evoItem": "Leaf Stone",
@@ -3739,13 +2900,11 @@ cubone: {
 	},
 	"abilities": {
 		"0": "Rock Head",
-		"1": "Lightning Rod",
-		"H": "Battle Armor"
+		"1": "Lightning Rod"
 	},
 	"weightkg": 6.5,
 	"evos": [
-		"Marowak",
-		"Marowak-Alola"
+		"Marowak"
 	],
 	"eggGroups": [
 		"Monster"
@@ -3767,76 +2926,11 @@ marowak: {
 	},
 	"abilities": {
 		"0": "Rock Head",
-		"1": "Lightning Rod",
-		"H": "Battle Armor"
+		"1": "Lightning Rod"
 	},
 	"weightkg": 45,
 	"prevo": "Cubone",
 	"evoLevel": 28,
-	"eggGroups": [
-		"Monster"
-	],
-	"otherFormes": [
-		"Marowak-Alola",
-		"Marowak-Alola-Totem"
-	],
-	"formeOrder": [
-		"Marowak",
-		"Marowak-Alola",
-		"Marowak-Alola-Totem"
-	]
-},
-marowakalola: {
-	"num": 105,
-	"name": "Marowak-Alola",
-	"baseSpecies": "Marowak",
-	"forme": "Alola",
-	"types": [
-		"Fire",
-		"Ghost"
-	],
-	"baseStats": {
-		"hp": 60,
-		"atk": 80,
-		"def": 110,
-		"spa": 50,
-		"spd": 80,
-		"spe": 45
-	},
-	"abilities": {
-		"0": "Illuminate",
-		"1": "Lightning Rod",
-		"H": "Rock Head"
-	},
-	"weightkg": 34,
-	"prevo": "Cubone",
-	"evoLevel": 28,
-	"evoCondition": "at night",
-	"eggGroups": [
-		"Monster"
-	]
-},
-marowakalolatotem: {
-	"num": 105,
-	"name": "Marowak-Alola-Totem",
-	"baseSpecies": "Marowak",
-	"forme": "Alola-Totem",
-	"types": [
-		"Fire",
-		"Ghost"
-	],
-	"baseStats": {
-		"hp": 60,
-		"atk": 80,
-		"def": 110,
-		"spa": 50,
-		"spd": 80,
-		"spe": 45
-	},
-	"abilities": {
-		"0": "Rock Head"
-	},
-	"weightkg": 98,
 	"eggGroups": [
 		"Monster"
 	]
@@ -3858,7 +2952,7 @@ hitmonlee: {
 	},
 	"abilities": {
 		"0": "Limber",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 49.8,
 	"prevo": "Tyrogue",
@@ -3884,9 +2978,7 @@ hitmonchan: {
 		"spe": 76
 	},
 	"abilities": {
-		"0": "Keen Eye",
-		"1": "Illuminate",
-		"H": "Inner Focus"
+		"0": "Keen Eye"
 	},
 	"weightkg": 50.2,
 	"prevo": "Tyrogue",
@@ -3912,8 +3004,7 @@ lickitung: {
 	},
 	"abilities": {
 		"0": "Own Tempo",
-		"1": "Oblivious",
-		"H": "Cloud Nine"
+		"1": "Oblivious"
 	},
 	"weightkg": 65.5,
 	"evos": [
@@ -3938,14 +3029,11 @@ koffing: {
 		"spe": 35
 	},
 	"abilities": {
-		"0": "Levitate",
-		"1": "Illuminate",
-		"H": "Stench"
+		"0": "Levitate"
 	},
 	"weightkg": 1,
 	"evos": [
 		"Weezing",
-		"Weezing-Galar"
 	],
 	"eggGroups": [
 		"Amorphous"
@@ -3966,46 +3054,9 @@ weezing: {
 		"spe": 60
 	},
 	"abilities": {
-		"0": "Levitate",
-		"1": "Illuminate",
-		"H": "Stench"
+		"0": "Levitate"
 	},
 	"weightkg": 9.5,
-	"prevo": "Koffing",
-	"evoLevel": 35,
-	"eggGroups": [
-		"Amorphous"
-	],
-	"otherFormes": [
-		"Weezing-Galar"
-	],
-	"formeOrder": [
-		"Weezing",
-		"Weezing-Galar"
-	]
-},
-weezinggalar: {
-	"num": 110,
-	"name": "Weezing-Galar",
-	"baseSpecies": "Weezing",
-	"forme": "Galar",
-	"types": [
-		"Poison",
-		"Normal"
-	],
-	"baseStats": {
-		"hp": 65,
-		"atk": 90,
-		"def": 120,
-		"spa": 85,
-		"spd": 70,
-		"spe": 60
-	},
-	"abilities": {
-		"0": "Levitate",
-		"1": "Illuminate"
-	},
-	"weightkg": 16,
 	"prevo": "Koffing",
 	"evoLevel": 35,
 	"eggGroups": [
@@ -4118,7 +3169,7 @@ tangela: {
 	},
 	"abilities": {
 		"0": "Chlorophyll",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 35,
 	"evos": [
@@ -4145,42 +3196,9 @@ kangaskhan: {
 	},
 	"abilities": {
 		"0": "Early Bird",
-		"1": "Illuminate",
-		"H": "Inner Focus"
+		"1": "Inner Focus"
 	},
 	"weightkg": 80,
-	"eggGroups": [
-		"Monster"
-	],
-	"otherFormes": [
-		"Kangaskhan-Mega"
-	],
-	"formeOrder": [
-		"Kangaskhan",
-		"Kangaskhan-Mega"
-	]
-},
-kangaskhanmega: {
-	"num": 115,
-	"name": "Kangaskhan-Mega",
-	"baseSpecies": "Kangaskhan",
-	"forme": "Mega",
-	"types": [
-		"Normal"
-	],
-	"gender": "F",
-	"baseStats": {
-		"hp": 105,
-		"atk": 110,
-		"def": 90,
-		"spa": 50,
-		"spd": 90,
-		"spe": 95
-	},
-	"abilities": {
-		"0": "Illuminate"
-	},
-	"weightkg": 100,
 	"eggGroups": [
 		"Monster"
 	]
@@ -4200,9 +3218,7 @@ horsea: {
 		"spe": 60
 	},
 	"abilities": {
-		"0": "Swift Swim",
-		"1": "Illuminate",
-		"H": "Damp"
+		"0": "Swift Swim"
 	},
 	"weightkg": 8,
 	"evos": [
@@ -4229,8 +3245,7 @@ seadra: {
 	},
 	"abilities": {
 		"0": "Poison Point",
-		"1": "Illuminate",
-		"H": "Damp"
+		"1": "Damp"
 	},
 	"weightkg": 25,
 	"prevo": "Horsea",
@@ -4259,8 +3274,7 @@ goldeen: {
 	},
 	"abilities": {
 		"0": "Swift Swim",
-		"1": "Water Veil",
-		"H": "Lightning Rod"
+		"1": "Water Veil"
 	},
 	"weightkg": 15,
 	"evos": [
@@ -4286,8 +3300,7 @@ seaking: {
 	},
 	"abilities": {
 		"0": "Swift Swim",
-		"1": "Water Veil",
-		"H": "Lightning Rod"
+		"1": "Water Veil"
 	},
 	"weightkg": 39,
 	"prevo": "Goldeen",
@@ -4312,7 +3325,7 @@ staryu: {
 		"spe": 85
 	},
 	"abilities": {
-		"0": "Illuminate",
+		"0": "Iluminate",
 		"1": "Natural Cure"
 	},
 	"weightkg": 34.5,
@@ -4340,7 +3353,7 @@ starmie: {
 		"spe": 115
 	},
 	"abilities": {
-		"0": "Illuminate",
+		"0": "Iluminate",
 		"1": "Natural Cure"
 	},
 	"weightkg": 80,
@@ -4367,8 +3380,7 @@ mrmime: {
 		"spe": 90
 	},
 	"abilities": {
-		"0": "Soundproof",
-		"1": "Illuminate"
+		"0": "Soundproof"
 	},
 	"weightkg": 54.5,
 	"prevo": "Mime Jr.",
@@ -4378,46 +3390,7 @@ mrmime: {
 		"Human-Like"
 	],
 	"canHatch": true,
-	"otherFormes": [
-		"Mr. Mime-Galar"
-	],
-	"formeOrder": [
-		"Mr. Mime",
-		"Mr. Mime-Galar"
 	]
-},
-mrmimegalar: {
-	"num": 122,
-	"name": "Mr. Mime-Galar",
-	"baseSpecies": "Mr. Mime",
-	"forme": "Galar",
-	"types": [
-		"Ice",
-		"Psychic"
-	],
-	"baseStats": {
-		"hp": 50,
-		"atk": 65,
-		"def": 65,
-		"spa": 90,
-		"spd": 90,
-		"spe": 100
-	},
-	"abilities": {
-		"0": "Vital Spirit",
-		"1": "Illuminate"
-	},
-	"weightkg": 56.8,
-	"prevo": "Mime Jr.",
-	"evoType": "levelMove",
-	"evoMove": "Mimic",
-	"evos": [
-		"Mr. Rime"
-	],
-	"eggGroups": [
-		"Human-Like"
-	],
-	"canHatch": true
 },
 scyther: {
 	"num": 123,
@@ -4435,8 +3408,7 @@ scyther: {
 		"spe": 105
 	},
 	"abilities": {
-		"0": "Swarm",
-		"1": "Illuminate"
+		"0": "Swarm"
 	},
 	"weightkg": 56,
 	"evos": [
@@ -4464,8 +3436,7 @@ jynx: {
 		"spe": 95
 	},
 	"abilities": {
-		"0": "Oblivious",
-		"1": "Illuminate"
+		"0": "Oblivious"
 	},
 	"weightkg": 40.6,
 	"prevo": "Smoochum",
@@ -4553,45 +3524,12 @@ pinsir: {
 		"spe": 85
 	},
 	"abilities": {
-		"0": "Hyper Cutter",
-		"1": "Illuminate"
+		"0": "Hyper Cutter"
 	},
 	"weightkg": 55,
 	"eggGroups": [
 		"Bug"
 	],
-	"otherFormes": [
-		"Pinsir-Mega"
-	],
-	"formeOrder": [
-		"Pinsir",
-		"Pinsir-Mega"
-	]
-},
-pinsirmega: {
-	"num": 127,
-	"name": "Pinsir-Mega",
-	"baseSpecies": "Pinsir",
-	"forme": "Mega",
-	"types": [
-		"Bug",
-		"Flying"
-	],
-	"baseStats": {
-		"hp": 65,
-		"atk": 140,
-		"def": 110,
-		"spa": 60,
-		"spd": 80,
-		"spe": 95
-	},
-	"abilities": {
-		"0": "Illuminate"
-	},
-	"weightkg": 59,
-	"eggGroups": [
-		"Bug"
-	]
 },
 tauros: {
 	"num": 128,
@@ -4609,8 +3547,7 @@ tauros: {
 		"spe": 110
 	},
 	"abilities": {
-		"0": "Intimidate",
-		"1": "Illuminate"
+		"0": "Intimidate"
 	},
 	"weightkg": 88.4,
 	"eggGroups": [
@@ -4632,8 +3569,7 @@ magikarp: {
 		"spe": 80
 	},
 	"abilities": {
-		"0": "Swift Swim",
-		"1": "Illuminate"
+		"0": "Swift Swim"
 	},
 	"weightkg": 10,
 	"evos": [
@@ -4660,8 +3596,7 @@ gyarados: {
 		"spe": 81
 	},
 	"abilities": {
-		"0": "Intimidate",
-		"1": "Illuminate"
+		"0": "Intimidate"
 	},
 	"weightkg": 235,
 	"prevo": "Magikarp",
@@ -4670,39 +3605,6 @@ gyarados: {
 		"Water 2",
 		"Dragon"
 	],
-	"otherFormes": [
-		"Gyarados-Mega"
-	],
-	"formeOrder": [
-		"Gyarados",
-		"Gyarados-Mega"
-	]
-},
-gyaradosmega: {
-	"num": 130,
-	"name": "Gyarados-Mega",
-	"baseSpecies": "Gyarados",
-	"forme": "Mega",
-	"types": [
-		"Water",
-		"Dark"
-	],
-	"baseStats": {
-		"hp": 95,
-		"atk": 140,
-		"def": 94,
-		"spa": 65,
-		"spd": 115,
-		"spe": 81
-	},
-	"abilities": {
-		"0": "Illuminate"
-	},
-	"weightkg": 305,
-	"eggGroups": [
-		"Water 2",
-		"Dragon"
-	]
 },
 lapras: {
 	"num": 131,
@@ -4774,8 +3676,7 @@ ditto: {
 		"spe": 48
 	},
 	"abilities": {
-		"0": "Limber",
-		"1": "Illuminate"
+		"0": "Limber"
 	},
 	"weightkg": 4,
 	"eggGroups": [
@@ -4801,8 +3702,7 @@ eevee: {
 		"spe": 55
 	},
 	"abilities": {
-		"0": "Run Away",
-		"1": "Illuminate"
+		"0": "Run Away"
 	},
 	"weightkg": 6.5,
 	"evos": [
@@ -4848,8 +3748,7 @@ eeveestarter: {
 		"spe": 75
 	},
 	"abilities": {
-		"0": "Run Away",
-		"1": "Illuminate"
+		"0": "Run Away"
 	},
 	"weightkg": 6.5,
 	"eggGroups": [
@@ -4877,8 +3776,7 @@ eeveegmax: {
 		"spe": 55
 	},
 	"abilities": {
-		"0": "Run Away",
-		"1": "Illuminate"
+		"0": "Run Away"
 	},
 	"weightkg": 0,
 	"eggGroups": [
@@ -4905,8 +3803,7 @@ vaporeon: {
 		"spe": 65
 	},
 	"abilities": {
-		"0": "Water Absorb",
-		"1": "Illuminate"
+		"0": "Water Absorb"
 	},
 	"weightkg": 29,
 	"prevo": "Eevee",
@@ -4935,8 +3832,7 @@ jolteon: {
 		"spe": 130
 	},
 	"abilities": {
-		"0": "Volt Absorb",
-		"1": "Illuminate"
+		"0": "Volt Absorb"
 	},
 	"weightkg": 24.5,
 	"prevo": "Eevee",
@@ -4992,8 +3888,7 @@ porygon: {
 		"spe": 40
 	},
 	"abilities": {
-		"0": "Trace",
-		"1": "Illuminate"
+		"0": "Trace"
 	},
 	"weightkg": 36.5,
 	"evos": [
@@ -5156,42 +4051,6 @@ aerodactyl: {
 	"eggGroups": [
 		"Flying"
 	],
-	"otherFormes": [
-		"Aerodactyl-Mega"
-	],
-	"formeOrder": [
-		"Aerodactyl",
-		"Aerodactyl-Mega"
-	]
-},
-aerodactylmega: {
-	"num": 142,
-	"name": "Aerodactyl-Mega",
-	"baseSpecies": "Aerodactyl",
-	"forme": "Mega",
-	"types": [
-		"Rock",
-		"Flying"
-	],
-	"genderRatio": {
-		"M": 0.875,
-		"F": 0.125
-	},
-	"baseStats": {
-		"hp": 80,
-		"atk": 120,
-		"def": 75,
-		"spa": 65,
-		"spd": 85,
-		"spe": 140
-	},
-	"abilities": {
-		"0": "Illuminate"
-	},
-	"weightkg": 79,
-	"eggGroups": [
-		"Flying"
-	]
 },
 snorlax: {
 	"num": 143,
@@ -5271,46 +4130,12 @@ articuno: {
 		"spe": 85
 	},
 	"abilities": {
-		"0": "Pressure",
-		"1": "Illuminate"
+		"0": "Pressure"
 	},
 	"weightkg": 55.4,
 	"tags": [
 		"Sub-Legendary"
 	],
-	"eggGroups": [
-		"Undiscovered"
-	],
-	"otherFormes": [
-		"Articuno-Galar"
-	],
-	"formeOrder": [
-		"Articuno",
-		"Articuno-Galar"
-	]
-},
-articunogalar: {
-	"num": 144,
-	"name": "Articuno-Galar",
-	"baseSpecies": "Articuno",
-	"forme": "Galar",
-	"types": [
-		"Psychic",
-		"Flying"
-	],
-	"gender": "N",
-	"baseStats": {
-		"hp": 90,
-		"atk": 85,
-		"def": 85,
-		"spa": 125,
-		"spd": 100,
-		"spe": 95
-	},
-	"abilities": {
-		"0": "Illuminate"
-	},
-	"weightkg": 50.9,
 	"eggGroups": [
 		"Undiscovered"
 	]
@@ -5341,39 +4166,6 @@ zapdos: {
 	],
 	"eggGroups": [
 		"Undiscovered"
-	],
-	"otherFormes": [
-		"Zapdos-Galar"
-	],
-	"formeOrder": [
-		"Zapdos",
-		"Zapdos-Galar"
-	]
-},
-zapdosgalar: {
-	"num": 145,
-	"name": "Zapdos-Galar",
-	"baseSpecies": "Zapdos",
-	"forme": "Galar",
-	"types": [
-		"Fighting",
-		"Flying"
-	],
-	"gender": "N",
-	"baseStats": {
-		"hp": 90,
-		"atk": 125,
-		"def": 90,
-		"spa": 85,
-		"spd": 90,
-		"spe": 100
-	},
-	"abilities": {
-		"0": "Illuminate"
-	},
-	"weightkg": 58.2,
-	"eggGroups": [
-		"Undiscovered"
 	]
 },
 moltres: {
@@ -5400,39 +4192,6 @@ moltres: {
 	"tags": [
 		"Sub-Legendary"
 	],
-	"eggGroups": [
-		"Undiscovered"
-	],
-	"otherFormes": [
-		"Moltres-Galar"
-	],
-	"formeOrder": [
-		"Moltres",
-		"Moltres-Galar"
-	]
-},
-moltresgalar: {
-	"num": 146,
-	"name": "Moltres-Galar",
-	"baseSpecies": "Moltres",
-	"forme": "Galar",
-	"types": [
-		"Dark",
-		"Flying"
-	],
-	"gender": "N",
-	"baseStats": {
-		"hp": 90,
-		"atk": 85,
-		"def": 90,
-		"spa": 100,
-		"spd": 125,
-		"spe": 90
-	},
-	"abilities": {
-		"0": "Illuminate"
-	},
-	"weightkg": 66,
 	"eggGroups": [
 		"Undiscovered"
 	]
@@ -5509,8 +4268,7 @@ dragonite: {
 		"spe": 80
 	},
 	"abilities": {
-		"0": "Inner Focus",
-		"1": "Illuminate"
+		"0": "Inner Focus"
 	},
 	"weightkg": 210,
 	"prevo": "Dragonair",
@@ -5536,8 +4294,7 @@ mewtwo: {
 		"spe": 130
 	},
 	"abilities": {
-		"0": "Pressure",
-		"1": "Illuminate"
+		"0": "Pressure"
 	},
 	"weightkg": 122,
 	"eggGroups": [
@@ -5546,66 +4303,6 @@ mewtwo: {
 	"tags": [
 		"Restricted Legendary"
 	],
-	"otherFormes": [
-		"Mewtwo-Mega-X",
-		"Mewtwo-Mega-Y"
-	],
-	"formeOrder": [
-		"Mewtwo",
-		"Mewtwo-Mega-X",
-		"Mewtwo-Mega-Y"
-	]
-},
-mewtwomegax: {
-	"num": 150,
-	"name": "Mewtwo-Mega-X",
-	"baseSpecies": "Mewtwo",
-	"forme": "Mega-X",
-	"types": [
-		"Psychic",
-		"Fighting"
-	],
-	"gender": "N",
-	"baseStats": {
-		"hp": 106,
-		"atk": 150,
-		"def": 95,
-		"spa": 154,
-		"spd": 95,
-		"spe": 130
-	},
-	"abilities": {
-		"0": "Illuminate"
-	},
-	"weightkg": 127,
-	"eggGroups": [
-		"Undiscovered"
-	]
-},
-mewtwomegay: {
-	"num": 150,
-	"name": "Mewtwo-Mega-Y",
-	"baseSpecies": "Mewtwo",
-	"forme": "Mega-Y",
-	"types": [
-		"Psychic"
-	],
-	"gender": "N",
-	"baseStats": {
-		"hp": 106,
-		"atk": 130,
-		"def": 80,
-		"spa": 174,
-		"spd": 105,
-		"spe": 135
-	},
-	"abilities": {
-		"0": "Insomnia"
-	},
-	"weightkg": 33,
-	"eggGroups": [
-		"Undiscovered"
-	]
 },
 mew: {
 	"num": 151,
@@ -5652,8 +4349,7 @@ chikorita: {
 		"spe": 45
 	},
 	"abilities": {
-		"0": "Overgrow",
-		"1": "Illuminate"
+		"0": "Overgrow"
 	},
 	"weightkg": 6.4,
 	"evos": [
@@ -5683,8 +4379,7 @@ bayleef: {
 		"spe": 60
 	},
 	"abilities": {
-		"0": "Overgrow",
-		"1": "Illuminate"
+		"0": "Overgrow"
 	},
 	"weightkg": 15.8,
 	"prevo": "Chikorita",
@@ -5716,8 +4411,7 @@ meganium: {
 		"spe": 80
 	},
 	"abilities": {
-		"0": "Overgrow",
-		"1": "Illuminate"
+		"0": "Overgrow"
 	},
 	"weightkg": 100.5,
 	"prevo": "Bayleef",
@@ -5784,7 +4478,6 @@ quilava: {
 	"evoLevel": 14,
 	"evos": [
 		"Typhlosion",
-		"Typhlosion-Hisui"
 	],
 	"eggGroups": [
 		"Field"
@@ -5817,45 +4510,6 @@ typhlosion: {
 	"evoLevel": 36,
 	"eggGroups": [
 		"Field"
-	],
-	"otherFormes": [
-		"Typhlosion-Hisui"
-	],
-	"formeOrder": [
-		"Typhlosion",
-		"Typhlosion-Hisui"
-	]
-},
-typhlosionhisui: {
-	"num": 157,
-	"name": "Typhlosion-Hisui",
-	"baseSpecies": "Typhlosion",
-	"forme": "Hisui",
-	"types": [
-		"Fire",
-		"Ghost"
-	],
-	"genderRatio": {
-		"M": 0.875,
-		"F": 0.125
-	},
-	"baseStats": {
-		"hp": 73,
-		"atk": 84,
-		"def": 78,
-		"spa": 119,
-		"spd": 85,
-		"spe": 95
-	},
-	"abilities": {
-		"0": "Blaze",
-		"1": "Flash Fire"
-	},
-	"weightkg": 69.8,
-	"prevo": "Quilava",
-	"evoLevel": 36,
-	"eggGroups": [
-		"Field"
 	]
 },
 totodile: {
@@ -5877,8 +4531,7 @@ totodile: {
 		"spe": 43
 	},
 	"abilities": {
-		"0": "Torrent",
-		"1": "Illuminate"
+		"0": "Torrent"
 	},
 	"weightkg": 9.5,
 	"evos": [
@@ -5909,7 +4562,7 @@ croconaw: {
 	},
 	"abilities": {
 		"0": "Torrent",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 25,
 	"prevo": "Totodile",
@@ -5942,7 +4595,7 @@ feraligatr: {
 	},
 	"abilities": {
 		"0": "Torrent",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 88.8,
 	"prevo": "Croconaw",
@@ -6179,7 +4832,7 @@ crobat: {
 	},
 	"abilities": {
 		"0": "Inner Focus",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 75,
 	"prevo": "Golbat",
@@ -6205,8 +4858,7 @@ chinchou: {
 	},
 	"abilities": {
 		"0": "Volt Absorb",
-		"1": "Illuminate",
-		"H": "Water Absorb"
+		"1": "Iluminate"
 	},
 	"weightkg": 12,
 	"evos": [
@@ -6233,8 +4885,7 @@ lanturn: {
 	},
 	"abilities": {
 		"0": "Volt Absorb",
-		"1": "Illuminate",
-		"H": "Water Absorb"
+		"1": "Iluminate"
 	},
 	"weightkg": 22.5,
 	"prevo": "Chinchou",
@@ -6322,7 +4973,7 @@ cleffa: {
 	},
 	"abilities": {
 		"0": "Cute Charm",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 3,
 	"evos": [
@@ -6353,7 +5004,7 @@ igglybuff: {
 	},
 	"abilities": {
 		"0": "Cute Charm",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 1,
 	"evos": [
@@ -6563,39 +5214,6 @@ ampharos: {
 		"Monster",
 		"Field"
 	],
-	"otherFormes": [
-		"Ampharos-Mega"
-	],
-	"formeOrder": [
-		"Ampharos",
-		"Ampharos-Mega"
-	]
-},
-ampharosmega: {
-	"num": 181,
-	"name": "Ampharos-Mega",
-	"baseSpecies": "Ampharos",
-	"forme": "Mega",
-	"types": [
-		"Electric",
-		"Dragon"
-	],
-	"baseStats": {
-		"hp": 90,
-		"atk": 85,
-		"def": 95,
-		"spa": 140,
-		"spd": 100,
-		"spe": 50
-	},
-	"abilities": {
-		"0": "Illuminate"
-	},
-	"weightkg": 61.5,
-	"eggGroups": [
-		"Monster",
-		"Field"
-	]
 },
 bellossom: {
 	"num": 182,
@@ -6613,7 +5231,7 @@ bellossom: {
 	},
 	"abilities": {
 		"0": "Chlorophyll",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 5.8,
 	"prevo": "Gloom",
@@ -6725,7 +5343,6 @@ politoed: {
 	"abilities": {
 		"0": "Water Absorb",
 		"1": "Damp",
-		"H": "Drizzle"
 	},
 	"weightkg": 33.9,
 	"prevo": "Poliwhirl",
@@ -6752,7 +5369,7 @@ hoppip: {
 	},
 	"abilities": {
 		"0": "Chlorophyll",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 0.5,
 	"evos": [
@@ -6780,7 +5397,7 @@ skiploom: {
 	},
 	"abilities": {
 		"0": "Chlorophyll",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 1,
 	"prevo": "Hoppip",
@@ -6810,7 +5427,7 @@ jumpluff: {
 	},
 	"abilities": {
 		"0": "Chlorophyll",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 3,
 	"prevo": "Skiploom",
@@ -6861,9 +5478,7 @@ sunkern: {
 		"spe": 30
 	},
 	"abilities": {
-		"0": "Chlorophyll",
-		"1": "Illuminate",
-		"H": "Early Bird"
+		"0": "Chlorophyll"
 	},
 	"weightkg": 1.8,
 	"evos": [
@@ -6888,9 +5503,7 @@ sunflora: {
 		"spe": 30
 	},
 	"abilities": {
-		"0": "Chlorophyll",
-		"1": "Illuminate",
-		"H": "Early Bird"
+		"0": "Chlorophyll"
 	},
 	"weightkg": 8.5,
 	"prevo": "Sunkern",
@@ -7002,7 +5615,7 @@ espeon: {
 	},
 	"abilities": {
 		"0": "Synchronize",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 26.5,
 	"prevo": "Eevee",
@@ -7059,7 +5672,7 @@ murkrow: {
 	},
 	"abilities": {
 		"0": "Insomnia",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 2.1,
 	"evos": [
@@ -7092,43 +5705,6 @@ slowking: {
 	"prevo": "Slowpoke",
 	"evoType": "trade",
 	"evoItem": "King's Rock",
-	"eggGroups": [
-		"Monster",
-		"Water 1"
-	],
-	"otherFormes": [
-		"Slowking-Galar"
-	],
-	"formeOrder": [
-		"Slowking",
-		"Slowking-Galar"
-	]
-},
-slowkinggalar: {
-	"num": 199,
-	"name": "Slowking-Galar",
-	"baseSpecies": "Slowking",
-	"forme": "Galar",
-	"types": [
-		"Poison",
-		"Psychic"
-	],
-	"baseStats": {
-		"hp": 95,
-		"atk": 65,
-		"def": 80,
-		"spa": 110,
-		"spd": 110,
-		"spe": 30
-	},
-	"abilities": {
-		"0": "Illuminate",
-		"1": "Own Tempo"
-	},
-	"weightkg": 79.5,
-	"prevo": "Slowpoke-Galar",
-	"evoType": "useItem",
-	"evoItem": "Galarica Wreath",
 	"eggGroups": [
 		"Monster",
 		"Water 1"
@@ -7258,7 +5834,7 @@ wobbuffet: {
 	},
 	"abilities": {
 		"0": "Shadow Tag",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 28.5,
 	"prevo": "Wynaut",
@@ -7288,6 +5864,9 @@ girafarig: {
 		"1": "Early Bird"
 	},
 	"weightkg": 41.5,
+	"evos": [
+		"Farigiraf"
+	],
 	"eggGroups": [
 		"Field"
 	]
@@ -7308,7 +5887,7 @@ pineco: {
 	},
 	"abilities": {
 		"0": "Sturdy",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 7.2,
 	"evos": [
@@ -7335,7 +5914,7 @@ forretress: {
 	},
 	"abilities": {
 		"0": "Sturdy",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 125.8,
 	"prevo": "Pineco",
@@ -7363,6 +5942,9 @@ dunsparce: {
 		"1": "Run Away"
 	},
 	"weightkg": 14,
+	"evos": [
+		"Dudunsparce"
+	],
 	"eggGroups": [
 		"Field"
 	]
@@ -7383,9 +5965,7 @@ gligar: {
 		"spe": 85
 	},
 	"abilities": {
-		"0": "Hyper Cutter",
-		"1": "Illuminate",
-		"H": "Immunity"
+		"0": "Hyper Cutter"
 	},
 	"weightkg": 64.8,
 	"evos": [
@@ -7418,38 +5998,6 @@ steelix: {
 	"prevo": "Onix",
 	"evoType": "trade",
 	"evoItem": "Metal Coat",
-	"eggGroups": [
-		"Mineral"
-	],
-	"otherFormes": [
-		"Steelix-Mega"
-	],
-	"formeOrder": [
-		"Steelix",
-		"Steelix-Mega"
-	]
-},
-steelixmega: {
-	"num": 208,
-	"name": "Steelix-Mega",
-	"baseSpecies": "Steelix",
-	"forme": "Mega",
-	"types": [
-		"Steel",
-		"Ground"
-	],
-	"baseStats": {
-		"hp": 75,
-		"atk": 105,
-		"def": 215,
-		"spa": 55,
-		"spd": 80,
-		"spe": 30
-	},
-	"abilities": {
-		"0": "Illuminate"
-	},
-	"weightkg": 740,
 	"eggGroups": [
 		"Mineral"
 	]
@@ -7505,7 +6053,7 @@ granbull: {
 	},
 	"abilities": {
 		"0": "Intimidate",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 48.7,
 	"prevo": "Snubbull",
@@ -7532,47 +6080,9 @@ qwilfish: {
 	},
 	"abilities": {
 		"0": "Poison Point",
-		"1": "Swift Swim",
-		"H": "Intimidate"
+		"1": "Swift Swim"
 	},
 	"weightkg": 3.9,
-	"eggGroups": [
-		"Water 2"
-	],
-	"otherFormes": [
-		"Qwilfish-Hisui"
-	],
-	"formeOrder": [
-		"Qwilfish",
-		"Qwilfish-Hisui"
-	]
-},
-qwilfishhisui: {
-	"num": 211,
-	"name": "Qwilfish-Hisui",
-	"baseSpecies": "Qwilfish",
-	"forme": "Hisui",
-	"types": [
-		"Dark",
-		"Poison"
-	],
-	"baseStats": {
-		"hp": 65,
-		"atk": 95,
-		"def": 85,
-		"spa": 55,
-		"spd": 55,
-		"spe": 85
-	},
-	"abilities": {
-		"0": "Poison Point",
-		"1": "Swift Swim",
-		"H": "Intimidate"
-	},
-	"weightkg": 3.9,
-	"evos": [
-		"Overqwil"
-	],
 	"eggGroups": [
 		"Water 2"
 	]
@@ -7594,44 +6104,12 @@ scizor: {
 	},
 	"abilities": {
 		"0": "Swarm",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 118,
 	"prevo": "Scyther",
 	"evoType": "trade",
 	"evoItem": "Metal Coat",
-	"eggGroups": [
-		"Bug"
-	],
-	"otherFormes": [
-		"Scizor-Mega"
-	],
-	"formeOrder": [
-		"Scizor",
-		"Scizor-Mega"
-	]
-},
-scizormega: {
-	"num": 212,
-	"name": "Scizor-Mega",
-	"baseSpecies": "Scizor",
-	"forme": "Mega",
-	"types": [
-		"Bug",
-		"Steel"
-	],
-	"baseStats": {
-		"hp": 70,
-		"atk": 140,
-		"def": 120,
-		"spa": 60,
-		"spd": 90,
-		"spe": 70
-	},
-	"abilities": {
-		"0": "Illuminate"
-	},
-	"weightkg": 125,
 	"eggGroups": [
 		"Bug"
 	]
@@ -7653,7 +6131,7 @@ shuckle: {
 	},
 	"abilities": {
 		"0": "Sturdy",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 20.5,
 	"eggGroups": [
@@ -7680,38 +6158,6 @@ heracross: {
 		"1": "Guts"
 	},
 	"weightkg": 54,
-	"eggGroups": [
-		"Bug"
-	],
-	"otherFormes": [
-		"Heracross-Mega"
-	],
-	"formeOrder": [
-		"Heracross",
-		"Heracross-Mega"
-	]
-},
-heracrossmega: {
-	"num": 214,
-	"name": "Heracross-Mega",
-	"baseSpecies": "Heracross",
-	"forme": "Mega",
-	"types": [
-		"Bug",
-		"Fighting"
-	],
-	"baseStats": {
-		"hp": 80,
-		"atk": 155,
-		"def": 95,
-		"spa": 40,
-		"spd": 100,
-		"spe": 80
-	},
-	"abilities": {
-		"0": "Illuminate"
-	},
-	"weightkg": 62.5,
 	"eggGroups": [
 		"Bug"
 	]
@@ -7741,42 +6187,6 @@ sneasel: {
 	],
 	"eggGroups": [
 		"Field"
-	],
-	"otherFormes": [
-		"Sneasel-Hisui"
-	],
-	"formeOrder": [
-		"Sneasel",
-		"Sneasel-Hisui"
-	]
-},
-sneaselhisui: {
-	"num": 215,
-	"name": "Sneasel-Hisui",
-	"baseSpecies": "Sneasel",
-	"forme": "Hisui",
-	"types": [
-		"Fighting",
-		"Poison"
-	],
-	"baseStats": {
-		"hp": 55,
-		"atk": 95,
-		"def": 55,
-		"spa": 35,
-		"spd": 75,
-		"spe": 115
-	},
-	"abilities": {
-		"0": "Inner Focus",
-		"1": "Keen Eye"
-	},
-	"weightkg": 27,
-	"evos": [
-		"Sneasler"
-	],
-	"eggGroups": [
-		"Field"
 	]
 },
 teddiursa: {
@@ -7795,7 +6205,7 @@ teddiursa: {
 	},
 	"abilities": {
 		"0": "Pickup",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 8.8,
 	"evos": [
@@ -7821,7 +6231,7 @@ ursaring: {
 	},
 	"abilities": {
 		"0": "Guts",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 125.8,
 	"prevo": "Teddiursa",
@@ -7901,9 +6311,7 @@ swinub: {
 		"spe": 50
 	},
 	"abilities": {
-		"0": "Oblivious",
-		"1": "Illuminate",
-		"H": "Thick Fat"
+		"0": "Oblivious"
 	},
 	"weightkg": 6.5,
 	"evos": [
@@ -7929,9 +6337,7 @@ piloswine: {
 		"spe": 50
 	},
 	"abilities": {
-		"0": "Oblivious",
-		"1": "Illuminate",
-		"H": "Thick Fat"
+		"0": "Oblivious"
 	},
 	"weightkg": 55.8,
 	"prevo": "Swinub",
@@ -7970,45 +6376,6 @@ corsola: {
 	"eggGroups": [
 		"Water 1",
 		"Water 3"
-	],
-	"otherFormes": [
-		"Corsola-Galar"
-	],
-	"formeOrder": [
-		"Corsola",
-		"Corsola-Galar"
-	]
-},
-corsolagalar: {
-	"num": 222,
-	"name": "Corsola-Galar",
-	"baseSpecies": "Corsola",
-	"forme": "Galar",
-	"types": [
-		"Ghost"
-	],
-	"genderRatio": {
-		"M": 0.25,
-		"F": 0.75
-	},
-	"baseStats": {
-		"hp": 60,
-		"atk": 55,
-		"def": 100,
-		"spa": 65,
-		"spd": 100,
-		"spe": 30
-	},
-	"abilities": {
-		"0": "Illuminate"
-	},
-	"weightkg": 0.5,
-	"evos": [
-		"Cursola"
-	],
-	"eggGroups": [
-		"Water 1",
-		"Water 3"
 	]
 },
 remoraid: {
@@ -8027,7 +6394,7 @@ remoraid: {
 	},
 	"abilities": {
 		"0": "Hustle",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 12,
 	"evos": [
@@ -8054,7 +6421,7 @@ octillery: {
 	},
 	"abilities": {
 		"0": "Suction Cups",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 28.5,
 	"prevo": "Remoraid",
@@ -8081,8 +6448,7 @@ delibird: {
 	},
 	"abilities": {
 		"0": "Vital Spirit",
-		"1": "Hustle",
-		"H": "Insomnia"
+		"1": "Hustle"
 	},
 	"weightkg": 16,
 	"eggGroups": [
@@ -8107,8 +6473,7 @@ mantine: {
 	},
 	"abilities": {
 		"0": "Swift Swim",
-		"1": "Water Absorb",
-		"H": "Water Veil"
+		"1": "Water Absorb"
 	},
 	"weightkg": 220,
 	"prevo": "Mantyke",
@@ -8194,38 +6559,6 @@ houndoom: {
 	"evoLevel": 24,
 	"eggGroups": [
 		"Field"
-	],
-	"otherFormes": [
-		"Houndoom-Mega"
-	],
-	"formeOrder": [
-		"Houndoom",
-		"Houndoom-Mega"
-	]
-},
-houndoommega: {
-	"num": 229,
-	"name": "Houndoom-Mega",
-	"baseSpecies": "Houndoom",
-	"forme": "Mega",
-	"types": [
-		"Dark",
-		"Fire"
-	],
-	"baseStats": {
-		"hp": 75,
-		"atk": 90,
-		"def": 70,
-		"spa": 125,
-		"spd": 85,
-		"spe": 105
-	},
-	"abilities": {
-		"0": "Illuminate"
-	},
-	"weightkg": 49.5,
-	"eggGroups": [
-		"Field"
 	]
 },
 kingdra: {
@@ -8244,9 +6577,7 @@ kingdra: {
 		"spe": 85
 	},
 	"abilities": {
-		"0": "Swift Swim",
-		"1": "Illuminate",
-		"H": "Damp"
+		"0": "Swift Swim"
 	},
 	"weightkg": 152,
 	"prevo": "Seadra",
@@ -8273,7 +6604,7 @@ phanpy: {
 	},
 	"abilities": {
 		"0": "Pickup",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 33.5,
 	"evos": [
@@ -8299,7 +6630,7 @@ donphan: {
 	},
 	"abilities": {
 		"0": "Sturdy",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 120,
 	"prevo": "Phanpy",
@@ -8325,7 +6656,7 @@ porygon2: {
 	},
 	"abilities": {
 		"0": "Trace",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 32.5,
 	"prevo": "Porygon",
@@ -8354,7 +6685,7 @@ stantler: {
 	},
 	"abilities": {
 		"0": "Intimidate",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 71.2,
 	"evos": [
@@ -8380,7 +6711,7 @@ smeargle: {
 	},
 	"abilities": {
 		"0": "Own Tempo",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 58,
 	"eggGroups": [
@@ -8403,9 +6734,7 @@ tyrogue: {
 		"spe": 35
 	},
 	"abilities": {
-		"0": "Guts",
-		"1": "Illuminate",
-		"H": "Vital Spirit"
+		"0": "Guts"
 	},
 	"weightkg": 21,
 	"evos": [
@@ -8435,7 +6764,7 @@ hitmontop: {
 	},
 	"abilities": {
 		"0": "Intimidate",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 48,
 	"prevo": "Tyrogue",
@@ -8463,7 +6792,7 @@ smoochum: {
 	},
 	"abilities": {
 		"0": "Oblivious",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 6,
 	"evos": [
@@ -8553,7 +6882,7 @@ miltank: {
 	},
 	"abilities": {
 		"0": "Thick Fat",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 75.5,
 	"eggGroups": [
@@ -8684,7 +7013,7 @@ larvitar: {
 	},
 	"abilities": {
 		"0": "Guts",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 72,
 	"evos": [
@@ -8739,43 +7068,11 @@ tyranitar: {
 	},
 	"abilities": {
 		"0": "Sand Stream",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 202,
 	"prevo": "Pupitar",
 	"evoLevel": 55,
-	"eggGroups": [
-		"Monster"
-	],
-	"otherFormes": [
-		"Tyranitar-Mega"
-	],
-	"formeOrder": [
-		"Tyranitar",
-		"Tyranitar-Mega"
-	]
-},
-tyranitarmega: {
-	"num": 248,
-	"name": "Tyranitar-Mega",
-	"baseSpecies": "Tyranitar",
-	"forme": "Mega",
-	"types": [
-		"Rock",
-		"Dark"
-	],
-	"baseStats": {
-		"hp": 100,
-		"atk": 149,
-		"def": 130,
-		"spa": 95,
-		"spd": 110,
-		"spe": 66
-	},
-	"abilities": {
-		"0": "Sand Stream"
-	},
-	"weightkg": 255,
 	"eggGroups": [
 		"Monster"
 	]
@@ -8798,7 +7095,7 @@ lugia: {
 	},
 	"abilities": {
 		"0": "Pressure",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 216,
 	"tags": [
@@ -8826,7 +7123,7 @@ hooh: {
 	},
 	"abilities": {
 		"0": "Pressure",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 199,
 	"tags": [
@@ -8883,7 +7180,7 @@ treecko: {
 	},
 	"abilities": {
 		"0": "Overgrow",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 5,
 	"evos": [
@@ -8914,7 +7211,7 @@ grovyle: {
 	},
 	"abilities": {
 		"0": "Overgrow",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 21.6,
 	"prevo": "Treecko",
@@ -8947,48 +7244,11 @@ sceptile: {
 	},
 	"abilities": {
 		"0": "Overgrow",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 52.2,
 	"prevo": "Grovyle",
 	"evoLevel": 36,
-	"eggGroups": [
-		"Monster",
-		"Dragon"
-	],
-	"otherFormes": [
-		"Sceptile-Mega"
-	],
-	"formeOrder": [
-		"Sceptile",
-		"Sceptile-Mega"
-	]
-},
-sceptilemega: {
-	"num": 254,
-	"name": "Sceptile-Mega",
-	"baseSpecies": "Sceptile",
-	"forme": "Mega",
-	"types": [
-		"Grass",
-		"Dragon"
-	],
-	"genderRatio": {
-		"M": 0.875,
-		"F": 0.125
-	},
-	"baseStats": {
-		"hp": 70,
-		"atk": 97,
-		"def": 70,
-		"spa": 125,
-		"spd": 85,
-		"spe": 132
-	},
-	"abilities": {
-		"0": "Lightning Rod"
-	},
-	"weightkg": 55.2,
 	"eggGroups": [
 		"Monster",
 		"Dragon"
@@ -9083,42 +7343,6 @@ blaziken: {
 	"weightkg": 52,
 	"prevo": "Combusken",
 	"evoLevel": 36,
-	"eggGroups": [
-		"Field"
-	],
-	"otherFormes": [
-		"Blaziken-Mega"
-	],
-	"formeOrder": [
-		"Blaziken",
-		"Blaziken-Mega"
-	]
-},
-blazikenmega: {
-	"num": 257,
-	"name": "Blaziken-Mega",
-	"baseSpecies": "Blaziken",
-	"forme": "Mega",
-	"types": [
-		"Fire",
-		"Fighting"
-	],
-	"genderRatio": {
-		"M": 0.875,
-		"F": 0.125
-	},
-	"baseStats": {
-		"hp": 80,
-		"atk": 140,
-		"def": 75,
-		"spa": 120,
-		"spd": 75,
-		"spe": 90
-	},
-	"abilities": {
-		"0": "Speed Boost"
-	},
-	"weightkg": 52,
 	"eggGroups": [
 		"Field"
 	]
@@ -9217,43 +7441,6 @@ swampert: {
 	"eggGroups": [
 		"Monster",
 		"Water 1"
-	],
-	"otherFormes": [
-		"Swampert-Mega"
-	],
-	"formeOrder": [
-		"Swampert",
-		"Swampert-Mega"
-	]
-},
-swampertmega: {
-	"num": 260,
-	"name": "Swampert-Mega",
-	"baseSpecies": "Swampert",
-	"forme": "Mega",
-	"types": [
-		"Water",
-		"Ground"
-	],
-	"genderRatio": {
-		"M": 0.875,
-		"F": 0.125
-	},
-	"baseStats": {
-		"hp": 100,
-		"atk": 130,
-		"def": 100,
-		"spa": 90,
-		"spd": 100,
-		"spe": 65
-	},
-	"abilities": {
-		"0": "Swift Swim"
-	},
-	"weightkg": 102,
-	"eggGroups": [
-		"Monster",
-		"Water 1"
 	]
 },
 poochyena: {
@@ -9272,7 +7459,7 @@ poochyena: {
 	},
 	"abilities": {
 		"0": "Run Away",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 13.6,
 	"evos": [
@@ -9298,7 +7485,7 @@ mightyena: {
 	},
 	"abilities": {
 		"0": "Intimidate",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 37,
 	"prevo": "Poochyena",
@@ -9323,47 +7510,11 @@ zigzagoon: {
 	},
 	"abilities": {
 		"0": "Pickup",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 17.5,
 	"evos": [
 		"Linoone"
-	],
-	"eggGroups": [
-		"Field"
-	],
-	"otherFormes": [
-		"Zigzagoon-Galar"
-	],
-	"formeOrder": [
-		"Zigzagoon",
-		"Zigzagoon-Galar"
-	]
-},
-zigzagoongalar: {
-	"num": 263,
-	"name": "Zigzagoon-Galar",
-	"baseSpecies": "Zigzagoon",
-	"forme": "Galar",
-	"types": [
-		"Dark",
-		"Normal"
-	],
-	"baseStats": {
-		"hp": 38,
-		"atk": 30,
-		"def": 41,
-		"spa": 30,
-		"spd": 41,
-		"spe": 60
-	},
-	"abilities": {
-		"0": "Pickup",
-		"1": "Illuminate"
-	},
-	"weightkg": 17.5,
-	"evos": [
-		"Linoone-Galar"
 	],
 	"eggGroups": [
 		"Field"
@@ -9385,49 +7536,11 @@ linoone: {
 	},
 	"abilities": {
 		"0": "Pickup",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 32.5,
 	"prevo": "Zigzagoon",
 	"evoLevel": 20,
-	"eggGroups": [
-		"Field"
-	],
-	"otherFormes": [
-		"Linoone-Galar"
-	],
-	"formeOrder": [
-		"Linoone",
-		"Linoone-Galar"
-	]
-},
-linoonegalar: {
-	"num": 264,
-	"name": "Linoone-Galar",
-	"baseSpecies": "Linoone",
-	"forme": "Galar",
-	"types": [
-		"Dark",
-		"Normal"
-	],
-	"baseStats": {
-		"hp": 78,
-		"atk": 70,
-		"def": 61,
-		"spa": 50,
-		"spd": 61,
-		"spe": 100
-	},
-	"abilities": {
-		"0": "Pickup",
-		"1": "Illuminate"
-	},
-	"weightkg": 32.5,
-	"prevo": "Zigzagoon-Galar",
-	"evoLevel": 20,
-	"evos": [
-		"Obstagoon"
-	],
 	"eggGroups": [
 		"Field"
 	]
@@ -9503,7 +7616,7 @@ beautifly: {
 	},
 	"abilities": {
 		"0": "Swarm",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 28.4,
 	"prevo": "Silcoon",
@@ -9582,8 +7695,7 @@ lotad: {
 	},
 	"abilities": {
 		"0": "Swift Swim",
-		"1": "Rain Dish",
-		"H": "Own Tempo"
+		"1": "Rain Dish"
 	},
 	"weightkg": 2.6,
 	"evos": [
@@ -9611,8 +7723,7 @@ lombre: {
 	},
 	"abilities": {
 		"0": "Swift Swim",
-		"1": "Rain Dish",
-		"H": "Own Tempo"
+		"1": "Rain Dish"
 	},
 	"weightkg": 32.5,
 	"prevo": "Lotad",
@@ -9642,8 +7753,7 @@ ludicolo: {
 	},
 	"abilities": {
 		"0": "Swift Swim",
-		"1": "Rain Dish",
-		"H": "Own Tempo"
+		"1": "Rain Dish"
 	},
 	"weightkg": 55,
 	"prevo": "Lombre",
@@ -9756,7 +7866,7 @@ taillow: {
 	},
 	"abilities": {
 		"0": "Guts",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 2.3,
 	"evos": [
@@ -9783,7 +7893,7 @@ swellow: {
 	},
 	"abilities": {
 		"0": "Guts",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 19.8,
 	"prevo": "Taillow",
@@ -9808,9 +7918,7 @@ wingull: {
 		"spe": 85
 	},
 	"abilities": {
-		"0": "Keen Eye",
-		"1": "Illuminate",
-		"H": "Rain Dish"
+		"0": "Keen Eye"
 	},
 	"weightkg": 9.5,
 	"evos": [
@@ -9837,9 +7945,7 @@ pelipper: {
 		"spe": 65
 	},
 	"abilities": {
-		"0": "Keen Eye",
-		"1": "Drizzle",
-		"H": "Rain Dish"
+		"0": "Keen Eye"
 	},
 	"weightkg": 28,
 	"prevo": "Wingull",
@@ -9933,38 +8039,6 @@ gardevoir: {
 	"eggGroups": [
 		"Human-Like",
 		"Amorphous"
-	],
-	"otherFormes": [
-		"Gardevoir-Mega"
-	],
-	"formeOrder": [
-		"Gardevoir",
-		"Gardevoir-Mega"
-	]
-},
-gardevoirmega: {
-	"num": 282,
-	"name": "Gardevoir-Mega",
-	"baseSpecies": "Gardevoir",
-	"forme": "Mega",
-	"types": [
-		"Psychic",
-		"Normal"
-	],
-	"baseStats": {
-		"hp": 68,
-		"atk": 75,
-		"def": 65,
-		"spa": 145,
-		"spd": 125,
-		"spe": 90
-	},
-	"abilities": {
-		"0": "Illuminate"
-	},
-	"weightkg": 48.4,
-	"eggGroups": [
-		"Amorphous"
 	]
 },
 surskit: {
@@ -10012,7 +8086,7 @@ masquerain: {
 	},
 	"abilities": {
 		"0": "Intimidate",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 3.6,
 	"prevo": "Surskit",
@@ -10038,7 +8112,7 @@ shroomish: {
 	},
 	"abilities": {
 		"0": "Effect Spore",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 4.5,
 	"evos": [
@@ -10066,7 +8140,7 @@ breloom: {
 	},
 	"abilities": {
 		"0": "Effect Spore",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 39.2,
 	"prevo": "Shroomish",
@@ -10197,7 +8271,7 @@ ninjask: {
 	},
 	"abilities": {
 		"0": "Speed Boost",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 12,
 	"prevo": "Nincada",
@@ -10249,7 +8323,7 @@ whismur: {
 	},
 	"abilities": {
 		"0": "Soundproof",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 16.3,
 	"evos": [
@@ -10276,7 +8350,7 @@ loudred: {
 	},
 	"abilities": {
 		"0": "Soundproof",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 40.5,
 	"prevo": "Whismur",
@@ -10305,7 +8379,7 @@ exploud: {
 	},
 	"abilities": {
 		"0": "Soundproof",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 84,
 	"prevo": "Loudred",
@@ -10451,7 +8525,7 @@ skitty: {
 	},
 	"abilities": {
 		"0": "Cute Charm",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 11,
 	"evos": [
@@ -10482,7 +8556,7 @@ delcatty: {
 	},
 	"abilities": {
 		"0": "Cute Charm",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 32.6,
 	"prevo": "Skitty",
@@ -10510,41 +8584,9 @@ sableye: {
 	},
 	"abilities": {
 		"0": "Keen Eye",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 11,
-	"eggGroups": [
-		"Human-Like"
-	],
-	"otherFormes": [
-		"Sableye-Mega"
-	],
-	"formeOrder": [
-		"Sableye",
-		"Sableye-Mega"
-	]
-},
-sableyemega: {
-	"num": 302,
-	"name": "Sableye-Mega",
-	"baseSpecies": "Sableye",
-	"forme": "Mega",
-	"types": [
-		"Dark",
-		"Ghost"
-	],
-	"baseStats": {
-		"hp": 50,
-		"atk": 80,
-		"def": 100,
-		"spa": 75,
-		"spd": 90,
-		"spe": 35
-	},
-	"abilities": {
-		"0": "Illuminate"
-	},
-	"weightkg": 161,
 	"eggGroups": [
 		"Human-Like"
 	]
@@ -10569,39 +8611,6 @@ mawile: {
 		"1": "Intimidate"
 	},
 	"weightkg": 11.5,
-	"eggGroups": [
-		"Field",
-		"Fairy"
-	],
-	"otherFormes": [
-		"Mawile-Mega"
-	],
-	"formeOrder": [
-		"Mawile",
-		"Mawile-Mega"
-	]
-},
-mawilemega: {
-	"num": 303,
-	"name": "Mawile-Mega",
-	"baseSpecies": "Mawile",
-	"forme": "Mega",
-	"types": [
-		"Steel",
-		"Normal"
-	],
-	"baseStats": {
-		"hp": 50,
-		"atk": 95,
-		"def": 105,
-		"spa": 55,
-		"spd": 75,
-		"spe": 50
-	},
-	"abilities": {
-		"0": "Huge Power"
-	},
-	"weightkg": 23.5,
 	"eggGroups": [
 		"Field",
 		"Fairy"
@@ -10687,37 +8696,6 @@ aggron: {
 	"evoLevel": 42,
 	"eggGroups": [
 		"Monster"
-	],
-	"otherFormes": [
-		"Aggron-Mega"
-	],
-	"formeOrder": [
-		"Aggron",
-		"Aggron-Mega"
-	]
-},
-aggronmega: {
-	"num": 306,
-	"name": "Aggron-Mega",
-	"baseSpecies": "Aggron",
-	"forme": "Mega",
-	"types": [
-		"Steel"
-	],
-	"baseStats": {
-		"hp": 70,
-		"atk": 125,
-		"def": 205,
-		"spa": 60,
-		"spd": 70,
-		"spe": 50
-	},
-	"abilities": {
-		"0": "Illuminate"
-	},
-	"weightkg": 395,
-	"eggGroups": [
-		"Monster"
 	]
 },
 meditite: {
@@ -10737,7 +8715,7 @@ meditite: {
 	},
 	"abilities": {
 		"0": "Pure Power",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 11.2,
 	"evos": [
@@ -10764,43 +8742,11 @@ medicham: {
 	},
 	"abilities": {
 		"0": "Pure Power",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 31.5,
 	"prevo": "Meditite",
 	"evoLevel": 37,
-	"eggGroups": [
-		"Human-Like"
-	],
-	"otherFormes": [
-		"Medicham-Mega"
-	],
-	"formeOrder": [
-		"Medicham",
-		"Medicham-Mega"
-	]
-},
-medichammega: {
-	"num": 308,
-	"name": "Medicham-Mega",
-	"baseSpecies": "Medicham",
-	"forme": "Mega",
-	"types": [
-		"Fighting",
-		"Psychic"
-	],
-	"baseStats": {
-		"hp": 60,
-		"atk": 80,
-		"def": 80,
-		"spa": 70,
-		"spd": 80,
-		"spe": 90
-	},
-	"abilities": {
-		"0": "Pure Power"
-	},
-	"weightkg": 31.5,
 	"eggGroups": [
 		"Human-Like"
 	]
@@ -10821,8 +8767,7 @@ electrike: {
 	},
 	"abilities": {
 		"0": "Static",
-		"1": "Lightning Rod",
-		"H": "Minus"
+		"1": "Lightning Rod"
 	},
 	"weightkg": 15.2,
 	"evos": [
@@ -10848,43 +8793,11 @@ manectric: {
 	},
 	"abilities": {
 		"0": "Static",
-		"1": "Lightning Rod",
-		"H": "Minus"
+		"1": "Lightning Rod"
 	},
 	"weightkg": 40.2,
 	"prevo": "Electrike",
 	"evoLevel": 26,
-	"eggGroups": [
-		"Field"
-	],
-	"otherFormes": [
-		"Manectric-Mega"
-	],
-	"formeOrder": [
-		"Manectric",
-		"Manectric-Mega"
-	]
-},
-manectricmega: {
-	"num": 310,
-	"name": "Manectric-Mega",
-	"baseSpecies": "Manectric",
-	"forme": "Mega",
-	"types": [
-		"Electric"
-	],
-	"baseStats": {
-		"hp": 70,
-		"atk": 75,
-		"def": 70,
-		"spa": 120,
-		"spd": 70,
-		"spe": 120
-	},
-	"abilities": {
-		"0": "Intimidate"
-	},
-	"weightkg": 44,
 	"eggGroups": [
 		"Field"
 	]
@@ -10951,7 +8864,7 @@ volbeat: {
 		"spe": 85
 	},
 	"abilities": {
-		"0": "Illuminate",
+		"0": ,
 		"1": "Swarm"
 	},
 	"weightkg": 17.7,
@@ -10977,7 +8890,7 @@ illumise: {
 	},
 	"abilities": {
 		"0": "Oblivious",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 17.7,
 	"eggGroups": [
@@ -11119,38 +9032,6 @@ sharpedo: {
 	"evoLevel": 30,
 	"eggGroups": [
 		"Water 2"
-	],
-	"otherFormes": [
-		"Sharpedo-Mega"
-	],
-	"formeOrder": [
-		"Sharpedo",
-		"Sharpedo-Mega"
-	]
-},
-sharpedomega: {
-	"num": 319,
-	"name": "Sharpedo-Mega",
-	"baseSpecies": "Sharpedo",
-	"forme": "Mega",
-	"types": [
-		"Water",
-		"Dark"
-	],
-	"baseStats": {
-		"hp": 70,
-		"atk": 130,
-		"def": 55,
-		"spa": 102,
-		"spd": 52,
-		"spe": 100
-	},
-	"abilities": {
-		"0": "Illuminate"
-	},
-	"weightkg": 130.3,
-	"eggGroups": [
-		"Water 2"
 	]
 },
 wailmer: {
@@ -11169,8 +9050,7 @@ wailmer: {
 	},
 	"abilities": {
 		"0": "Water Veil",
-		"1": "Oblivious",
-		"H": "Pressure"
+		"1": "Oblivious"
 	},
 	"weightkg": 130,
 	"evos": [
@@ -11197,8 +9077,7 @@ wailord: {
 	},
 	"abilities": {
 		"0": "Water Veil",
-		"1": "Oblivious",
-		"H": "Pressure"
+		"1": "Oblivious"
 	},
 	"weightkg": 398,
 	"prevo": "Wailmer",
@@ -11224,9 +9103,7 @@ numel: {
 		"spe": 35
 	},
 	"abilities": {
-		"0": "Oblivious",
-		"1": "Illuminate",
-		"H": "Own Tempo"
+		"0": "Oblivious"
 	},
 	"weightkg": 24,
 	"evos": [
@@ -11253,43 +9130,11 @@ camerupt: {
 	},
 	"abilities": {
 		"0": "Magma Armor",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 220,
 	"prevo": "Numel",
 	"evoLevel": 33,
-	"eggGroups": [
-		"Field"
-	],
-	"otherFormes": [
-		"Camerupt-Mega"
-	],
-	"formeOrder": [
-		"Camerupt",
-		"Camerupt-Mega"
-	]
-},
-cameruptmega: {
-	"num": 323,
-	"name": "Camerupt-Mega",
-	"baseSpecies": "Camerupt",
-	"forme": "Mega",
-	"types": [
-		"Fire",
-		"Ground"
-	],
-	"baseStats": {
-		"hp": 70,
-		"atk": 110,
-		"def": 85,
-		"spa": 125,
-		"spd": 90,
-		"spe": 30
-	},
-	"abilities": {
-		"0": "Illuminate"
-	},
-	"weightkg": 320.5,
 	"eggGroups": [
 		"Field"
 	]
@@ -11309,9 +9154,7 @@ torkoal: {
 		"spe": 20
 	},
 	"abilities": {
-		"0": "White Smoke",
-		"1": "Drought",
-		"H": "Shell Armor"
+		"0": "White Smoke"
 	},
 	"weightkg": 80.4,
 	"eggGroups": [
@@ -11385,7 +9228,7 @@ spinda: {
 	},
 	"abilities": {
 		"0": "Own Tempo",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 5,
 	"eggGroups": [
@@ -11490,7 +9333,7 @@ cacnea: {
 		"spe": 35
 	},
 	"abilities": {
-		"0": "Illuminate",
+		"0": ,
 		"1": "Water Absorb"
 	},
 	"weightkg": 51.3,
@@ -11518,7 +9361,7 @@ cacturne: {
 		"spe": 55
 	},
 	"abilities": {
-		"0": "Illuminate",
+		"0": ,
 		"1": "Water Absorb"
 	},
 	"weightkg": 77.4,
@@ -11582,39 +9425,6 @@ altaria: {
 	"eggGroups": [
 		"Flying",
 		"Dragon"
-	],
-	"otherFormes": [
-		"Altaria-Mega"
-	],
-	"formeOrder": [
-		"Altaria",
-		"Altaria-Mega"
-	]
-},
-altariamega: {
-	"num": 334,
-	"name": "Altaria-Mega",
-	"baseSpecies": "Altaria",
-	"forme": "Mega",
-	"types": [
-		"Dragon",
-		"Normal"
-	],
-	"baseStats": {
-		"hp": 75,
-		"atk": 90,
-		"def": 100,
-		"spa": 90,
-		"spd": 105,
-		"spe": 80
-	},
-	"abilities": {
-		"0": "Illuminate"
-	},
-	"weightkg": 20.6,
-	"eggGroups": [
-		"Flying",
-		"Dragon"
 	]
 },
 zangoose: {
@@ -11633,7 +9443,7 @@ zangoose: {
 	},
 	"abilities": {
 		"0": "Immunity",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 40.3,
 	"eggGroups": [
@@ -11656,7 +9466,7 @@ seviper: {
 	},
 	"abilities": {
 		"0": "Shed Skin",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 52.5,
 	"eggGroups": [
@@ -11729,7 +9539,7 @@ barboach: {
 	},
 	"abilities": {
 		"0": "Oblivious",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 1.9,
 	"evos": [
@@ -11756,7 +9566,7 @@ whiscash: {
 	},
 	"abilities": {
 		"0": "Oblivious",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 23.6,
 	"prevo": "Barboach",
@@ -11893,7 +9703,7 @@ lileep: {
 	},
 	"abilities": {
 		"0": "Suction Cups",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 23.8,
 	"evos": [
@@ -11924,7 +9734,7 @@ cradily: {
 	},
 	"abilities": {
 		"0": "Suction Cups",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 60.4,
 	"prevo": "Lileep",
@@ -12036,9 +9846,7 @@ milotic: {
 		"spe": 81
 	},
 	"abilities": {
-		"0": "Marvel Scale",
-		"1": "Illuminate",
-		"H": "Cute Charm"
+		"0": "Marvel Scale"
 	},
 	"weightkg": 162,
 	"prevo": "Feebas",
@@ -12177,7 +9985,7 @@ kecleon: {
 	},
 	"abilities": {
 		"0": "Color Change",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 22,
 	"eggGroups": [
@@ -12199,8 +10007,7 @@ shuppet: {
 		"spe": 45
 	},
 	"abilities": {
-		"0": "Insomnia",
-		"1": "Illuminate"
+		"0": "Insomnia"
 	},
 	"weightkg": 2.3,
 	"evos": [
@@ -12225,43 +10032,11 @@ banette: {
 		"spe": 65
 	},
 	"abilities": {
-		"0": "Insomnia",
-		"1": "Illuminate"
+		"0": "Insomnia"
 	},
 	"weightkg": 12.5,
 	"prevo": "Shuppet",
 	"evoLevel": 37,
-	"eggGroups": [
-		"Amorphous"
-	],
-	"otherFormes": [
-		"Banette-Mega"
-	],
-	"formeOrder": [
-		"Banette",
-		"Banette-Mega"
-	]
-},
-banettemega: {
-	"num": 354,
-	"name": "Banette-Mega",
-	"baseSpecies": "Banette",
-	"forme": "Mega",
-	"types": [
-		"Ghost"
-	],
-	"baseStats": {
-		"hp": 64,
-		"atk": 140,
-		"def": 70,
-		"spa": 88,
-		"spd": 73,
-		"spe": 70
-	},
-	"abilities": {
-		"0": "Illuminate"
-	},
-	"weightkg": 13,
 	"eggGroups": [
 		"Amorphous"
 	]
@@ -12282,7 +10057,7 @@ duskull: {
 	},
 	"abilities": {
 		"0": "Levitate",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 15,
 	"evos": [
@@ -12308,7 +10083,7 @@ dusclops: {
 	},
 	"abilities": {
 		"0": "Pressure",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 30.6,
 	"prevo": "Duskull",
@@ -12336,8 +10111,7 @@ tropius: {
 		"spe": 51
 	},
 	"abilities": {
-		"0": "Chlorophyll",
-		"1": "Illuminate"
+		"0": "Chlorophyll" 
 	},
 	"weightkg": 100,
 	"eggGroups": [
@@ -12386,41 +10160,9 @@ absol: {
 		"spe": 75
 	},
 	"abilities": {
-		"0": "Pressure",
-		"1": "Illuminate"
+		"0": "Pressure"
 	},
 	"weightkg": 47,
-	"eggGroups": [
-		"Field"
-	],
-	"otherFormes": [
-		"Absol-Mega"
-	],
-	"formeOrder": [
-		"Absol",
-		"Absol-Mega"
-	]
-},
-absolmega: {
-	"num": 359,
-	"name": "Absol-Mega",
-	"baseSpecies": "Absol",
-	"forme": "Mega",
-	"types": [
-		"Dark"
-	],
-	"baseStats": {
-		"hp": 65,
-		"atk": 140,
-		"def": 60,
-		"spa": 95,
-		"spd": 60,
-		"spe": 95
-	},
-	"abilities": {
-		"0": "Illuminate"
-	},
-	"weightkg": 49,
 	"eggGroups": [
 		"Field"
 	]
@@ -12441,7 +10183,7 @@ wynaut: {
 	},
 	"abilities": {
 		"0": "Shadow Tag",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 14,
 	"evos": [
@@ -12468,7 +10210,7 @@ snorunt: {
 	},
 	"abilities": {
 		"0": "Inner Focus",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 16.8,
 	"evos": [
@@ -12496,43 +10238,11 @@ glalie: {
 	},
 	"abilities": {
 		"0": "Inner Focus",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 256.5,
 	"prevo": "Snorunt",
 	"evoLevel": 42,
-	"eggGroups": [
-		"Fairy",
-		"Mineral"
-	],
-	"otherFormes": [
-		"Glalie-Mega"
-	],
-	"formeOrder": [
-		"Glalie",
-		"Glalie-Mega"
-	]
-},
-glaliemega: {
-	"num": 362,
-	"name": "Glalie-Mega",
-	"baseSpecies": "Glalie",
-	"forme": "Mega",
-	"types": [
-		"Ice"
-	],
-	"baseStats": {
-		"hp": 80,
-		"atk": 100,
-		"def": 80,
-		"spa": 100,
-		"spd": 80,
-		"spe": 90
-	},
-	"abilities": {
-		"0": "Illuminate"
-	},
-	"weightkg": 350.2,
 	"eggGroups": [
 		"Fairy",
 		"Mineral"
@@ -12554,9 +10264,7 @@ spheal: {
 		"spe": 25
 	},
 	"abilities": {
-		"0": "Thick Fat",
-		"1": "Illuminate",
-		"H": "Oblivious"
+		"0": "Thick Fat"
 	},
 	"weightkg": 39.5,
 	"evos": [
@@ -12583,9 +10291,7 @@ sealeo: {
 		"spe": 45
 	},
 	"abilities": {
-		"0": "Thick Fat",
-		"1": "Illuminate",
-		"H": "Oblivious"
+		"0": "Thick Fat"
 	},
 	"weightkg": 87.6,
 	"prevo": "Spheal",
@@ -12614,9 +10320,7 @@ walrein: {
 		"spe": 65
 	},
 	"abilities": {
-		"0": "Thick Fat",
-		"1": "Illuminate",
-		"H": "Oblivious"
+		"0": "Thick Fat"
 	},
 	"weightkg": 150.6,
 	"prevo": "Sealeo",
@@ -12642,7 +10346,7 @@ clamperl: {
 	},
 	"abilities": {
 		"0": "Shell Armor",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 52.5,
 	"evos": [
@@ -12695,7 +10399,7 @@ gorebyss: {
 	},
 	"abilities": {
 		"0": "Swift Swim",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 22.6,
 	"prevo": "Clamperl",
@@ -12726,8 +10430,7 @@ relicanth: {
 	},
 	"abilities": {
 		"0": "Swift Swim",
-		"1": "Rock Head",
-		"H": "Sturdy"
+		"1": "Rock Head"
 	},
 	"weightkg": 23.4,
 	"eggGroups": [
@@ -12755,7 +10458,7 @@ luvdisc: {
 	},
 	"abilities": {
 		"0": "Swift Swim",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 8.7,
 	"eggGroups": [
@@ -12778,7 +10481,7 @@ bagon: {
 	},
 	"abilities": {
 		"0": "Rock Head",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 42.1,
 	"evos": [
@@ -12804,7 +10507,7 @@ shelgon: {
 	},
 	"abilities": {
 		"0": "Rock Head",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 110.5,
 	"prevo": "Bagon",
@@ -12833,43 +10536,11 @@ salamence: {
 	},
 	"abilities": {
 		"0": "Intimidate",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 102.6,
 	"prevo": "Shelgon",
 	"evoLevel": 50,
-	"eggGroups": [
-		"Dragon"
-	],
-	"otherFormes": [
-		"Salamence-Mega"
-	],
-	"formeOrder": [
-		"Salamence",
-		"Salamence-Mega"
-	]
-},
-salamencemega: {
-	"num": 373,
-	"name": "Salamence-Mega",
-	"baseSpecies": "Salamence",
-	"forme": "Mega",
-	"types": [
-		"Dragon",
-		"Flying"
-	],
-	"baseStats": {
-		"hp": 95,
-		"atk": 140,
-		"def": 105,
-		"spa": 115,
-		"spd": 85,
-		"spe": 110
-	},
-	"abilities": {
-		"0": "Illuminate"
-	},
-	"weightkg": 112.6,
 	"eggGroups": [
 		"Dragon"
 	]
@@ -12892,7 +10563,7 @@ beldum: {
 	},
 	"abilities": {
 		"0": "Clear Body",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 95.2,
 	"evos": [
@@ -12920,7 +10591,7 @@ metang: {
 	},
 	"abilities": {
 		"0": "Clear Body",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 202.5,
 	"prevo": "Beldum",
@@ -12950,7 +10621,7 @@ metagross: {
 	},
 	"abilities": {
 		"0": "Clear Body",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 550,
 	"prevo": "Metang",
@@ -12958,39 +10629,7 @@ metagross: {
 	"eggGroups": [
 		"Mineral"
 	],
-	"otherFormes": [
-		"Metagross-Mega"
-	],
-	"formeOrder": [
-		"Metagross",
-		"Metagross-Mega"
-	]
-},
-metagrossmega: {
-	"num": 376,
-	"name": "Metagross-Mega",
-	"baseSpecies": "Metagross",
-	"forme": "Mega",
-	"types": [
-		"Steel",
-		"Psychic"
-	],
-	"gender": "N",
-	"baseStats": {
-		"hp": 80,
-		"atk": 140,
-		"def": 140,
-		"spa": 100,
-		"spd": 100,
-		"spe": 90
-	},
-	"abilities": {
-		"0": "Illuminate"
-	},
-	"weightkg": 942.9,
-	"eggGroups": [
-		"Mineral"
-	]
+
 },
 regirock: {
 	"num": 377,
@@ -13036,7 +10675,7 @@ regice: {
 	},
 	"abilities": {
 		"0": "Clear Body",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 175,
 	"tags": [
@@ -13063,7 +10702,7 @@ registeel: {
 	},
 	"abilities": {
 		"0": "Clear Body",
-		"1": "Illuminate"
+		"1": 
 	},
 	"weightkg": 205,
 	"tags": [
@@ -13098,39 +10737,6 @@ latias: {
 	],
 	"eggGroups": [
 		"Undiscovered"
-	],
-	"otherFormes": [
-		"Latias-Mega"
-	],
-	"formeOrder": [
-		"Latias",
-		"Latias-Mega"
-	]
-},
-latiasmega: {
-	"num": 380,
-	"name": "Latias-Mega",
-	"baseSpecies": "Latias",
-	"forme": "Mega",
-	"types": [
-		"Dragon",
-		"Psychic"
-	],
-	"gender": "F",
-	"baseStats": {
-		"hp": 80,
-		"atk": 90,
-		"def": 105,
-		"spa": 125,
-		"spd": 140,
-		"spe": 110
-	},
-	"abilities": {
-		"0": "Levitate"
-	},
-	"weightkg": 52,
-	"eggGroups": [
-		"Undiscovered"
 	]
 },
 latios: {
@@ -13158,39 +10764,6 @@ latios: {
 	],
 	"tags": [
 		"Sub-Legendary"
-	],
-	"otherFormes": [
-		"Latios-Mega"
-	],
-	"formeOrder": [
-		"Latios",
-		"Latios-Mega"
-	]
-},
-latiosmega: {
-	"num": 381,
-	"name": "Latios-Mega",
-	"baseSpecies": "Latios",
-	"forme": "Mega",
-	"types": [
-		"Dragon",
-		"Psychic"
-	],
-	"gender": "M",
-	"baseStats": {
-		"hp": 80,
-		"atk": 110,
-		"def": 90,
-		"spa": 145,
-		"spd": 115,
-		"spe": 110
-	},
-	"abilities": {
-		"0": "Levitate"
-	},
-	"weightkg": 70,
-	"eggGroups": [
-		"Undiscovered"
 	]
 },
 kyogre: {
@@ -13244,7 +10817,7 @@ kyogreprimal: {
 		"spe": 90
 	},
 	"abilities": {
-		"0": "Illuminate"
+		"0": 
 	},
 	"weightkg": 430,
 	"eggGroups": [
@@ -13303,7 +10876,7 @@ groudonprimal: {
 		"spe": 90
 	},
 	"abilities": {
-		"0": "Illuminate"
+		"0": 
 	},
 	"weightkg": 999.7,
 	"eggGroups": [
@@ -13333,39 +10906,6 @@ rayquaza: {
 	"tags": [
 		"Restricted Legendary"
 	],
-	"eggGroups": [
-		"Undiscovered"
-	],
-	"otherFormes": [
-		"Rayquaza-Mega"
-	],
-	"formeOrder": [
-		"Rayquaza",
-		"Rayquaza-Mega"
-	]
-},
-rayquazamega: {
-	"num": 384,
-	"name": "Rayquaza-Mega",
-	"baseSpecies": "Rayquaza",
-	"forme": "Mega",
-	"types": [
-		"Dragon",
-		"Flying"
-	],
-	"gender": "N",
-	"baseStats": {
-		"hp": 105,
-		"atk": 165,
-		"def": 95,
-		"spa": 165,
-		"spd": 95,
-		"spe": 105
-	},
-	"abilities": {
-		"0": "Illuminate"
-	},
-	"weightkg": 392,
 	"eggGroups": [
 		"Undiscovered"
 	]
@@ -13718,8 +11258,7 @@ mimejr: {
 	},
 	"weightkg": 13,
 	"evos": [
-		"Mr. Mime",
-		"Mr. Mime-Galar"
+		"Mr. Mime"
 	],
 	"eggGroups": [
 		"Undiscovered"
@@ -13802,8 +11341,7 @@ mantyke: {
 	},
 	"abilities": {
 		"0": "Swift Swim",
-		"1": "Water Absorb",
-		"H": "Water Veil"
+		"1": "Water Absorb"
 	},
 	"weightkg": 65,
 	"evos": [
@@ -13886,8 +11424,7 @@ lickilicky: {
 	},
 	"abilities": {
 		"0": "Own Tempo",
-		"1": "Oblivious",
-		"H": "Cloud Nine"
+		"1": "Oblivious"
 	},
 	"weightkg": 140,
 	"prevo": "Lickitung",
@@ -14333,13 +11870,12 @@ wyrdeer: {
 		"spe": 65
 	},
 	"abilities": {
-		"0": "Intimidate",
-		"1": "Illuminate"
+		"0": "Intimidate"
 	},
 	"weightkg": 95.1,
 	"prevo": "Stantler",
 	"evoType": "other",
-	"evoCondition": "Use Agile style Psyshield Bash 20 times",
+	"evoLevel": "21",
 	"eggGroups": [
 		"Field"
 	]
@@ -14361,7 +11897,6 @@ kleavor: {
 	},
 	"abilities": {
 		"0": "Swarm",
-		"1": "Illuminate"
 	},
 	"weightkg": 89,
 	"prevo": "Scyther",
@@ -14387,8 +11922,7 @@ ursaluna: {
 		"spe": 50
 	},
 	"abilities": {
-		"0": "Guts",
-		"1": "Illuminate"
+		"0": "Guts"
 	},
 	"weightkg": 290,
 	"prevo": "Ursaring",
@@ -14397,5 +11931,82 @@ ursaluna: {
 	"eggGroups": [
 		"Field"
 	] 
+},
+annihilape: {
+	"num": 979,
+	"name": "Annihilape",
+	"types": [
+		"Fighting",
+		"Ghost"
+	],
+	"baseStats": {
+		"hp": 110,
+		"atk": 115,
+		"def": 80,
+		"spa": 50,
+		"spd": 90,
+		"spe": 90
+	},
+	"abilities": {
+		"0": "Vital Spirit",
+		"1": "Inner Focus"
+	},
+	"weightkg": 56.0,
+	"prevo": "Primeape",
+	"evoLevel": 37,
+	"eggGroups": [
+		"Field"
+	]
+},
+farigiraf: {
+	"num": 981,
+	"name": "Farigiraf",
+	"types": [
+		"Normal",
+		"Psychic"
+	],
+	"baseStats": {
+		"hp": 120,
+		"atk": 90,
+		"def": 70,
+		"spa": 110,
+		"spd": 70,
+		"spe": 60
+	},
+	"abilities": {
+		"0": "Early Bird",
+		"1": "Inner Focus"
+	},
+	"weightkg": 160.0,
+	"prevo": "Girafarig",
+	"evoLevel": 32,
+	"eggGroups": [
+		"Field"
+	]
+},
+dudunsparce: {
+	"num": 982,
+	"name": "Dudunsparce",
+	"types": [
+		"Normal"
+	],
+	"baseStats": {
+		"hp": 125,
+		"atk": 100,
+		"def": 80,
+		"spa": 85,
+		"spd": 75,
+		"spe": 55
+	},
+	"abilities": {
+		"0": "Serene Grace",
+		"1": "Run Away"
+	},
+	"weightkg": 47.4,
+	"prevo": "Dunsparce",
+	"evoLevel": 32,
+	"eggGroups": [
+		"Field"
+	]
 },
 };
