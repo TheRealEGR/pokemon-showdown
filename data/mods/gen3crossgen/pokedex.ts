@@ -4068,7 +4068,7 @@ dragonite: {
 		"spe": 80
 	},
 	"abilities": {
-		"0": "Inner Focus"
+		"0": "Inner Focus",
 		"1": "Marvel Scale"
 	},
 	"weightkg": 210,
