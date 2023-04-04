@@ -1403,8 +1403,8 @@ dugtrio: {
 		"spe": 120
 	},
 	"abilities": {
-		"0": ,
-		"1": "Arena Trap"
+		"0": "Arena Trap"
+		"1": "Sand Veil"
 	},
 	"weightkg": 33.3,
 	"prevo": "Diglett",
@@ -8864,7 +8864,7 @@ volbeat: {
 		"spe": 85
 	},
 	"abilities": {
-		"0": ,
+		"0": "Iluminate",
 		"1": "Swarm"
 	},
 	"weightkg": 17.7,
@@ -9333,7 +9333,7 @@ cacnea: {
 		"spe": 35
 	},
 	"abilities": {
-		"0": ,
+		"0": "Sand Veil",
 		"1": "Water Absorb"
 	},
 	"weightkg": 51.3,
@@ -9361,7 +9361,7 @@ cacturne: {
 		"spe": 55
 	},
 	"abilities": {
-		"0": ,
+		"0": "Sand Veil",
 		"1": "Water Absorb"
 	},
 	"weightkg": 77.4,
