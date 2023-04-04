@@ -1403,7 +1403,7 @@ dugtrio: {
 		"spe": 120
 	},
 	"abilities": {
-		"0": "Arena Trap"
+		"0": "Arena Trap",
 		"1": "Sand Veil"
 	},
 	"weightkg": 33.3,
