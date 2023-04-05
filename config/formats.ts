@@ -3710,7 +3710,6 @@ export const Formats: FormatList = [
 		searchShow: false,
 		ruleset: ['[Gen 4] NU'],
 		banlist: ['NU', 'PUBL'],
-		]
 	},
 	{
 		name: "[Gen 4] LC",
