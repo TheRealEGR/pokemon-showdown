@@ -10539,41 +10539,6 @@ kyogre: {
 	"weightkg": 352,
 	"tags": [
 		"Restricted Legendary"
-	],
-	"eggGroups": [
-		"Undiscovered"
-	],
-	"otherFormes": [
-		"Kyogre-Primal"
-	],
-	"formeOrder": [
-		"Kyogre",
-		"Kyogre-Primal"
-	]
-},
-kyogreprimal: {
-	"num": 382,
-	"name": "Kyogre-Primal",
-	"baseSpecies": "Kyogre",
-	"forme": "Primal",
-	"types": [
-		"Water"
-	],
-	"gender": "N",
-	"baseStats": {
-		"hp": 100,
-		"atk": 150,
-		"def": 90,
-		"spa": 180,
-		"spd": 160,
-		"spe": 90
-	},
-	"abilities": {
-		"0": 
-	},
-	"weightkg": 430,
-	"eggGroups": [
-		"Undiscovered"
 	]
 },
 groudon: {
@@ -10598,39 +10563,6 @@ groudon: {
 	"tags": [
 		"Restricted Legendary"
 	],
-	"eggGroups": [
-		"Undiscovered"
-	],
-	"otherFormes": [
-		"Groudon-Primal"
-	],
-	"formeOrder": [
-		"Groudon",
-		"Groudon-Primal"
-	]
-},
-groudonprimal: {
-	"num": 383,
-	"name": "Groudon-Primal",
-	"baseSpecies": "Groudon",
-	"forme": "Primal",
-	"types": [
-		"Ground",
-		"Fire"
-	],
-	"gender": "N",
-	"baseStats": {
-		"hp": 100,
-		"atk": 180,
-		"def": 160,
-		"spa": 150,
-		"spd": 90,
-		"spe": 90
-	},
-	"abilities": {
-		"0": 
-	},
-	"weightkg": 999.7,
 	"eggGroups": [
 		"Undiscovered"
 	]
