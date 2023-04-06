@@ -78,3 +78,4 @@ data/mods/gen3crossgen/learnsets_annotated.ts
 data/mods/gen3crossgen/learnsets.ts
 data/mods/gen3crossgen/learnsets.ts
 data/mods/gen3crossgen/learnsets_annotated.ts
+*.ts
