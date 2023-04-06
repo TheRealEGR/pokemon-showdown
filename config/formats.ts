@@ -3758,7 +3758,7 @@ export const Formats: FormatList = [
 		mod: 'gen4',
 		searchShow: false,
 		ruleset: ['[Gen 4] PU'],
-		banlist: ['PU', 'ZUBL'],
+		banlist: ['PU'],
 	},
 	{
 		name: "[Gen 4] CAP",
