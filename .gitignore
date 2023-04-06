@@ -71,3 +71,8 @@ local_settings.py
 pip-log.txt
 # redis dumps
 *.rdb
+data/mods/gen3crossgen/rulesets.ts
+data/mods/gen3crossgen/scripts.ts
+data/mods/gen3crossgen/learnsets.ts
+data/mods/gen3crossgen/learnsets_annotated.ts
+data/mods/gen3crossgen/learnsets.ts
