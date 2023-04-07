@@ -172,6 +172,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 	},
 	annihilape: {
 		tier: "OU",
+		gen: 3,
 	},
 	growlithe: {
 		tier: "LC",
@@ -613,6 +614,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 	},
 	farigiraf: {
 		tier: "OU",
+		gen: 3,
 	},
 	pineco: {
 		tier: "LC",
@@ -625,6 +627,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 	},
 	dudunsparce: {
 		tier: "OU",
+		gen: 3,
 	},
 	gligar: {
 		tier: "LC",
@@ -1186,98 +1189,130 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 	},
 	budew: {
 		tier: "LC",
+		gen: 3,
 	},
 	roserade: {
 		tier: "OU",
+		gen: 3,
 	},
 	ambipom: {
 		tier: "OU",
+		gen: 3,
 	},
 	mismagius: {
 		tier: "OU",
+		gen: 3,
 	},
 	honchkrow: {
 		tier: "OU",
+		gen: 3,
 	},
 	chingling: {
 		tier: "LC",
+		gen: 3,
 	},
 	bonsly: {
 		tier: "LC",
+		gen: 3,
 	},
 	mimejr: {
 		tier: "LC",
+		gen: 3,
 	},
 	happiny: {
 		tier: "LC",
+		gen: 3,
 	},
 	munchlax: {
 		tier: "LC",
+		gen: 3,
 	},
 	mantyke: {
 		tier: "LC",
+		gen: 3,
 	},
 	weavile: {
 		tier: "OU",
+		gen: 3,
 	},
 	magnezone: {
 		tier: "OU",
+		gen: 3,
 	},
 	lickilicky: {
 		tier: "OU",
+		gen: 3,
 	},
 	rhyperior: {
 		tier: "OU",
+		gen: 3,
 	},
 	tangrowth: {
 		tier: "OU",
+		gen: 3,
 	},
 	electivire: {
 		tier: "OU",
+		gen: 3,
 	},
 	magmortar: {
 		tier: "OU",
+		gen: 3,
 	},
 	togekiss: {
 		tier: "OU",
+		gen: 3,
 	},
 	yanmega: {
 		tier: "OU",
+		gen: 3,
 	},
 	leafeon: {
 		tier: "OU",
+		gen: 3,
 	},
 	glaceon: {
 		tier: "OU",
+		gen: 3,
 	},
 	gliscor: {
 		tier: "OU",
+		gen: 3,
 	},
 	mamoswine: {
 		tier: "OU",
+		gen: 3,
 	},
 	porygonz: {
 		tier: "OU",
+		gen: 3,
 	},
 	gallade: {
 		tier: "OU",
+		gen: 3,
 	},
 	probopass: {
 		tier: "OU",
+		gen: 3,
 	},
 	dusknoir: {
 		tier: "OU",
+		gen: 3,
 	},
 	froslass: {
 		tier: "OU",
+		gen: 3,
 	},
 	wyrdeer: {
 		tier: "OU",
+		gen: 3,
 	},
 	kleavor: {
 		tier: "OU",
+		gen: 3,
 	},
 	ursaluna: {
 		tier: "OU",
+		gen: 3,
 	},
 };
