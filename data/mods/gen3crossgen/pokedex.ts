@@ -340,7 +340,7 @@ butterfree: {
 		"hp": 60,
 		"atk": 45,
 		"def": 50,
-		"spa": 80,
+		"spa": 90,
 		"spd": 80,
 		"spe": 70
 	},
@@ -418,7 +418,7 @@ beedrill: {
 	],
 	"baseStats": {
 		"hp": 65,
-		"atk": 80,
+		"atk": 90,
 		"def": 40,
 		"spa": 45,
 		"spd": 80,
@@ -501,7 +501,7 @@ pidgeot: {
 		"def": 75,
 		"spa": 70,
 		"spd": 70,
-		"spe": 91
+		"spe": 101
 	},
 	"abilities": {
 		"0": "Keen Eye"
@@ -650,7 +650,7 @@ arbok: {
 	],
 	"baseStats": {
 		"hp": 60,
-		"atk": 85,
+		"atk": 95,
 		"def": 69,
 		"spa": 65,
 		"spd": 79,
@@ -677,13 +677,14 @@ pikachu: {
 	"baseStats": {
 		"hp": 35,
 		"atk": 55,
-		"def": 30,
+		"def": 40,
 		"spa": 50,
-		"spd": 40,
+		"spd": 50,
 		"spe": 90
 	},
 	"abilities": {
-		"0": "Static"
+		"0": "Static",
+		"1": "Lightning Rod"
 	},
 	"weightkg": 6,
 	"prevo": "Pichu",
@@ -708,10 +709,11 @@ raichu: {
 		"def": 55,
 		"spa": 90,
 		"spd": 80,
-		"spe": 100
+		"spe": 110
 	},
 	"abilities": {
-		"0": "Static"
+		"0": "Static",
+		"1": "Lightning Rod"
 	},
 	"weightkg": 30,
 	"prevo": "Pikachu",
@@ -836,7 +838,7 @@ nidoqueen: {
 	"gender": "F",
 	"baseStats": {
 		"hp": 90,
-		"atk": 82,
+		"atk": 92,
 		"def": 87,
 		"spa": 75,
 		"spd": 85,
@@ -919,7 +921,7 @@ nidoking: {
 	"gender": "M",
 	"baseStats": {
 		"hp": 81,
-		"atk": 92,
+		"atk": 102,
 		"def": 77,
 		"spa": 85,
 		"spd": 75,
@@ -982,7 +984,7 @@ clefable: {
 		"hp": 95,
 		"atk": 70,
 		"def": 73,
-		"spa": 85,
+		"spa": 95,
 		"spd": 90,
 		"spe": 60
 	},
@@ -1100,7 +1102,7 @@ wigglytuff: {
 		"hp": 140,
 		"atk": 70,
 		"def": 45,
-		"spa": 75,
+		"spa": 85,
 		"spd": 50,
 		"spe": 45
 	},
@@ -1237,7 +1239,7 @@ vileplume: {
 		"hp": 75,
 		"atk": 80,
 		"def": 85,
-		"spa": 100,
+		"spa": 110,
 		"spd": 90,
 		"spe": 50
 	},
@@ -1394,7 +1396,7 @@ dugtrio: {
 	],
 	"baseStats": {
 		"hp": 35,
-		"atk": 80,
+		"atk": 100,
 		"def": 50,
 		"spa": 50,
 		"spd": 70,
@@ -1692,7 +1694,7 @@ poliwrath: {
 	],
 	"baseStats": {
 		"hp": 90,
-		"atk": 85,
+		"atk": 95,
 		"def": 95,
 		"spa": 70,
 		"spd": 90,
@@ -1787,7 +1789,7 @@ alakazam: {
 		"atk": 50,
 		"def": 45,
 		"spa": 135,
-		"spd": 85,
+		"spd": 95,
 		"spe": 120
 	},
 	"abilities": {
@@ -1955,7 +1957,7 @@ victreebel: {
 		"atk": 105,
 		"def": 65,
 		"spa": 100,
-		"spd": 60,
+		"spd": 70,
 		"spe": 70
 	},
 	"abilities": {
@@ -2087,7 +2089,7 @@ golem: {
 	],
 	"baseStats": {
 		"hp": 80,
-		"atk": 110,
+		"atk": 120,
 		"def": 130,
 		"spa": 55,
 		"spd": 65,
@@ -2278,7 +2280,7 @@ farfetchd: {
 	],
 	"baseStats": {
 		"hp": 52,
-		"atk": 65,
+		"atk": 90,
 		"def": 55,
 		"spa": 58,
 		"spd": 62,
@@ -2334,7 +2336,7 @@ dodrio: {
 		"def": 70,
 		"spa": 60,
 		"spd": 60,
-		"spe": 100
+		"spe": 110
 	},
 	"abilities": {
 		"0": "Run Away",
@@ -2747,7 +2749,7 @@ electrode: {
 		"def": 70,
 		"spa": 80,
 		"spd": 80,
-		"spe": 140
+		"spe": 150
 	},
 	"abilities": {
 		"0": "Soundproof",
@@ -2798,7 +2800,7 @@ exeggutor: {
 		"atk": 95,
 		"def": 85,
 		"spa": 125,
-		"spd": 65,
+		"spd": 75,
 		"spe": 55
 	},
 	"abilities": {
@@ -4491,7 +4493,7 @@ noctowl: {
 		"hp": 100,
 		"atk": 50,
 		"def": 50,
-		"spa": 76,
+		"spa": 86,
 		"spd": 96,
 		"spe": 70
 	},
@@ -4598,7 +4600,7 @@ ariados: {
 		"atk": 90,
 		"def": 70,
 		"spa": 60,
-		"spd": 60,
+		"spd": 70,
 		"spe": 40
 	},
 	"abilities": {
@@ -4992,7 +4994,7 @@ ampharos: {
 	"baseStats": {
 		"hp": 90,
 		"atk": 75,
-		"def": 75,
+		"def": 85,
 		"spa": 115,
 		"spd": 90,
 		"spe": 55
@@ -5018,7 +5020,7 @@ bellossom: {
 	"baseStats": {
 		"hp": 75,
 		"atk": 80,
-		"def": 85,
+		"def": 95,
 		"spa": 90,
 		"spd": 100,
 		"spe": 50
@@ -5076,7 +5078,7 @@ azumarill: {
 		"hp": 100,
 		"atk": 50,
 		"def": 80,
-		"spa": 50,
+		"spa": 60,
 		"spd": 80,
 		"spe": 50
 	},
@@ -5213,7 +5215,7 @@ jumpluff: {
 		"atk": 55,
 		"def": 70,
 		"spa": 55,
-		"spd": 85,
+		"spd": 95,
 		"spe": 110
 	},
 	"abilities": {
@@ -5859,7 +5861,7 @@ qwilfish: {
 	"baseStats": {
 		"hp": 65,
 		"atk": 95,
-		"def": 75,
+		"def": 85,
 		"spa": 55,
 		"spd": 55,
 		"spe": 85
@@ -6061,10 +6063,10 @@ magcargo: {
 		"Rock"
 	],
 	"baseStats": {
-		"hp": 50,
+		"hp": 60,
 		"atk": 50,
 		"def": 120,
-		"spa": 80,
+		"spa": 90,
 		"spd": 80,
 		"spe": 30
 	},
@@ -6145,11 +6147,11 @@ corsola: {
 		"F": 0.75
 	},
 	"baseStats": {
-		"hp": 55,
+		"hp": 65,
 		"atk": 55,
-		"def": 85,
+		"def": 95,
 		"spa": 65,
-		"spd": 85,
+		"spd": 95,
 		"spe": 35
 	},
 	"abilities": {
@@ -6248,7 +6250,7 @@ mantine: {
 		"Flying"
 	],
 	"baseStats": {
-		"hp": 65,
+		"hp": 85,
 		"atk": 40,
 		"def": 70,
 		"spa": 80,
@@ -7384,7 +7386,7 @@ beautifly: {
 		"hp": 60,
 		"atk": 70,
 		"def": 50,
-		"spa": 90,
+		"spa": 100,
 		"spd": 50,
 		"spe": 65
 	},
@@ -7659,7 +7661,7 @@ swellow: {
 		"hp": 60,
 		"atk": 85,
 		"def": 60,
-		"spa": 50,
+		"spa": 75,
 		"spd": 50,
 		"spe": 125
 	},
@@ -7711,7 +7713,7 @@ pelipper: {
 		"hp": 60,
 		"atk": 50,
 		"def": 100,
-		"spa": 85,
+		"spa": 95,
 		"spd": 70,
 		"spe": 65
 	},
@@ -7851,9 +7853,9 @@ masquerain: {
 		"hp": 70,
 		"atk": 60,
 		"def": 62,
-		"spa": 80,
+		"spa": 100,
 		"spd": 82,
-		"spe": 60
+		"spe": 80
 	},
 	"abilities": {
 		"0": "Intimidate",
@@ -8143,7 +8145,7 @@ exploud: {
 		"atk": 91,
 		"def": 63,
 		"spa": 91,
-		"spd": 63,
+		"spd": 73,
 		"spe": 68
 	},
 	"abilities": {
@@ -8319,7 +8321,7 @@ delcatty: {
 		"def": 65,
 		"spa": 55,
 		"spd": 55,
-		"spe": 70
+		"spe": 90
 	},
 	"abilities": {
 		"0": "Cute Charm"
@@ -8621,9 +8623,9 @@ volbeat: {
 	"baseStats": {
 		"hp": 65,
 		"atk": 73,
-		"def": 55,
+		"def": 75,
 		"spa": 47,
-		"spd": 75,
+		"spd": 85,
 		"spe": 85
 	},
 	"abilities": {
@@ -8646,9 +8648,9 @@ illumise: {
 	"baseStats": {
 		"hp": 65,
 		"atk": 47,
-		"def": 55,
+		"def": 75,
 		"spa": 73,
-		"spd": 75,
+		"spd": 85,
 		"spe": 85
 	},
 	"abilities": {
@@ -9245,7 +9247,7 @@ lunatone: {
 	],
 	"gender": "N",
 	"baseStats": {
-		"hp": 70,
+		"hp": 90,
 		"atk": 55,
 		"def": 65,
 		"spa": 95,
@@ -9269,7 +9271,7 @@ solrock: {
 	],
 	"gender": "N",
 	"baseStats": {
-		"hp": 70,
+		"hp": 90,
 		"atk": 95,
 		"def": 85,
 		"spa": 55,
@@ -9886,11 +9888,11 @@ chimecho: {
 		"Psychic"
 	],
 	"baseStats": {
-		"hp": 65,
+		"hp": 75,
 		"atk": 50,
-		"def": 70,
+		"def": 80,
 		"spa": 95,
-		"spd": 80,
+		"spd": 90,
 		"spe": 65
 	},
 	"abilities": {
@@ -10537,6 +10539,9 @@ kyogre: {
 	"weightkg": 352,
 	"tags": [
 		"Restricted Legendary"
+	],
+	"eggGroups": [
+		"Undiscovered"
 	]
 },
 groudon: {
@@ -10736,6 +10741,8 @@ deoxysspeed: {
 	"changesFrom": "Deoxys"
 },
 budew: {
+	"inherit": true,
+	"gen": 3,
 	"num": 406,
 	"name": "Budew",
 	"types": [
@@ -10764,6 +10771,8 @@ budew: {
 	"canHatch": true
 },
 roserade: {
+	"inherit": true,
+	"gen": 3,
 	"num": 407,
 	"name": "Roserade",
 	"types": [
@@ -10773,7 +10782,7 @@ roserade: {
 	"baseStats": {
 		"hp": 60,
 		"atk": 70,
-		"def": 55,
+		"def": 65,
 		"spa": 125,
 		"spd": 105,
 		"spe": 90
@@ -10792,6 +10801,8 @@ roserade: {
 	]
 },
 ambipom: {
+	"inherit": true,
+	"gen": 3,
 	"num": 424,
 	"name": "Ambipom",
 	"types": [
@@ -10817,6 +10828,8 @@ ambipom: {
 	]
 },
 mismagius: {
+	"inherit": true,
+	"gen": 3,
 	"num": 429,
 	"name": "Mismagius",
 	"types": [
@@ -10842,6 +10855,8 @@ mismagius: {
 	]
 },
 honchkrow: {
+	"inherit": true,
+	"gen": 3,
 	"num": 430,
 	"name": "Honchkrow",
 	"types": [
@@ -10868,6 +10883,8 @@ honchkrow: {
 	]
 },
 chingling: {
+	"inherit": true,
+	"gen": 3,
 	"num": 433,
 	"name": "Chingling",
 	"types": [
@@ -10894,6 +10911,8 @@ chingling: {
 	"canHatch": true
 },
 bonsly: {
+	"inherit": true,
+	"gen": 3,
 	"num": 438,
 	"name": "Bonsly",
 	"types": [
@@ -10921,6 +10940,8 @@ bonsly: {
 	"canHatch": true
 },
 mimejr: {
+	"inherit": true,
+	"gen": 3,
 	"num": 439,
 	"name": "Mime Jr.",
 	"types": [
@@ -10948,6 +10969,8 @@ mimejr: {
 	"canHatch": true
 },
 happiny: {
+	"inherit": true,
+	"gen": 3,
 	"num": 440,
 	"name": "Happiny",
 	"types": [
@@ -10976,6 +10999,8 @@ happiny: {
 	"canHatch": true
 },
 munchlax: {
+	"inherit": true,
+	"gen": 3,
 	"num": 446,
 	"name": "Munchlax",
 	"types": [
@@ -11007,6 +11032,8 @@ munchlax: {
 	"canHatch": true
 },
 mantyke: {
+	"inherit": true,
+	"gen": 3,
 	"num": 458,
 	"name": "Mantyke",
 	"types": [
@@ -11035,6 +11062,8 @@ mantyke: {
 	"canHatch": true
 },
 weavile: {
+	"inherit": true,
+	"gen": 3,
 	"num": 461,
 	"name": "Weavile",
 	"types": [
@@ -11063,6 +11092,8 @@ weavile: {
 	]
 },
 magnezone: {
+	"inherit": true,
+	"gen": 3,
 	"num": 462,
 	"name": "Magnezone",
 	"types": [
@@ -11091,6 +11122,8 @@ magnezone: {
 	]
 },
 lickilicky: {
+	"inherit": true,
+	"gen": 3,
 	"num": 463,
 	"name": "Lickilicky",
 	"types": [
@@ -11117,6 +11150,8 @@ lickilicky: {
 	]
 },
 rhyperior: {
+	"inherit": true,
+	"gen": 3,
 	"num": 464,
 	"name": "Rhyperior",
 	"types": [
@@ -11145,6 +11180,8 @@ rhyperior: {
 	]
 },
 tangrowth: {
+	"inherit": true,
+	"gen": 3,
 	"num": 465,
 	"name": "Tangrowth",
 	"types": [
@@ -11170,6 +11207,8 @@ tangrowth: {
 	]
 },
 electivire: {
+	"inherit": true,
+	"gen": 3,
 	"num": 466,
 	"name": "Electivire",
 	"types": [
@@ -11200,6 +11239,8 @@ electivire: {
 	]
 },
 magmortar: {
+	"inherit": true,
+	"gen": 3,
 	"num": 467,
 	"name": "Magmortar",
 	"types": [
@@ -11230,6 +11271,8 @@ magmortar: {
 	]
 },
 togekiss: {
+	"inherit": true,
+	"gen": 3,
 	"num": 468,
 	"name": "Togekiss",
 	"types": [
@@ -11262,6 +11305,8 @@ togekiss: {
 	]
 },
 yanmega: {
+	"inherit": true,
+	"gen": 3,
 	"num": 469,
 	"name": "Yanmega",
 	"types": [
@@ -11289,6 +11334,8 @@ yanmega: {
 	]
 },
 leafeon: {
+	"inherit": true,
+	"gen": 3,
 	"num": 470,
 	"name": "Leafeon",
 	"types": [
@@ -11318,6 +11365,8 @@ leafeon: {
 	]
 },
 glaceon: {
+	"inherit": true,
+	"gen": 3,
 	"num": 471,
 	"name": "Glaceon",
 	"types": [
@@ -11347,6 +11396,8 @@ glaceon: {
 	]
 },
 gliscor: {
+	"inherit": true,
+	"gen": 3,
 	"num": 472,
 	"name": "Gliscor",
 	"types": [
@@ -11375,6 +11426,8 @@ gliscor: {
 	]
 },
 mamoswine: {
+	"inherit": true,
+	"gen": 3,
 	"num": 473,
 	"name": "Mamoswine",
 	"types": [
@@ -11402,6 +11455,8 @@ mamoswine: {
 	]
 },
 porygonz: {
+	"inherit": true,
+	"gen": 3,
 	"num": 474,
 	"name": "Porygon-Z",
 	"types": [
@@ -11428,6 +11483,8 @@ porygonz: {
 	]
 },
 gallade: {
+	"inherit": true,
+	"gen": 3,
 	"num": 475,
 	"name": "Gallade",
 	"types": [
@@ -11457,6 +11514,8 @@ gallade: {
 	],
 },
 probopass: {
+	"inherit": true,
+	"gen": 3,
 	"num": 476,
 	"name": "Probopass",
 	"types": [
@@ -11484,6 +11543,8 @@ probopass: {
 	]
 },
 dusknoir: {
+	"inherit": true,
+	"gen": 3,
 	"num": 477,
 	"name": "Dusknoir",
 	"types": [
@@ -11509,6 +11570,8 @@ dusknoir: {
 	]
 },
 froslass: {
+	"inherit": true,
+	"gen": 3,
 	"num": 478,
 	"name": "Froslass",
 	"types": [
@@ -11537,6 +11600,8 @@ froslass: {
 	]
 },
 wyrdeer: {
+	"inherit": true,
+	"gen": 3,
 	"num": 899,
 	"name": "Wyrdeer",
 	"types": [
@@ -11563,6 +11628,8 @@ wyrdeer: {
 	]
 },
 kleavor: {
+	"inherit": true,
+	"gen": 3,
 	"num": 900,
 	"name": "Kleavor",
 	"types": [
@@ -11589,6 +11656,8 @@ kleavor: {
 	]
 },
 ursaluna: {
+	"inherit": true,
+	"gen": 3,
 	"num": 901,
 	"name": "Ursaluna",
 	"types": [
@@ -11615,6 +11684,8 @@ ursaluna: {
 	] 
 },
 annihilape: {
+	"inherit": true,
+	"gen": 3,
 	"num": 979,
 	"name": "Annihilape",
 	"types": [
@@ -11641,6 +11712,8 @@ annihilape: {
 	]
 },
 farigiraf: {
+	"inherit": true,
+	"gen": 3,
 	"num": 981,
 	"name": "Farigiraf",
 	"types": [
@@ -11667,6 +11740,8 @@ farigiraf: {
 	]
 },
 dudunsparce: {
+	"inherit": true,
+	"gen": 3,
 	"num": 982,
 	"name": "Dudunsparce",
 	"types": [
