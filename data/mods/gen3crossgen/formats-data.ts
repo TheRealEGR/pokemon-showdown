@@ -1188,131 +1188,130 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 		tier: "Uber",
 	},
 	budew: {
-		tier: "LC",
 		gen: 3,
+		tier: "LC",
 	},
 	roserade: {
-		tier: "OU",
 		gen: 3,
+		tier: "OU",
 	},
 	ambipom: {
-		tier: "OU",
 		gen: 3,
+		tier: "OU",
 	},
 	mismagius: {
-		tier: "OU",
 		gen: 3,
+		tier: "OU",
 	},
 	honchkrow: {
-		tier: "OU",
 		gen: 3,
+		tier: "OU",
 	},
 	chingling: {
-		tier: "LC",
 		gen: 3,
+		tier: "LC",
 	},
 	bonsly: {
-		tier: "LC",
 		gen: 3,
+		tier: "LC",
 	},
 	mimejr: {
-		tier: "LC",
 		gen: 3,
+		tier: "LC",
 	},
 	happiny: {
-		tier: "LC",
 		gen: 3,
+		tier: "LC",
 	},
 	munchlax: {
-		tier: "LC",
 		gen: 3,
+		tier: "LC",
 	},
 	mantyke: {
-		tier: "LC",
 		gen: 3,
+		tier: "LC",
 	},
 	weavile: {
-		tier: "OU",
 		gen: 3,
+		tier: "OU",
 	},
 	magnezone: {
-		tier: "OU",
 		gen: 3,
+		tier: "OU",
 	},
 	lickilicky: {
-		tier: "OU",
 		gen: 3,
+		tier: "OU",
 	},
 	rhyperior: {
-		tier: "OU",
 		gen: 3,
+		tier: "OU",
 	},
 	tangrowth: {
-		tier: "OU",
 		gen: 3,
+		tier: "OU",
 	},
 	electivire: {
-		tier: "OU",
 		gen: 3,
+		tier: "OU",
 	},
 	magmortar: {
-		tier: "OU",
 		gen: 3,
+		tier: "OU",
 	},
 	togekiss: {
-		tier: "OU",
 		gen: 3,
+		tier: "OU",
 	},
 	yanmega: {
-		tier: "OU",
 		gen: 3,
+		tier: "OU",
 	},
 	leafeon: {
-		tier: "OU",
 		gen: 3,
+		tier: "OU",
 	},
 	glaceon: {
-		tier: "OU",
 		gen: 3,
+		tier: "OU",
 	},
 	gliscor: {
-		tier: "OU",
 		gen: 3,
+		tier: "OU",
 	},
 	mamoswine: {
-		tier: "OU",
 		gen: 3,
+		tier: "OU",
 	},
 	porygonz: {
-		tier: "OU",
 		gen: 3,
+		tier: "OU",
 	},
 	gallade: {
-		tier: "OU",
 		gen: 3,
+		tier: "OU",
 	},
 	probopass: {
-		tier: "OU",
 		gen: 3,
+		tier: "OU",
 	},
 	dusknoir: {
-		tier: "OU",
 		gen: 3,
+		tier: "OU",
 	},
 	froslass: {
-		tier: "OU",
 		gen: 3,
+		tier: "OU",
 	},
 	wyrdeer: {
-		tier: "OU",
 		gen: 3,
+		tier: "OU",
 	},
 	kleavor: {
-		tier: "OU",
 		gen: 3,
+		tier: "OU",
 	},
 	ursaluna: {
-		tier: "OU",
 		gen: 3,
+		tier: "OU",
 	},
-};
