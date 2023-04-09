@@ -171,8 +171,8 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 		tier: "NFE",
 	},
 	annihilape: {
-		tier: "OU",
 		gen: 3,
+		tier: "OU",
 	},
 	growlithe: {
 		tier: "LC",
@@ -613,8 +613,8 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 		tier: "LC",
 	},
 	farigiraf: {
-		tier: "OU",
 		gen: 3,
+		tier: "OU",
 	},
 	pineco: {
 		tier: "LC",
@@ -626,8 +626,8 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 		tier: "LC",
 	},
 	dudunsparce: {
-		tier: "OU",
 		gen: 3,
+		tier: "OU",
 	},
 	gligar: {
 		tier: "LC",
@@ -1315,3 +1315,4 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 		gen: 3,
 		tier: "OU",
 	},
+};
