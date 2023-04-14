@@ -224,7 +224,7 @@ export const Formats: FormatList = [
 
 		mod: 'gen3crossgen',
 		ruleset: ['Standard', 'Freeze Clause Mod'],
-		banlist: ['Uber', 'OU', 'UUBL' 'Sand Veil', 'Assist', 'Baton Pass'],
+		banlist: ['Uber', 'OU', 'UUBL', 'Sand Veil', 'Assist', 'Baton Pass'],
 	},
 	
 	
