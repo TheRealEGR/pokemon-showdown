@@ -24,4 +24,4 @@ export const Formats: FormatList = [
 		ruleset: ['Standard', 'Freeze Clause Mod'],
 		banlist: ['Uber', 'OU', 'UUBL', 'Sand Veil', 'Assist', 'Baton Pass'],
 	},
-],
+];
