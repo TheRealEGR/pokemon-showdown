@@ -201,33 +201,6 @@ export const Formats: FormatList = [
 		// no restrictions, for serious (other than team preview)
 		ruleset: ['Team Preview', 'Cancel Mod', 'Max Team Size = 24', 'Max Move Count = 24', 'Max Level = 9999', 'Default Level = 100'],
 	},
-	
-	// Custom Formats 
-	///////////////////////////////////////////////////////////////////
-	
-	{
-		name: "[Gen 3] CrossGen OU",
-
-		mod: 'gen3crossgen',
-		ruleset: ['Standard', 'Freeze Clause Mod'],
-		banlist: ['Uber', 'Sand Veil', 'Assist', 'Baton Pass'],
-	},
-		{
-		name: "[Gen 3] CrossGen Ubers",
-
-		mod: 'gen3crossgen',
-		ruleset: ['Standard', 'Freeze Clause Mod'],
-		banlist: ['Sand Veil', 'Assist', 'Baton Pass'],
-	},
-		{
-		name: "[Gen 3] CrossGen UU",
-
-		mod: 'gen3crossgen',
-		ruleset: ['Standard', 'Freeze Clause Mod'],
-		banlist: ['Uber', 'OU', 'UUBL', 'Sand Veil', 'Assist', 'Baton Pass'],
-	},
-	
-	
 	// S/V Doubles
 	///////////////////////////////////////////////////////////////////
 
