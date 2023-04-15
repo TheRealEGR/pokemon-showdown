@@ -770,7 +770,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 		tier: "LC",
 	},
 	ambipom: {
-		tier: "UU",
+		tier: "RU",
 		doublesTier: "DUU",
 	},
 	sunkern: {
