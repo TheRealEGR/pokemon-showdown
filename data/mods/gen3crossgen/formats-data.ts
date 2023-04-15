@@ -171,6 +171,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 		tier: "NFE",
 	},
 	annihilape: {
+		inherit: true,
 		gen: 3,
 		tier: "OU",
 	},
@@ -613,6 +614,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 		tier: "LC",
 	},
 	farigiraf: {
+		inherit: true,
 		gen: 3,
 		tier: "OU",
 	},
@@ -626,6 +628,7 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 		tier: "LC",
 	},
 	dudunsparce: {
+		inherit: true,
 		gen: 3,
 		tier: "OU",
 	},
@@ -1188,130 +1191,162 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 		tier: "Uber",
 	},
 	budew: {
+		inherit: true,
 		gen: 3,
 		tier: "LC",
 	},
 	roserade: {
+		inherit: true,
 		gen: 3,
 		tier: "OU",
 	},
 	ambipom: {
+		inherit: true,
 		gen: 3,
 		tier: "OU",
 	},
 	mismagius: {
+		inherit: true,
 		gen: 3,
 		tier: "OU",
 	},
 	honchkrow: {
+		inherit: true,
 		gen: 3,
 		tier: "OU",
 	},
 	chingling: {
+		inherit: true,
 		gen: 3,
 		tier: "LC",
 	},
 	bonsly: {
+		inherit: true,
 		gen: 3,
 		tier: "LC",
 	},
 	mimejr: {
+		inherit: true,
 		gen: 3,
 		tier: "LC",
 	},
 	happiny: {
+		inherit: true,
 		gen: 3,
 		tier: "LC",
 	},
 	munchlax: {
+		inherit: true,
 		gen: 3,
 		tier: "LC",
 	},
 	mantyke: {
+		inherit: true,
 		gen: 3,
 		tier: "LC",
 	},
 	weavile: {
+		inherit: true,
 		gen: 3,
 		tier: "OU",
 	},
 	magnezone: {
+		inherit: true,
 		gen: 3,
 		tier: "OU",
 	},
 	lickilicky: {
+		inherit: true,
 		gen: 3,
 		tier: "OU",
 	},
 	rhyperior: {
+		inherit: true,
 		gen: 3,
 		tier: "OU",
 	},
 	tangrowth: {
+		inherit: true,
 		gen: 3,
 		tier: "OU",
 	},
 	electivire: {
+		inherit: true,
 		gen: 3,
 		tier: "OU",
 	},
 	magmortar: {
+		inherit: true,
 		gen: 3,
 		tier: "OU",
 	},
 	togekiss: {
+		inherit: true,
 		gen: 3,
 		tier: "OU",
 	},
 	yanmega: {
+		inherit: true,
 		gen: 3,
 		tier: "OU",
 	},
 	leafeon: {
+		inherit: true,
 		gen: 3,
 		tier: "OU",
 	},
 	glaceon: {
+		inherit: true,
 		gen: 3,
 		tier: "OU",
 	},
 	gliscor: {
+		inherit: true,
 		gen: 3,
 		tier: "OU",
 	},
 	mamoswine: {
+		inherit: true,
 		gen: 3,
 		tier: "OU",
 	},
 	porygonz: {
+		inherit: true,
 		gen: 3,
 		tier: "OU",
 	},
 	gallade: {
+		inherit: true,
 		gen: 3,
 		tier: "OU",
 	},
 	probopass: {
+		inherit: true,
 		gen: 3,
 		tier: "OU",
 	},
 	dusknoir: {
+		inherit: true,
 		gen: 3,
 		tier: "OU",
 	},
 	froslass: {
+		inherit: true,
 		gen: 3,
 		tier: "OU",
 	},
 	wyrdeer: {
+		inherit: true,
 		gen: 3,
 		tier: "OU",
 	},
 	kleavor: {
+		inherit: true,
 		gen: 3,
 		tier: "OU",
 	},
 	ursaluna: {
+		inherit: true,
 		gen: 3,
 		tier: "OU",
 	},
