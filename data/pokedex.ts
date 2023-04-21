@@ -7328,6 +7328,8 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		evos: ["Roselia"],
 		eggGroups: ["Undiscovered"],
 		canHatch: true,
+		inherit: true,
+		gen: 3
 	},
 	roserade: {
 		num: 407,
@@ -7342,6 +7344,8 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		evoType: "useItem",
 		evoItem: "Shiny Stone",
 		eggGroups: ["Fairy", "Grass"],
+		inherit: true,
+		gen: 3
 	},
 	cranidos: {
 		num: 408,
@@ -7625,6 +7629,8 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		evoType: "levelMove",
 		evoMove: "Double Hit",
 		eggGroups: ["Field"],
+		inherit: true,
+		gen: 3
 	},
 	drifloon: {
 		num: 425,
@@ -7705,6 +7711,8 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		evoType: "useItem",
 		evoItem: "Dusk Stone",
 		eggGroups: ["Amorphous"],
+		inherit: true,
+		gen: 3
 	},
 	honchkrow: {
 		num: 430,
@@ -7719,6 +7727,8 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		evoType: "useItem",
 		evoItem: "Dusk Stone",
 		eggGroups: ["Flying"],
+		inherit: true,
+		gen: 3
 	},
 	glameow: {
 		num: 431,
@@ -7759,6 +7769,8 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		evos: ["Chimecho"],
 		eggGroups: ["Undiscovered"],
 		canHatch: true,
+		inherit: true,
+		gen: 3
 	},
 	stunky: {
 		num: 434,
@@ -7824,6 +7836,8 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		evos: ["Sudowoodo"],
 		eggGroups: ["Undiscovered"],
 		canHatch: true,
+		inherit: true,
+		gen: 3
 	},
 	mimejr: {
 		num: 439,
@@ -7837,6 +7851,8 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		evos: ["Mr. Mime", "Mr. Mime-Galar"],
 		eggGroups: ["Undiscovered"],
 		canHatch: true,
+		inherit: true,
+		gen: 3
 	},
 	happiny: {
 		num: 440,
@@ -7851,6 +7867,8 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		evos: ["Chansey"],
 		eggGroups: ["Undiscovered"],
 		canHatch: true,
+		inherit: true,
+		gen: 3
 	},
 	chatot: {
 		num: 441,
@@ -7942,6 +7960,8 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		evos: ["Snorlax"],
 		eggGroups: ["Undiscovered"],
 		canHatch: true,
+		inherit: true,
+		gen: 3
 	},
 	riolu: {
 		num: 447,
@@ -8112,6 +8132,8 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		evos: ["Mantine"],
 		eggGroups: ["Undiscovered"],
 		canHatch: true,
+		inherit: true,
+		gen: 3
 	},
 	snover: {
 		num: 459,
@@ -8168,6 +8190,8 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		evoItem: "Razor Claw",
 		evoCondition: "at night",
 		eggGroups: ["Field"],
+		inherit: true,
+		gen: 3
 	},
 	magnezone: {
 		num: 462,
@@ -8183,6 +8207,8 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		evoType: "useItem",
 		evoItem: "Thunder Stone",
 		eggGroups: ["Mineral"],
+		inherit: true,
+		gen: 3
 	},
 	lickilicky: {
 		num: 463,
@@ -8197,6 +8223,8 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		evoType: "levelMove",
 		evoMove: "Rollout",
 		eggGroups: ["Monster"],
+		inherit: true,
+		gen: 3
 	},
 	rhyperior: {
 		num: 464,
@@ -8211,6 +8239,8 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		evoType: "trade",
 		evoItem: "Protector",
 		eggGroups: ["Monster", "Field"],
+		inherit: true,
+		gen: 3
 	},
 	tangrowth: {
 		num: 465,
@@ -8225,6 +8255,8 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		evoType: "levelMove",
 		evoMove: "Ancient Power",
 		eggGroups: ["Grass"],
+		inherit: true,
+		gen: 3
 	},
 	electivire: {
 		num: 466,
@@ -8240,6 +8272,8 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		evoType: "trade",
 		evoItem: "Electirizer",
 		eggGroups: ["Human-Like"],
+		inherit: true,
+		gen: 3
 	},
 	magmortar: {
 		num: 467,
@@ -8255,6 +8289,8 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		evoType: "trade",
 		evoItem: "Magmarizer",
 		eggGroups: ["Human-Like"],
+		inherit: true,
+		gen: 3
 	},
 	togekiss: {
 		num: 468,
@@ -8270,6 +8306,8 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		evoType: "useItem",
 		evoItem: "Shiny Stone",
 		eggGroups: ["Flying", "Fairy"],
+		inherit: true,
+		gen: 3
 	},
 	yanmega: {
 		num: 469,
@@ -8284,6 +8322,8 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		evoType: "levelMove",
 		evoMove: "Ancient Power",
 		eggGroups: ["Bug"],
+		inherit: true,
+		gen: 3
 	},
 	leafeon: {
 		num: 470,
@@ -8299,6 +8339,8 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		evoType: "useItem",
 		evoItem: "Leaf Stone",
 		eggGroups: ["Field"],
+		inherit: true,
+		gen: 3
 	},
 	glaceon: {
 		num: 471,
@@ -8314,6 +8356,8 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		evoType: "useItem",
 		evoItem: "Ice Stone",
 		eggGroups: ["Field"],
+		inherit: true,
+		gen: 3
 	},
 	gliscor: {
 		num: 472,
@@ -8329,6 +8373,8 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		evoItem: "Razor Fang",
 		evoCondition: "at night",
 		eggGroups: ["Bug"],
+		inherit: true,
+		gen: 3
 	},
 	mamoswine: {
 		num: 473,
@@ -8343,6 +8389,8 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		evoType: "levelMove",
 		evoMove: "Ancient Power",
 		eggGroups: ["Field"],
+		inherit: true,
+		gen: 3
 	},
 	porygonz: {
 		num: 474,
@@ -8358,6 +8406,8 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		evoType: "trade",
 		evoItem: "Dubious Disc",
 		eggGroups: ["Mineral"],
+		inherit: true,
+		gen: 3
 	},
 	gallade: {
 		num: 475,
@@ -8375,6 +8425,8 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		eggGroups: ["Human-Like", "Amorphous"],
 		otherFormes: ["Gallade-Mega"],
 		formeOrder: ["Gallade", "Gallade-Mega"],
+		inherit: true,
+		gen: 3
 	},
 	gallademega: {
 		num: 475,
@@ -8404,6 +8456,8 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		evoType: "levelExtra",
 		evoCondition: "near a special magnetic field",
 		eggGroups: ["Mineral"],
+		inherit: true,
+		gen: 3
 	},
 	dusknoir: {
 		num: 477,
@@ -8418,6 +8472,8 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		evoType: "trade",
 		evoItem: "Reaper Cloth",
 		eggGroups: ["Amorphous"],
+		inherit: true,
+		gen: 3
 	},
 	froslass: {
 		num: 478,
@@ -8433,6 +8489,8 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		evoType: "useItem",
 		evoItem: "Dawn Stone",
 		eggGroups: ["Fairy", "Mineral"],
+		inherit: true,
+		gen: 3
 	},
 	rotom: {
 		num: 479,
@@ -16402,9 +16460,10 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		weightkg: 95.1,
 		color: "White",
 		prevo: "Stantler",
-		evoType: "other",
-		evoCondition: "Use Agile style Psyshield Bash 20 times",
+		evoLevel: 30,
 		eggGroups: ["Field"],
+		inherit: true,
+		gen: 3
 	},
 	kleavor: {
 		num: 900,
@@ -16416,9 +16475,10 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		weightkg: 89,
 		color: "Brown",
 		prevo: "Scyther",
-		evoType: "other",
-		evoCondition: "Black Augurite",
+		evoLevel: 30,
 		eggGroups: ["Bug"],
+		inherit: true,
+		gen: 3
 	},
 	ursaluna: {
 		num: 901,
@@ -16430,9 +16490,10 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		weightkg: 290,
 		color: "Brown",
 		prevo: "Ursaring",
-		evoType: "other",
-		evoCondition: "Peat Block when there's a full moon",
+		evoLevel: 69,
 		eggGroups: ["Field"],
+		inherit: true,
+		gen: 3
 	},
 	basculegion: {
 		num: 902,
@@ -17574,9 +17635,10 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		weightkg: 56,
 		color: "Gray",
 		prevo: "Primeape",
-		evoType: "other",
-		evoCondition: "Use Rage Fist 20 times and level-up",
+		evoLevel: 30,
 		eggGroups: ["Field"],
+		inherit: true,
+		gen: 3
 	},
 	clodsire: {
 		num: 980,
@@ -17601,9 +17663,10 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		weightkg: 160,
 		color: "Brown",
 		prevo: "Girafarig",
-		evoType: "levelMove",
-		evoMove: "Twin Beam",
+		evoLevel: 30,
 		eggGroups: ["Field"],
+		inherit: true,
+		gen: 3
 	},
 	dudunsparce: {
 		num: 982,
@@ -17616,11 +17679,12 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		weightkg: 39.2,
 		color: "Yellow",
 		prevo: "Dunsparce",
-		evoType: "levelMove",
-		evoMove: "Hyper Drill",
+		evoLevel: 30,
 		otherFormes: ["Dudunsparce-Three-Segment"],
 		formeOrder: ["Dudunsparce", "Dudunsparce-Three-Segment"],
 		eggGroups: ["Field"],
+		inherit: true,
+		gen: 3
 	},
 	dudunsparcethreesegment: {
 		num: 982,
@@ -17634,9 +17698,10 @@ export const Pokedex: {[speciesid: string]: SpeciesData} = {
 		weightkg: 47.4,
 		color: "Yellow",
 		prevo: "Dunsparce",
-		evoType: "levelMove",
-		evoMove: "Hyper Drill",
+		evoLevel: 30,
 		eggGroups: ["Field"],
+		inherit: true,
+		gen: 3
 	},
 	kingambit: {
 		num: 983,
