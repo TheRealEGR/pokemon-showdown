@@ -716,6 +716,12 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 		column: 2,
 	},
 	{
+		name: "[Gen 3] Crossgen",
+		mod: 'gen3crossgen',
+		ruleset: ['Standard', 'One Boost Passer Clause', 'Freeze Clause Mod', 'Allow Tradeback'],
+		banlist: ['Uber', 'Smeargle + Ingrain', 'Sand Veil', 'Soundproof', 'Assist', 'Baton Pass + Block', 'Baton Pass + Mean Look', 'Baton Pass + Spider Web', 'Swagger'],
+	},
+	{
 		name: "[Gen 9] Almost Any Ability",
 		desc: `Pok&eacute;mon have access to almost any ability.`,
 		mod: 'gen9',
