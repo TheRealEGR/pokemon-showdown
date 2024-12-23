@@ -1175,148 +1175,112 @@ export const FormatsData: import('../../../sim/dex-species').ModdedSpeciesFormat
 	deoxysspeed: {
 		tier: "Uber",
 	},
-	budew:
-	{
+	budew: {
 		tier: "LC",
 	},
-	roserade:
-	{
+	roserade: {
 		tier: "OU",
 	},
-	ambipom:
-	{
+	ambipom: {
 		tier: "OU",
 	},
-	mismagius:
-	{
+	mismagius: {
 		tier: "OU",
 	},
-	honchkrow:
-	{
+	honchkrow: {
 		tier: "OU",
 	},
-	chingling:
-	{
+	chingling: {
 		tier: "LC",
 	},
-	bonsly:
-	{
+	bonsly: {
 		tier: "LC",
 	},
-	mimejr:
-	{
+	mimejr: {
 		tier: "LC",
 	},
-	happiny:
-	{
+	happiny: {
 		tier: "LC",
 	},
-	munchlax:
-	{
+	munchlax: {
 		tier: "LC",
 	},
-	mantyke:
-	{
+	mantyke: {
 		tier: "LC",
 	},
-	weavile:
-	{
+	weavile: {
 		tier: "OU",
 	},
-	magnezone:
-	{
+	magnezone: {
 		tier: "OU",
 	},
-	lickilicky:
-	{
+	lickilicky: {
 		tier: "OU",
 	},
-	rhyperior:
-	{
+	rhyperior: {
 		tier: "OU",
 	},
-	tangrowth:
-	{
+	tangrowth: {
 		tier: "OU",
 	},
-	electivire:
-	{
+	electivire: {
 		tier: "OU",
 	},
-	magmortar:
-	{
+	magmortar: {
 		tier: "OU",
 	},
-	togekiss:
-	{
+	togekiss: {
 		tier: "OU",
 	},
-	yanmega:
-	{
+	yanmega: {
 		tier: "OU",
 	},
-	leafeon:
-	{
+	leafeon: {
 		tier: "OU",
 	},
-	glaceon:
-	{
+	glaceon: {
 		tier: "OU",
 	},
-	gliscor:
-	{
+	gliscor: {
 		tier: "OU",
 	},
-	mamoswine:
-	{
+	mamoswine: {
 		tier: "OU",
 	},
-	porygonz:
-	{
+	porygonz: {
 		tier: "OU",
 	},
-	gallade:
-	{
+	gallade: {
 		tier: "OU",
 	},
-	probopass:
-	{
+	probopass: {
 		tier: "OU",
 	},
-	dusknoir:
-	{
+	dusknoir: {
 		tier: "OU",
 	},
-	froslass:
-	{
+	froslass: {
 		tier: "OU",
 	},
-	wyrdeer:
-	{
+	wyrdeer: {
 		tier: "OU",
 	},
-	kleavor:
-	{
+	kleavor: {
 		tier: "OU",
 	},
-	ursaluna:
-	{
+	ursaluna: {
 		tier: "OU",
 	},
-	annihilape:
-	{
+	annihilape: {
 		tier: "OU",
 	},
-	farigiraf:
-	{
+	farigiraf: {
 		tier: "OU",
 	},
-	dudunsparce:
-	{
+	dudunsparce: {
 		tier: "OU",
 	},
-	dudunsparcethreesegment:
-	{
+	dudunsparcethreesegment: {
 		tier: "OU",
 	},
 };
