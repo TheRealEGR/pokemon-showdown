@@ -7319,6 +7319,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	budew: {
+		inherit: true,
+		gen: 3,
 		num: 406,
 		name: "Budew",
 		types: ["Grass", "Poison"],
@@ -7332,6 +7334,8 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canHatch: true,
 	},
 	roserade: {
+		inherit: true,
+		gen: 3,
 		num: 407,
 		name: "Roserade",
 		types: ["Grass", "Poison"],
