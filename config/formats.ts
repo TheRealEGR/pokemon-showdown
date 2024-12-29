@@ -359,6 +359,12 @@ export const Formats: import('../sim/dex-formats').FormatList = [
 		ruleset: ['Standard', 'One Boost Passer Clause', 'Freeze Clause Mod', 'Allow Tradeback'],
 		banlist: ['Uber', 'Smeargle + Ingrain', 'Sand Veil', 'Soundproof', 'Assist', 'Baton Pass + Block', 'Baton Pass + Mean Look', 'Baton Pass + Spider Web', 'Swagger'],
 	},
+	{
+		name: "[Gen 3] ADV DX OU",
+		mod: 'gen3advdx',
+		ruleset: ['Standard', 'One Boost Passer Clause', 'Freeze Clause Mod', 'Allow Tradeback'],
+		banlist: ['Uber', 'Smeargle + Ingrain', 'Sand Veil', 'Soundproof', 'Assist', 'Baton Pass + Block', 'Baton Pass + Mean Look', 'Baton Pass + Spider Web', 'Swagger'],
+	},
 
 	// Draft League
 	///////////////////////////////////////////////////////////////////
