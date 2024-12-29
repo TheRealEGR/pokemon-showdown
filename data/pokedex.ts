@@ -7319,8 +7319,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	budew: {
-		inherit: true,
-		gen: 3,
 		num: 406,
 		name: "Budew",
 		types: ["Grass", "Poison"],
@@ -7334,8 +7332,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canHatch: true,
 	},
 	roserade: {
-		inherit: true,
-		gen: 3,
 		num: 407,
 		name: "Roserade",
 		types: ["Grass", "Poison"],
@@ -7619,8 +7615,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		formeOrder: ["Gastrodon", "Gastrodon-East"],
 	},
 	ambipom: {
-		inherit: true,
-		gen: 3,
 		num: 424,
 		name: "Ambipom",
 		types: ["Normal"],
@@ -7701,8 +7695,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Lopunnite",
 	},
 	mismagius: {
-		inherit: true,
-		gen: 3,
 		num: 429,
 		name: "Mismagius",
 		types: ["Ghost"],
@@ -7717,8 +7709,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Amorphous"],
 	},
 	honchkrow: {
-		inherit: true,
-		gen: 3,
 		num: 430,
 		name: "Honchkrow",
 		types: ["Dark", "Flying"],
@@ -7733,8 +7723,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying"],
 	},
 	glameow: {
-		inherit: true,
-		gen: 3,
 		num: 431,
 		name: "Glameow",
 		types: ["Normal"],
@@ -7762,8 +7750,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	chingling: {
-		inherit: true,
-		gen: 3,
 		num: 433,
 		name: "Chingling",
 		types: ["Psychic"],
@@ -7829,8 +7815,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral"],
 	},
 	bonsly: {
-		inherit: true,
-		gen: 3,
 		num: 438,
 		name: "Bonsly",
 		types: ["Rock"],
@@ -7844,8 +7828,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canHatch: true,
 	},
 	mimejr: {
-		inherit: true,
-		gen: 3,
 		num: 439,
 		name: "Mime Jr.",
 		types: ["Psychic", "Fairy"],
@@ -7859,8 +7841,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		canHatch: true,
 	},
 	happiny: {
-		inherit: true,
-		gen: 3,
 		num: 440,
 		name: "Happiny",
 		types: ["Normal"],
@@ -7952,8 +7932,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Garchompite",
 	},
 	munchlax: {
-		inherit: true,
-		gen: 3,
 		num: 446,
 		name: "Munchlax",
 		types: ["Normal"],
@@ -8125,8 +8103,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 2"],
 	},
 	mantyke: {
-		inherit: true,
-		gen: 3,
 		num: 458,
 		name: "Mantyke",
 		types: ["Water", "Flying"],
@@ -8181,8 +8157,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Abomasite",
 	},
 	weavile: {
-		inherit: true,
-		gen: 3,
 		num: 461,
 		name: "Weavile",
 		types: ["Dark", "Ice"],
@@ -8198,8 +8172,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	magnezone: {
-		inherit: true,
-		gen: 3,
 		num: 462,
 		name: "Magnezone",
 		types: ["Electric", "Steel"],
@@ -8215,8 +8187,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral"],
 	},
 	lickilicky: {
-		inherit: true,
-		gen: 3,
 		num: 463,
 		name: "Lickilicky",
 		types: ["Normal"],
@@ -8231,8 +8201,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster"],
 	},
 	rhyperior: {
-		inherit: true,
-		gen: 3,
 		num: 464,
 		name: "Rhyperior",
 		types: ["Ground", "Rock"],
@@ -8247,8 +8215,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Monster", "Field"],
 	},
 	tangrowth: {
-		inherit: true,
-		gen: 3,
 		num: 465,
 		name: "Tangrowth",
 		types: ["Grass"],
@@ -8263,8 +8229,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Grass"],
 	},
 	electivire: {
-		inherit: true,
-		gen: 3,
 		num: 466,
 		name: "Electivire",
 		types: ["Electric"],
@@ -8280,8 +8244,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Human-Like"],
 	},
 	magmortar: {
-		inherit: true,
-		gen: 3,
 		num: 467,
 		name: "Magmortar",
 		types: ["Fire"],
@@ -8297,8 +8259,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Human-Like"],
 	},
 	togekiss: {
-		inherit: true,
-		gen: 3,
 		num: 468,
 		name: "Togekiss",
 		types: ["Fairy", "Flying"],
@@ -8314,8 +8274,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Flying", "Fairy"],
 	},
 	yanmega: {
-		inherit: true,
-		gen: 3,
 		num: 469,
 		name: "Yanmega",
 		types: ["Bug", "Flying"],
@@ -8330,8 +8288,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	leafeon: {
-		inherit: true,
-		gen: 3,
 		num: 470,
 		name: "Leafeon",
 		types: ["Grass"],
@@ -8347,8 +8303,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	glaceon: {
-		inherit: true,
-		gen: 3,
 		num: 471,
 		name: "Glaceon",
 		types: ["Ice"],
@@ -8364,8 +8318,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	gliscor: {
-		inherit: true,
-		gen: 3,
 		num: 472,
 		name: "Gliscor",
 		types: ["Ground", "Flying"],
@@ -8381,8 +8333,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	mamoswine: {
-		inherit: true,
-		gen: 3,
 		num: 473,
 		name: "Mamoswine",
 		types: ["Ice", "Ground"],
@@ -8397,8 +8347,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	porygonz: {
-		inherit: true,
-		gen: 3,
 		num: 474,
 		name: "Porygon-Z",
 		types: ["Normal"],
@@ -8414,8 +8362,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral"],
 	},
 	gallade: {
-		inherit: true,
-		gen: 3,
 		num: 475,
 		name: "Gallade",
 		types: ["Psychic", "Fighting"],
@@ -8448,8 +8394,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		requiredItem: "Galladite",
 	},
 	probopass: {
-		inherit: true,
-		gen: 3,
 		num: 476,
 		name: "Probopass",
 		types: ["Rock", "Steel"],
@@ -8464,8 +8408,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Mineral"],
 	},
 	dusknoir: {
-		inherit: true,
-		gen: 3,
 		num: 477,
 		name: "Dusknoir",
 		types: ["Ghost"],
@@ -8480,8 +8422,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Amorphous"],
 	},
 	froslass: {
-		inherit: true,
-		gen: 3,
 		num: 478,
 		name: "Froslass",
 		types: ["Ice", "Ghost"],
@@ -16473,8 +16413,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		changesFrom: "Calyrex",
 	},
 	wyrdeer: {
-		inherit: true,
-		gen: 3,
 		num: 899,
 		name: "Wyrdeer",
 		types: ["Normal", "Psychic"],
@@ -16489,8 +16427,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	kleavor: {
-		inherit: true,
-		gen: 3,
 		num: 900,
 		name: "Kleavor",
 		types: ["Bug", "Rock"],
@@ -16505,8 +16441,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Bug"],
 	},
 	ursaluna: {
-		inherit: true,
-		gen: 3,
 		num: 901,
 		name: "Ursaluna",
 		types: ["Ground", "Normal"],
@@ -17668,8 +17602,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 2"],
 	},
 	annihilape: {
-		inherit: true,
-		gen: 3,
 		num: 979,
 		name: "Annihilape",
 		types: ["Fighting", "Ghost"],
@@ -17697,8 +17629,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Water 1", "Field"],
 	},
 	farigiraf: {
-		inherit: true,
-		gen: 3,
 		num: 981,
 		name: "Farigiraf",
 		types: ["Normal", "Psychic"],
@@ -17713,8 +17643,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	dudunsparce: {
-		inherit: true,
-		gen: 3,
 		num: 982,
 		name: "Dudunsparce",
 		baseForme: "Two-Segment",
@@ -17732,8 +17660,6 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Field"],
 	},
 	dudunsparcethreesegment: {
-		inherit: true,
-		gen: 3,
 		num: 982,
 		name: "Dudunsparce-Three-Segment",
 		baseSpecies: "Dudunsparce",
